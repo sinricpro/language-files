@@ -1,0 +1,257 @@
+{
+    "language" : "English",
+    "Success" : "Success!",
+    "Refresh" : "Refresh",
+    "Delete" : "Delete",
+    "Edit" : "Edit",
+    "Save" : "Save",
+    "Copy" : "Copy",
+    "How to connect my device" : "How to connect my device ?",
+    "On" : "On",
+    "Off" : "Off",
+    "Power level is" : "Power level is",
+    "Set to" : "Set to",
+    "pages" : {
+        "register" : {
+            "Creating Account" : "Creating Account, Please Wait....",
+            "Create your Sinric Pro Account" : "Create your Sinric Pro Account",
+            "Get started with" : "Get started with 5 devices for free. No limitations.",
+            "Data retention" : "Data retention upto 1 month.",
+            "Access logs" : "Access logs upto 3 days.",
+            "If you need more devices" : "If you need more devices, it's only 3$ per device for a year. ",
+            "Already have an account" : "Already have an account ?",
+            "Login" : "Login",
+            "Full name" : "Full name",
+            "Full name is required" : "Full name is required",
+            "Email" : "Email",
+            "Email is required" : "Email is required",
+            "Password" : "Password",
+            "Password is required" : "Password is required",
+            "Password must be at least 5 characters" : "Password must be at least 5 characters",
+            "Language" : "Language",
+            "Language is required" : "Language is required",
+            "Timezone" : "Timezone",
+            "Timezone is required" : "Timezone is required",
+            "Temperature Scale" : "Temperature Scale",
+            "Temperature Scale is required" : "Temperature Scale is required",
+            "By clicking the" : "By clicking the 'Register' button, you are creating a Register account, and you agree to Register's Terms of Use and Privacy Policy.",
+            "Email Confirmation Required" : "Email Confirmation Required",
+            "We have sent an email" : "We have sent an email with a confirmation link to your email address. If you do not receive a confirmation email",
+            "Please check your spam folder" : "please check your spam folder."
+        },
+        "forgotpassword" : {
+            "Forgot password" : "Forgot password",
+            "Enter your email address" : "Enter your email address and your password will be reset and emailed to you.",
+            "Email address" : "Email address",
+            "Email is required" : "Email is required",
+            "Send me new password" : "Send me a new password",
+            "Send me back" : "send me back",
+            "Forget it" : "Forget it,",
+            "To the sign in screen" : "to the sign in screen"
+        },
+        "login" : {
+            "Email address": "Email address",
+            "Password is required": "Password is required",
+            "Log in": "Log in",
+            "Password" : "Password",
+            "Register": "Register",
+            "Dont have account yet" : "Don't have account yet?",
+            "I forgot password" : "I forgot password",
+            "Username is required" : "Username is required"
+        },
+        "dashboard" : {
+            "Resend" : "Resend",
+            "Waiting" : "Waiting ...",
+            "Turn On" : "Turn On",
+            "Turn Off" : "Turn Off",
+            "Color" : "Color",
+            "Brightness": "Brightness",
+            "Its lonely here" : "It's lonely here.",
+            "To get started add a new device from device tab" : "To get started, add a new device from device tab.",
+            "is online now" : "is online now!",
+            "is offline now" : "is offline now!",
+            "deviceName is powerState now": "$deviceName is $powerState now.",
+            "Please verify email address" : "Please verify your email address to access all of Sinric features",
+            "devices" : "devices",
+            "Ding Dong" : "Ding Dong!",            
+            "Power is" : "Power is",
+            "Temperature" : "Temperature",
+            "Humidity" : "Humidity",
+
+            "smartlock" : {
+                "Lock" : "Lock",
+                "Unlock" : "Unlock",
+                "Locked" : "Locked",
+                "Unlocked" : "Unlocked",
+                "Lock is" : "Lock is"
+            },
+            "light" : {
+                "Brightness" : "Brightness",
+                "Light is" : "Light is",
+                "Brightness set to" : "Brightness set to ",
+                "Color" : "Color "
+            },
+            "switch" : {
+                "Switch is" : "Switch is"
+            },
+            "speaker" : {
+                "Speaker is" : "Speaker is",
+                "Muted" : "Muted",
+                "Mute" : "Mute",
+                "Unmute" : "Unmute",
+                "Volume" : "Volume",
+                "Set volume" : "Set Volume"
+            },
+            "tv" : {
+                "Television is" : "Television is"
+            },
+            "contact" : {
+                "Contact was" : "Contact was",
+                "Contact is" : "Contact is",
+                "At" : "at",
+                "Opened" : "opened",
+                "Closed" : "closed",
+                "Open" : "Open",
+                "Close" : "Close"
+            },
+            "motion" : {
+                "Motion detected" : "Motion detected!",
+                "At" : "at",
+                "Detected" : "Detected",
+                "Not Detected" : "Not detected",
+                "Trigger" : "Trigger"
+            },
+            "fan" : {
+                "Fan is" : "Fan is",
+                "Level set to" : "Level set to",
+                "Set level" : "Set Level",
+                "Level 1" : "1",
+                "Level 2" : "2",
+                "Level 3" : "3"
+            },
+            "acUnit" : {
+                "AC is" : "AC is",
+                "Set to" : "Set to",
+                "Set Tempreature" : "Set Tempreature"
+            },
+            "thermostat" : {
+                "Thermostat is" : "Thermostat is",
+                "Set to" : "Set to",
+                "Set Tempreature" : "Set Tempreature",
+                "Set Point": "Set Point",
+                "Mode": "Mode",
+                "Set Mode": "Set Mode",
+                "Heat": "Heat",
+                "Cool": "Cool",
+                "Auto" : "Auto"
+            },
+            "doorbell" : {
+                "At" : "at",
+                "Doorbell rang" : "Doorbell rang"
+            },
+            "dimmerSwitch" : {
+                "Dimmer switch is" : "Dimmer switch is"                
+            }
+        },
+        "account" : {
+            "Subscriptions" : "Subscriptions",
+            "Subscription Id" : "Subscription Id",
+            "Type" : "Type",
+            "Name" : "Name",
+            "From" : "From",
+            "To" : "To",
+            "Status" : "Status",
+            "Options" : "Options",
+            "Upgrade" : "Upgrade"
+        },
+        "devices" : {
+            "Add Device" : "Add Device",
+            "Click on add device" : "Click on 'Add Device' button to create a new device.",
+            "Device Information" : "Device Information",
+            "Code Download" : "Code Download",
+            "Device Name" : "Device Name",
+            "Device Name is required" : "Device Name is required",
+            "Device Description is required" : "Device Description is required",
+            "Device Access Key is required" : "Device Access Key is required",
+            "Device Type" : "Device Type",
+            "Room" : "Room",
+            "You can generate" : "You can generate the code or use a code example from GitHub repo",
+            "Type" : "Type",
+            "Name" : "Name",
+            "From" : "From",
+            "To" : "To",
+            "Status" : "Status",
+            "Options" : "Options",
+            "Upgrade" : "Upgrade",
+            "Device"  : "Device",
+            "Description" : "Description",
+            "Power State" : "Power State",
+            "Last Connected" : "Last Connected",
+            "Alexa support is limited": "Alexa support is limited to English (US) language for this device type.",
+            "Device Access Key" : "Device Access Key"
+        },
+        "rooms" : {
+            "Add Room" : "Add Room",
+            "Room" : "Room",
+            "Description" : "Description",
+            "Home" : "Home",
+            "Room Information" : "Room Information",
+            "Assign Devices" : "Assign Devices",
+            "Room Name" : "Room Name",
+            "Room Name is required" : "Room Name is required",
+            "Room Description is required" : "Room Description is required"
+        }, 
+        "credential" : {
+            "Your API Keys" : "Your API Keys",
+            "Your App Keys and Secrets" : "Your App Keys and Secrets",
+            "New API Key" : "New API Key",
+            "New App Key and Secret" : "New App Key and Secret",
+            "App Key" : "App Key",
+            "App Secret" : "App Secret",
+            "Name" : "Name",
+            "Created On" : "Created On",
+            "Please copy your api" : "Please copy your api key and keep secret in a safe place without sharing with anyone else. Publicly exposing your credentials can result in your account being compromised, which could lead to unexpected charges on your account.",
+            "API Key" : "API Key",
+            
+            "Name is required" : "Name is required",
+            "Application name" : "Application name"
+        },
+        "whatsnew" : {
+            "Release Log" : "Release Log",
+            "Future Plans" : "Future Plans"
+        },
+        "activitylog" : {
+            "IP Address" : "IP Address",
+            "Location" : "Location",
+            "App Name" : "App Name",
+            "Activity" : "Activity",
+            "Device Name" : "Device Name",
+            "Timestamp" : "Timestamp",
+            "Last 15 activities" : "Last 15 activities for last 3 days"
+        }
+    },
+    "sidemenu" : {
+        "Dashboard" : "Dashboard",
+        "Devices" : "Devices",
+        "Rooms" : "Rooms",
+        "Credentials" : "Credentials",
+        "Whats New" : "What's New",
+        "Account" : "Account",
+        "Activity Log" : "Activity Log",
+        "Sign out" : "Sign out",
+        "Collapse Sidebar" : "Collapse Sidebar"
+    },
+    "header" : {
+        "Tutorials": "Tutorials",
+        "API Documentation" : "API Documentation"
+    }
+    
+     
+    
+    
+    
+    
+    
+
+
+}
