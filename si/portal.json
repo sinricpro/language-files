@@ -1,0 +1,246 @@
+{
+    "language": "ඉංග්රීසි",
+    "Success": "සාර්ථකත්වය!",
+    "Refresh": "නැවුම් කරන්න",
+    "Delete": "මකන්න",
+    "Edit": "සංස්කරණය කරන්න",
+    "Save": "සුරකින්න",
+    "Copy": "පිටපත් කරන්න",
+    "How to connect my device": "මගේ උපාංගය සම්බන්ධ කරන්නේ කෙසේද?",
+    "On": "මත",
+    "Off": "අක්‍රියයි",
+    "Power level is": "බල මට්ටම",
+    "Set to": "ලෙස සකසන්න",
+    "pages": {
+        "register": {
+            "Creating Account": "ගිණුමක් නිර්මාණය කිරීම, කරුණාකර රැඳී සිටින්න ....",
+            "Create your Sinric Pro Account": "ඔබේ සින්රික් ප්‍රෝ ගිණුම සාදන්න",
+            "Get started with": "නොමිලේ උපාංග 5 කින් ආරම්භ කරන්න. සීමාවන් නොමැත.",
+            "Data retention": "මාස 1 දක්වා දත්ත රඳවා තබා ගැනීම.",
+            "Access logs": "දින 3 ක් දක්වා ලොග් වෙත ප්‍රවේශ වන්න.",
+            "If you need more devices": "ඔබට තවත් උපාංග අවශ්‍ය නම්, එය වසරකට එක් උපාංගයකට 3 only ක් පමණි.",
+            "Already have an account": "දැනටමත් ගිණුමක් තිබේද?",
+            "Login": "ඇතුල් වන්න",
+            "Full name": "සම්පූර්ණ නම",
+            "Full name is required": "සම්පූර්ණ නම අවශ්‍යයි",
+            "Email": "විද්යුත් තැපෑල",
+            "Email is required": "විද්‍යුත් තැපෑල අවශ්‍යයි",
+            "Password": "රහස් පදය",
+            "Password is required": "මුරපදය අවශ්යයි",
+            "Password must be at least 5 characters": "මුරපදය අවම වශයෙන් අක්ෂර 5 ක් විය යුතුය",
+            "Language": "භාෂාව",
+            "Language is required": "භාෂාව අවශ්‍යයි",
+            "Timezone": "වේලා කලාපය",
+            "Timezone is required": "කාල කලාපය අවශ්‍යයි",
+            "Temperature Scale": "උෂ්ණත්ව පරිමාණය",
+            "Temperature Scale is required": "උෂ්ණත්ව පරිමාණය අවශ්‍ය වේ",
+            "By clicking the": "'රෙජිස්ටර්' බොත්තම ක්ලික් කිරීමෙන්, ඔබ රෙජිස්ටර් ගිණුමක් නිර්මාණය කරන අතර, රෙජිස්ටර්ගේ භාවිත නියමයන් සහ රහස්‍යතා ප්‍රතිපත්තියට ඔබ එකඟ වේ.",
+            "Email Confirmation Required": "විද්‍යුත් තැපැල් තහවුරු කිරීම අවශ්‍යයි",
+            "We have sent an email": "ඔබගේ විද්‍යුත් තැපැල් ලිපිනයට තහවුරු කිරීමේ සබැඳියක් සහිත ඊ-තැපෑලක් අපි යවා ඇත්තෙමු. ඔබට තහවුරු කිරීමේ ඊ-තැපෑලක් නොලැබුනේ නම්",
+            "Please check your spam folder": "කරුණාකර ඔබගේ අයාචිත තැපැල් ෆෝල්ඩරය පරීක්ෂා කරන්න."
+        },
+        "forgotpassword": {
+            "Forgot password": "මුරපදය අමතක වුණා ද",
+            "Enter your email address": "ඔබගේ විද්‍යුත් තැපැල් ලිපිනය ඇතුළත් කරන්න, ඔබගේ මුරපදය නැවත සකසා ඔබට විද්‍යුත් තැපැල් කරනු ලැබේ.",
+            "Email address": "විද්යුත් තැපැල් ලිපිනය",
+            "Email is required": "විද්‍යුත් තැපෑල අවශ්‍යයි",
+            "Send me new password": "මට නව මුරපදයක් එවන්න",
+            "Send me back": "මාව ආපහු එවන්න",
+            "Forget it": "එය අමතක කරන්න,",
+            "To the sign in screen": "පුරනය වීමේ තිරයට"
+        },
+        "login": {
+            "Email address": "විද්යුත් තැපැල් ලිපිනය",
+            "Password is required": "මුරපදය අවශ්යයි",
+            "Log in": "ඇතුල් වන්න",
+            "Password": "රහස් පදය",
+            "Register": "ලියාපදිංචි වන්න",
+            "Dont have account yet": "තවම ගිණුමක් නැද්ද?",
+            "I forgot password": "මට මුරපදය අමතක විය",
+            "Username is required": "පරිශීලක නාමය අවශ්‍ය වේ"
+        },
+        "dashboard": {
+            "Resend": "නැවත යවන්න",
+            "Waiting": "ඉන්නවා ...",
+            "Turn On": "ක්රියාත්මක කරන්න",
+            "Turn Off": "වසා දමන්න",
+            "Color": "වර්ණ",
+            "Brightness": "දීප්තිය",
+            "Its lonely here": "ඒක මෙතන තනිකමක්.",
+            "To get started add a new device from device tab": "ආරම්භ කිරීමට, උපාංග පටිත්තෙන් නව උපාංගයක් එක් කරන්න.",
+            "is online now": "දැන් මාර්ගගතව ඇත!",
+            "is offline now": "දැන් නොබැඳි!",
+            "deviceName is powerState now": "$ deviceName දැන් $ powerState වේ.",
+            "Please verify email address": "සියලුම සින්රික් විශේෂාංග වෙත ප්‍රවේශ වීමට කරුණාකර ඔබගේ විද්‍යුත් තැපැල් ලිපිනය සත්‍යාපනය කරන්න",
+            "devices": "උපකරණ",
+            "Ding Dong": "ඩිං ඩොං!",
+            "Power is": "බලය යනු",
+            "Temperature": "උෂ්ණත්වය",
+            "Humidity": "ආර්ද්‍රතාවය",
+            "smartlock": {
+                "Lock": "අගුලු දමන්න",
+                "Unlock": "අගුළු ඇරීම",
+                "Locked": "අගුළු දමා ඇත",
+                "Unlocked": "අගුළු හරින ලදි",
+                "Lock is": "අගුලයි"
+            },
+            "light": {
+                "Brightness": "දීප්තිය",
+                "Light is": "ආලෝකය වේ",
+                "Brightness set to": "දීප්තිය සකසා ඇත",
+                "Color": "වර්ණ"
+            },
+            "switch": {
+                "Switch is": "ස්විචය වේ"
+            },
+            "speaker": {
+                "Speaker is": "කථානායක",
+                "Muted": "නිශ්ශබ්ද විය",
+                "Mute": "නිශ්ශබ්ද කරන්න",
+                "Unmute": "නිශ්ශබ්ද කරන්න",
+                "Volume": "පරිමාව",
+                "Set volume": "පරිමාව සකසන්න"
+            },
+            "tv": {
+                "Television is": "රූපවාහිනිය"
+            },
+            "contact": {
+                "Contact was": "සම්බන්ධතා විය",
+                "Contact is": "සම්බන්ධතා වේ",
+                "At": "හිදී",
+                "Opened": "විවෘත කළා",
+                "Closed": "වසා ඇත",
+                "Open": "විවෘත",
+                "Close": "වසන්න"
+            },
+            "motion": {
+                "Motion detected": "චලනය අනාවරණය විය!",
+                "At": "හිදී",
+                "Detected": "අනාවරණය විය",
+                "Not Detected": "අනාවරණය නොවිණි",
+                "Trigger": "ප්‍රේරකය"
+            },
+            "fan": {
+                "Fan is": "පංකා යනු",
+                "Level set to": "මට්ටම සකසා ඇත",
+                "Set level": "මට්ටම සකසන්න",
+                "Level 1": "1",
+                "Level 2": "2",
+                "Level 3": "3"
+            },
+            "acUnit": {
+                "AC is": "ඒසී ය",
+                "Set to": "ලෙස සකසන්න",
+                "Set Tempreature": "උෂ්ණත්වය සැකසීම"
+            },
+            "thermostat": {
+                "Thermostat is": "තාප ස්ථාය වේ",
+                "Set to": "ලෙස සකසන්න",
+                "Set Tempreature": "උෂ්ණත්වය සැකසීම",
+                "Set Point": "සෙට් පොයින්ට්",
+                "Mode": "මාදිලිය",
+                "Set Mode": "ප්‍රකාරය සකසන්න",
+                "Heat": "තාපය",
+                "Cool": "සිසිල්",
+                "Auto": "ස්වයංක්‍රීය"
+            },
+            "doorbell": {
+                "At": "හිදී",
+                "Doorbell rang": "ඩෝර්බෙල් නාද විය"
+            },
+            "dimmerSwitch": {
+                "Dimmer switch is": "අඳුරු ස්විචය වේ"
+            }
+        },
+        "account": {
+            "Subscriptions": "දායකත්වයන්",
+            "Subscription Id": "දායක හැඳුනුම්පත",
+            "Type": "වර්ගය",
+            "Name": "නම",
+            "From": "සිට",
+            "To": "වෙත",
+            "Status": "තත්ත්වය",
+            "Options": "විකල්ප",
+            "Upgrade": "උත්ශ්‍රේණි කරන්න"
+        },
+        "devices": {
+            "Add Device": "උපාංගය එක් කරන්න",
+            "Click on add device": "නව උපාංගයක් නිර්මාණය කිරීමට 'උපාංගය එක් කරන්න' බොත්තම ක්ලික් කරන්න.",
+            "Device Information": "උපාංග තොරතුරු",
+            "Code Download": "කේත බාගත කිරීම",
+            "Device Name": "උපාංගයේ නම",
+            "Device Name is required": "උපාංගයේ නම අවශ්‍යයි",
+            "Device Description is required": "උපාංග විස්තරය අවශ්‍ය වේ",
+            "Device Access Key is required": "උපාංග ප්‍රවේශ යතුර අවශ්‍ය වේ",
+            "Device Type": "උපාංග වර්ගය",
+            "Room": "කාමරය",
+            "You can generate": "ඔබට කේතය ජනනය කිරීමට හෝ GitHub repo වෙතින් කේත උදාහරණයක් භාවිතා කළ හැකිය",
+            "Type": "වර්ගය",
+            "Name": "නම",
+            "From": "සිට",
+            "To": "වෙත",
+            "Status": "තත්ත්වය",
+            "Options": "විකල්ප",
+            "Upgrade": "උත්ශ්‍රේණි කරන්න",
+            "Device": "උපාංගය",
+            "Description": "විස්තර",
+            "Power State": "බල රාජ්‍යය",
+            "Last Connected": "අවසන් වරට සම්බන්ධ විය",
+            "Alexa support is limited": "මෙම උපාංග වර්ගය සඳහා ඇලෙක්සා සහාය ඉංග්‍රීසි (එක්සත් ජනපද) භාෂාවට සීමා වේ.",
+            "Device Access Key": "උපාංග ප්‍රවේශ යතුර"
+        },
+        "rooms": {
+            "Add Room": "කාමරය එක් කරන්න",
+            "Room": "කාමරය",
+            "Description": "විස්තර",
+            "Home": "ගෙදර",
+            "Room Information": "කාමර තොරතුරු",
+            "Assign Devices": "උපාංග පැවරීම",
+            "Room Name": "කාමරයේ නම",
+            "Room Name is required": "කාමරයේ නම අවශ්‍යයි",
+            "Room Description is required": "කාමර විස්තරය අවශ්ය වේ"
+        },
+        "credential": {
+            "Your API Keys": "ඔබගේ API යතුරු",
+            "Your App Keys and Secrets": "ඔබගේ යෙදුම් යතුරු සහ රහස්",
+            "New API Key": "නව API යතුර",
+            "New App Key and Secret": "නව යෙදුම් යතුර සහ රහස",
+            "App Key": "යෙදුම් යතුර",
+            "App Secret": "යෙදුම් රහස",
+            "Name": "නම",
+            "Created On": "නිර්මාණය කරන ලදි",
+            "Please copy your api": "කරුණාකර ඔබගේ api යතුර පිටපත් කර වෙනත් කිසිවෙකු සමඟ බෙදා නොගෙන ආරක්ෂිත ස්ථානයක රහසිගතව තබා ගන්න. ඔබගේ අක්තපත්‍ර ප්‍රසිද්ධියේ නිරාවරණය කිරීමෙන් ඔබගේ ගිණුම අඩපණ විය හැකි අතර එමඟින් ඔබගේ ගිණුමේ අනපේක්ෂිත ගාස්තු අය විය හැකිය.",
+            "API Key": "API යතුර",
+            "Name is required": "නම අවශ්‍යයි",
+            "Application name": "අයදුම්පත්රයේ නම"
+        },
+        "whatsnew": {
+            "Release Log": "ලොගය මුදා හරින්න",
+            "Future Plans": "අනාගත සැලැස්ම"
+        },
+        "activitylog": {
+            "IP Address": "IP ලිපිනය",
+            "Location": "ස්ථානය",
+            "App Name": "යෙදුමේ නම",
+            "Activity": "ක්‍රියාකාරකම",
+            "Device Name": "උපාංගයේ නම",
+            "Timestamp": "කාලරාමුව",
+            "Last 15 activities": "පසුගිය දින 3 සඳහා අවසන් ක්‍රියාකාරකම් 15 ක්"
+        }
+    },
+    "sidemenu": {
+        "Dashboard": "උපකරණ පුවරුව",
+        "Devices": "උපකරණ",
+        "Rooms": "කාමර",
+        "Credentials": "අක්තපත්‍ර",
+        "Whats New": "මොනවද අළුත්",
+        "Account": "ගිණුම",
+        "Activity Log": "ක්‍රියාකාරකම් ලොගය",
+        "Sign out": "වරන්න",
+        "Collapse Sidebar": "පැති තීරුව බිඳ දමන්න"
+    },
+    "header": {
+        "Tutorials": "නිබන්ධන",
+        "API Documentation": "API ප්‍රලේඛනය"
+    }
+}
