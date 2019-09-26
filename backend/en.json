@@ -1,84 +1,55 @@
-{
-    "ok": "Ok.",
-    "internalError": "Internal error.",
-    "unauthorized" : "Unauthorized!",
-    "refreshTokenNotFound": "Refresh token not found.",
-
-    "apiKeyNotFound" : "API Key is invalid or unauthorized!",
-    "appKeyNotFound" : "App Key is invalid or unauthorized!",    
-
-    "recordDoesNotExist": "Record not found.",
-    "recordIdIsMissing": "Record id is missing.",
-    
-    "homeNameExist": "Home name exist.",
-    "homeDoesNotExist": "Home does not exist.",
-
-    "roomNameExist": "Room name exist.",
-    "roomNameNotExist": "Room does not exist.",
-
-    "accountExist": "That email already exisits!",
-    "accountNotExist": "Incorrect username or password.",
-    "accountIsLock": "Your account has been locked for security purposes.",
-    "accountNotFound": "Account not found.",
-        
-
-    "subscriptionExist": "Subscription name exist.",
-    "subscriptionDoesNotExist": "Subscription does not exist.",
-    "manufacturerIdNotFound": "The manufacturer id not found.",
-
-    "subscriptionTypeDoesNotExist": "Subscription type does not exist.",
-    "subscriptionTypeIsNotTrialing": "Subscription type must be trialing.",
-
-    "manufacturerNotExist": "Manufacturer does not exist.",    
-
-    "productNameExist": "Product name exist.",
-    "productNameNotExist": "Product does not exist.",
-
-    "productTypeExist": "Product type name exist.",
-    "productTypeNotExist": "Product type does not exist.",
-
-    "deviceNameExist": "Device name exist.",
-    "deviceNameDoesNotExist": "Device does not exist.",
-    "deviceIsOffline": "Device is offline.",
-
-    "messageTypeDoesNotDoesNotExist": "Message type does not exist.",
-
-    "credentialNameExist": "Credential name exist.",
-
-    "credentialCreated": "Credential [%s] created.",
-    "credentialRemoved": "Credential [%s] removed.",
-    "loginViaApiKey": "Login via API key: [%s]",
-    "loginViaAppKey": "Login via App key: [%s]",
-    "loginWithUsernameAndPassword": "Login with username and password",
-    "actionOnDevice": "Action [%s] on [%s] device",
-    "deviceCreated": "Device [%s] created",
-    "deviceDeleted": "Device [%s] deleted",
-
-    "invalidUnixTimestamp": "Invalid Unix timestamp.",
-    "unixTimestampIsTooOld": "Invalid Signature. The timestamp is to old, it must be at most 1 min before the servers current date and time.",
-    "invalidSignature": "Invalid Signature. Calculated (%s) vs Payload (%s))",
-
-    "incorrectEmailOrPassword": "Incorrect email or password.",
-
-    "resetPasswordSuccess": "We just sent you an email with instructions for how to reset your password and log into your account.",
-    
-    "deviceIdDoesNotMatchWithConnectedDeviceIds": "Incoming message device id does not match with any of your connected device's ids. Check the JSON message's device id",
-
-    "deviceReturnedAnError": "Device returned an error.",
-
-    "okYourMessageHasBeenQueuedForProcessing": "OK. Your message has been queued for processing.",
-
-    "accessKeyIsAlreadyInUse": "Access key is already in use. Please delete the associated devices first.",
-
-    "accessKeyDoesNotExist": "Access key does not exist.",
-
-    "invalidMessageFormat": "Invalid message format: %s",
-
-    "messageTypeNotFoundOrSupported": "Message type is not found or supported",
-
-    "licenseNotFound" : "License not found",
-
-    "yourAccountHasExceededMax" : "Your account has exceeded the maximum number of registered devices. You can buy more devices from Account menu"
-    
-    
+{ 
+   "ok":"Ok.",
+   "internalError":"Internal error.",
+   "unauthorized":"Unauthorized!",
+   "refreshTokenNotFound":"Refresh token not found.",
+   "apiKeyNotFound":"API Key is invalid or unauthorized!",
+   "appKeyNotFound":"App Key is invalid or unauthorized!",
+   "recordDoesNotExist":"Record not found.",
+   "recordIdIsMissing":"Record id is missing.",
+   "homeNameExist":"Home name exist.",
+   "homeDoesNotExist":"Home does not exist.",
+   "roomNameExist":"Room name exist.",
+   "roomNameNotExist":"Room does not exist.",
+   "accountExist":"That email already exisits!",
+   "accountNotExist":"Incorrect username or password.",
+   "accountIsLock":"Your account has been locked for security purposes.",
+   "accountNotFound":"Account not found.",
+   "subscriptionExist":"Subscription name exist.",
+   "subscriptionDoesNotExist":"Subscription does not exist.",
+   "manufacturerIdNotFound":"The manufacturer id not found.",
+   "subscriptionTypeDoesNotExist":"Subscription type does not exist.",
+   "subscriptionTypeIsNotTrialing":"Subscription type must be trialing.",
+   "manufacturerNotExist":"Manufacturer does not exist.",
+   "productNameExist":"Product name exist.",
+   "productNameNotExist":"Product does not exist.",
+   "productTypeExist":"Product type name exist.",
+   "productTypeNotExist":"Product type does not exist.",
+   "deviceNameExist":"Device name exist.",
+   "deviceNameDoesNotExist":"Device does not exist.",
+   "deviceIsOffline":"Device is offline.",
+   "messageTypeDoesNotDoesNotExist":"Message type does not exist.",
+   "credentialNameExist":"Credential name exist.",
+   "credentialCreated":"Credential [%s] created.",
+   "credentialRemoved":"Credential [%s] removed.",
+   "loginViaApiKey":"Login via API key: [%s]",
+   "loginViaAppKey":"Login via App key: [%s]",
+   "loginWithUsernameAndPassword":"Login with username and password",
+   "actionOnDevice":"Action [%s] on [%s] device",
+   "deviceCreated":"Device [%s] created",
+   "deviceDeleted":"Device [%s] deleted",
+   "invalidUnixTimestamp":"Invalid Unix timestamp.",
+   "unixTimestampIsTooOld":"Invalid Signature. The timestamp is to old, it must be at most 1 min before the servers current date and time.",
+   "invalidSignature":"Invalid Signature. Calculated (%s) vs Payload (%s))",
+   "incorrectEmailOrPassword":"Incorrect email or password.",
+   "resetPasswordSuccess":"We just sent you an email with instructions for how to reset your password and log into your account.",
+   "deviceIdDoesNotMatchWithConnectedDeviceIds":"Incoming message device id does not match with any of your connected device's ids. Check the JSON message's device id",
+   "deviceReturnedAnError":"Device returned an error.",
+   "okYourMessageHasBeenQueuedForProcessing":"OK. Your message has been queued for processing.",
+   "accessKeyIsAlreadyInUse":"Access key is already in use. Please delete the associated devices first.",
+   "accessKeyDoesNotExist":"Access key does not exist.",
+   "invalidMessageFormat":"Invalid message format: %s",
+   "messageTypeNotFoundOrSupported":"Message type is not found or supported",
+   "licenseNotFound":"License not found",
+   "yourAccountHasExceededMax":"Your account has exceeded the maximum number of registered devices. You can buy more devices from Account menu"
 }
