@@ -1,0 +1,246 @@
+{ 
+   "language":"ಕನ್ನಡ",
+   "Success":"ಯಶಸ್ಸು!",
+   "Refresh":"ರಿಫ್ರೆಶ್",
+   "Delete":"ಅಳಿಸಿ",
+   "Edit":"ಎಡಿಟ್",
+   "Save":"ಉಳಿಸಿ",
+   "Copy":"ನಕಲಿಸಿ",
+   "How to connect my device":"ನನ್ನ ಡಿವೈಸ್ ಹೇಗೆ ಸಂಪರ್ಕಿಸುವುದು ?",
+   "On":"ಆನ್",
+   "Off":"ಆರಿಸಿ",
+   "Power level is":"ವಿದ್ಯುತ್ ಮಟ್ಟ",
+   "Set to":"ಗೆ ಹೊಂದಿಸಿ",
+   "pages":{ 
+      "register":{ 
+         "Creating Account":"ಖಾತೆಯನ್ನು ರಚಿಸಲಾಗುತ್ತಿದೆ, ದಯವಿಟ್ಟು ಕಾಯಿರಿ....",
+         "Create your Sinric Pro Account":"ನಿಮ್ಮ ಸಿನ್ರಿಕ್ ಪ್ರೊ ಖಾತೆಯನ್ನು ರಚಿಸಿ",
+         "Get started with":"5 ಡಿವೈಸ್ ಗಳೊಂದಿಗೆ ಉಚಿತವಾಗಿ ಪ್ರಾರಂಭಿಸಿ. ಯಾವುದೇ ಮಿತಿಗಳಿಲ್ಲ.",
+         "Data retention":"1 ತಿಂಗಳವರೆಗೆ ಡೇಟಾ ಧಾರಣ.",
+         "Access logs":"3 ದಿನಗಳವರೆಗೆ ಲಾಗ್‌ಗಳನ್ನು ಪ್ರವೇಶಿಸಿ.",
+         "If you need more devices":"ನಿಮಗೆ ಹೆಚ್ಚಿನ ಸಾಧನಗಳು ಬೇಕಾದರೆ, ಅದು ಒಂದು ಸಾಧನಕ್ಕೆ ಕೇವಲ 3 $ ಮಾತ್ರ. ",
+         "Already have an account":"ಈಗಾಗಲೇ ಖಾತೆ ಹೊಂದಿದ್ದೀರ ?",
+         "Login":"ಲಾಗಿನ್ ಮಾಡಿ",
+         "Full name":"ಪೂರ್ಣ ಹೆಸರು",
+         "Full name is required":"ಪೂರ್ಣ ಹೆಸರು ಅಗತ್ಯವಿದೆ",
+         "Email":"ಇಮೇಲ್",
+         "Email is required":"ಇಮೇಲ್ ಅಗತ್ಯವಿದೆ",
+         "Password":"ಗುಪ್ತಪದ",
+         "Password is required":"ಗುಪ್ತಪದದ ಅಗತ್ಯವಿದೆ",
+         "Password must be at least 5 characters":"ಪಾಸ್ವರ್ಡ್ ಕನಿಷ್ಠ 5 ಅಕ್ಷರಗಳಾಗಿರಬೇಕು",
+         "Language":"ಭಾಷೆ",
+         "Language is required":"ಭಾಷೆ ಅಗತ್ಯವಿದೆ",
+         "Timezone":"ಸಮಯ ವಲಯ",
+         "Timezone is required":"ಸಮಯವಲಯದ ಅಗತ್ಯವಿದೆ",
+         "Temperature Scale":"ತಾಪಮಾನ ಮಾಪಕ",
+         "Temperature Scale is required":"ತಾಪಮಾನ ಮಾಪಕ ಅಗತ್ಯವಿದೆ ",
+         "By clicking the":"'ರಿಜಿಸ್ಟರ್' ಬಟನ್ ಕ್ಲಿಕ್ ಮಾಡುವ ಮೂಲಕ, ನೀವು ರಿಜಿಸ್ಟರ್ ಖಾತೆಯನ್ನು ರಚಿಸುತ್ತಿದ್ದೀರಿ ಮತ್ತು ರಿಜಿಸ್ಟರ್‌ನ ಬಳಕೆಯ ನಿಯಮಗಳು ಮತ್ತು ಗೌಪ್ಯತೆ ನೀತಿಯನ್ನು ನೀವು ಒಪ್ಪುತ್ತೀರಿ.",
+         "Email Confirmation Required":"ಇಮೇಲ್ ದೃಢೀಕರಣ ಅಗತ್ಯವಿದೆ",
+         "We have sent an email":"ನಿಮ್ಮ ಇಮೇಲ್ ವಿಳಾಸಕ್ಕೆ ದೃಢೀಕರಣ ಲಿಂಕ್‌ನೊಂದಿಗೆ ನಾವು ಇಮೇಲ್ ಕಳುಹಿಸಿದ್ದೇವೆ. ನೀವು ದೃಢೀಕರಣ ಇಮೇಲ್ ಸ್ವೀಕರಿಸದಿದ್ದರೆ",
+         "Please check your spam folder":"ದಯವಿಟ್ಟು ನಿಮ್ಮ ಸ್ಪ್ಯಾಮ್ ಫೋಲ್ಡರ್ ಪರಿಶೀಲಿಸಿ."
+      },
+      "forgotpassword":{ 
+         "Forgot password":"ಪಾಸ್ವರ್ಡ್ ಮರೆತಿರಾ",
+         "Enter your email address":"ನಿಮ್ಮ ಇಮೇಲ್ ವಿಳಾಸವನ್ನು ನಮೂದಿಸಿ ಮತ್ತು ನಿಮ್ಮ ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ಮರುಹೊಂದಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ನಿಮಗೆ ಇಮೇಲ್ ಮಾಡಲಾಗುತ್ತದೆ.",
+         "Email address":"ಇಮೇಲ್ ವಿಳಾಸ",
+         "Email is required":"ಇಮೇಲ್ ಅಗತ್ಯವಿದೆ",
+         "Send me new password":"ನನಗೆ ಹೊಸ ಪಾಸ್‌ವರ್ಡ್ ಕಳುಹಿಸಿ",
+         "Send me back":"ನನ್ನನ್ನು ಹಿಂದಕ್ಕೆ ಕಳುಹಿಸಿ",
+         "Forget it":"ಮರೆತುಬಿಡು.",
+         "To the sign in screen":"ಸೈನ್ ಇನ್ ಪರದೆಯಲ್ಲಿ"
+      },
+      "login":{ 
+         "Email address":"ಇಮೇಲ್ ವಿಳಾಸ",
+         "Password is required":"ಗುಪ್ತಪದದ ಅಗತ್ಯವಿದೆ",
+         "Log in":"ಲಾಗಿನ್",
+         "Password":"ಗುಪ್ತಪದ",
+         "Register":"ನೋಂದಣಿ",
+         "Dont have account yet":"ಇನ್ನೂ ಖಾತೆ ಇಲ್ಲವೇ?",
+         "I forgot password":"ನಾನು ಪಾಸ್ವರ್ಡ್ ಮರೆತಿದ್ದೇನೆ",
+         "Username is required":"ಬಳಕೆದಾರಹೆಸರು ಅಗತ್ಯವಿದೆ"
+      },
+      "dashboard":{ 
+         "Resend":"ಮರುಹೊಂದಿಸಿ",
+         "Waiting":"ಕಾಯಲಾಗುತ್ತಿದೆ ...",
+         "Turn On":"ಆನ್ ಮಾಡಿ",
+         "Turn Off":"ಆರಿಸು",
+         "Color":"ಬಣ್ಣ",
+         "Brightness":"ಹೊಳಪು",
+         "Its lonely here":"ಇದು ಇಲ್ಲಿ ಒಂಟಿಯಾಗಿದೆ.",
+         "To get started add a new device from device tab":"ಪ್ರಾರಂಭಿಸಲು, ಸಾಧನ ಟ್ಯಾಬ್‌ನಿಂದ ಹೊಸ ಸಾಧನವನ್ನು ಸೇರಿಸಿ.",
+         "is online now":"ಈಗ ಆನ್‌ಲೈನ್‌ನಲ್ಲಿದೆ!",
+         "is offline now":"ಈಗ ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿದೆ!",
+         "deviceName is powerState now":"$ಸಾಧನದ ಹೆಸರು ಈಗ $ಪವರ್‌ಸ್ಟೇಟ್ ಆಗಿದೆ.",
+         "Please verify email address":"ಎಲ್ಲಾ ಸಿನ್ರಿಕ್ ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಪ್ರವೇಶಿಸಲು ದಯವಿಟ್ಟು ನಿಮ್ಮ ಇಮೇಲ್ ವಿಳಾಸವನ್ನು ಪರಿಶೀಲಿಸಿ",
+         "devices":"ಸಾಧನಗಳು",
+         "Ding Dong":"ಡಿಂಗ್ ಡಾಂಗ್!",
+         "Power is":"ಶಕ್ತಿಯು",
+         "Temperature":"ತಾಪಮಾನ",
+         "Humidity":"ಆರ್ದ್ರತೆ",
+         "smartlock":{ 
+            "Lock":"ಲಾಕ್",
+            "Unlock":"ಅನ್ಲಾಕ್ ",
+            "Locked":"ಲಾಕ್ ಮಾಡಲಾಗಿದೆ",
+            "Unlocked":"ಅನ್ಲಾಕ್ ಮಾಡಲಾಗಿದೆ",
+            "Lock is":"ಲಾಕ್ ಆಗಿದೆ"
+         },
+         "light":{ 
+            "Brightness":"ಹೊಳಪು",
+            "Light is":"ಬೆಳಕು",
+            "Brightness set to":"ಪ್ರಕಾಶಮಾನತೆಯನ್ನು ಹೊಂದಿಸಲಾಗಿದೆ",
+            "Color":"ಬಣ್ಣ"
+         },
+         "switch":{ 
+            "Switch is":"ಸ್ವಿಚ್"
+         },
+         "speaker":{ 
+            "Speaker is":"ಸ್ಪೀಕರ್",
+            "Muted":"ಮ್ಯೂಟ್ ಮಾಡಲಾಗಿದೆ",
+            "Mute":"ಮ್ಯೂಟ್",
+            "Unmute":"ಅನ್‌ಮ್ಯೂಟ್",
+            "Volume":"ಸಂಪುಟ",
+            "Set volume":"ಪರಿಮಾಣವನ್ನು ಹೊಂದಿಸಿ"
+         },
+         "tv":{ 
+            "Television is":"ಟೆಲಿವಿಷನ್ ಆಗಿದೆ"
+         },
+         "contact":{ 
+            "Contact was":"ಸಂಪರ್ಕವಾಗಿತ್ತು",
+            "Contact is":"ಸಂಪರ್ಕ",
+            "At":"ನಲ್ಲಿ",
+            "Opened":"ತೆರೆಯಲಾಗಿದೆ",
+            "Closed":"ಮುಚ್ಚಲಾಗಿದೆ",
+            "Open":"ತೆರೆಯಿರಿ",
+            "Close":"ಮುಚ್ಚಿ"
+         },
+         "motion":{ 
+            "Motion detected":"ಚಲನೆ ಪತ್ತೆಯಾಗಿದೆ!",
+            "At":"ನಲ್ಲಿ",
+            "Detected":"ಪತ್ತೆಯಾಗಿದೆ",
+            "Not Detected":"ಪತ್ತೆಯಾಗಲಿಲ್ಲ",
+            "Trigger":"ಪ್ರಚೋದಕ"
+         },
+         "fan":{ 
+            "Fan is":"ಅಭಿಮಾನಿ",
+            "Level set to":"ಮಟ್ಟವನ್ನು ಹೊಂದಿಸಲಾಗಿದೆ",
+            "Set level":"ಮಟ್ಟವನ್ನು ಹೊಂದಿಸಿ",
+            "Level 1":"1",
+            "Level 2":"2",
+            "Level 3":"3"
+         },
+         "acUnit":{ 
+            "AC is":"ಎಸಿ ಆಗಿದೆ",
+            "Set to":"ಗೆ ಹೊಂದಿಸಿ",
+            "Set Tempreature":"ತಾಪಮಾನವನ್ನು ಹೊಂದಿಸಿ"
+         },
+         "thermostat":{ 
+            "Thermostat is":"ಥರ್ಮೋಸ್ಟಾಟ್ ಆಗಿದೆ",
+            "Set to":"ಗೆ ಹೊಂದಿಸಿ",
+            "Set Tempreature":"ತಾಪಮಾನವನ್ನು ಹೊಂದಿಸಿ",
+            "Set Point":"ಸೆಟ್ ಪಾಯಿಂಟ್",
+            "Mode":"ಮೋಡ್",
+            "Set Mode":"ಮೋಡ್ ಅನ್ನು ಹೊಂದಿಸಿ",
+            "Heat":"ಶಾಖ",
+            "Cool":"ಕೂಲ್",
+            "Auto":"ಆಟೋ"
+         },
+         "doorbell":{ 
+            "At":"ನಲ್ಲಿ",
+            "Doorbell rang":"ಡೋರ್ಬೆಲ್ ರಿಂಗಾಯಿತು"
+         },
+         "dimmerSwitch":{ 
+            "Dimmer switch is":"ಡಿಮ್ಮರ್ ಸ್ವಿಚ್ ಆಗಿದೆ"
+         }
+      },
+      "account":{ 
+         "Subscriptions":"ಚಂದಾದಾರಿಕೆಗಳು",
+         "Subscription Id":"ಚಂದಾದಾರಿಕೆ ಐಡಿ",
+         "Type":"ಮಾದರಿ",
+         "Name":"ಹೆಸರು",
+         "From":"ಇಂದ",
+         "To":"ಗೆ",
+         "Status":"ಸ್ಥಿತಿ",
+         "Options":"ಆಯ್ಕೆಗಳು",
+         "Upgrade":"ನವೀಕರಿಸಿ"
+      },
+      "devices":{ 
+         "Add Device":"ಸಾಧನವನ್ನು ಸೇರಿಸಿ",
+         "Click on add device":"ಹೊಸ ಸಾಧನವನ್ನು ರಚಿಸಲು 'ಸಾಧನವನ್ನು ಸೇರಿಸಿ' ಬಟನ್ ಕ್ಲಿಕ್ ಮಾಡಿ.",
+         "Device Information":"ಸಾಧನ ಮಾಹಿತಿ",
+         "Code Download":"ಕೋಡ್ ಡೌನ್‌ಲೋಡ್",
+         "Device Name":"ಸಾಧನದ ಹೆಸರು",
+         "Device Name is required":"ಸಾಧನದ ಹೆಸರು ಅಗತ್ಯವಿದೆ",
+         "Device Description is required":"ಸಾಧನದ ವಿವರಣೆ ಅಗತ್ಯವಿದೆ",
+         "Device Access Key is required":"ಸಾಧನ ಪ್ರವೇಶ ಕೀ ಅಗತ್ಯವಿದೆ",
+         "Device Type":"ಸಾಧನ ಪ್ರಕಾರ",
+         "Room":"ಕೊಠಡಿ",
+         "You can generate":"ನೀವು ಕೋಡ್ ಅನ್ನು ರಚಿಸಬಹುದು ಅಥವಾ ಗಿಟ್‌ಹಬ್ ರೆಪೊದಿಂದ ಕೋಡ್ ಉದಾಹರಣೆಯನ್ನು ಬಳಸಬಹುದು",
+         "Type":"ಮಾದರಿ",
+         "Name":"ಹೆಸರು",
+         "From":"ಇಂದ",
+         "To":"ಗೆ",
+         "Status":"ಸ್ಥಿತಿ",
+         "Options":"ಆಯ್ಕೆಗಳು",
+         "Upgrade":"ನವೀಕರಿಸಿ",
+         "Device":"ಸಾಧನ",
+         "Description":"ವಿವರಣೆ",
+         "Power State":"ಪವರ್ ಸ್ಟೇಟ್",
+         "Last Connected":"ಕೊನೆಯದಾಗಿ ಸಂಪರ್ಕಿಸಲಾಗಿದೆ",
+         "Alexa support is limited":"ಈ ಸಾಧನ ಪ್ರಕಾರಕ್ಕಾಗಿ ಅಲೆಕ್ಸಾ ಬೆಂಬಲ ಇಂಗ್ಲಿಷ್ (ಯುಎಸ್) ಭಾಷೆಗೆ ಸೀಮಿತವಾಗಿದೆ.",
+         "Device Access Key":"ಸಾಧನ ಪ್ರವೇಶ ಕೀ"
+      },
+      "rooms":{ 
+         "Add Room":"ಕೊಠಡಿ ಸೇರಿಸಿ",
+         "Room":"ಕೊಠಡಿ",
+         "Description":"ವಿವರಣೆ",
+         "Home":"ಮನೆ",
+         "Room Information":"ಕೊಠಡಿ ಮಾಹಿತಿ",
+         "Assign Devices":"ಸಾಧನಗಳನ್ನು ನಿಯೋಜಿಸಿ",
+         "Room Name":"ಕೋಣೆಯ ಹೆಸರು",
+         "Room Name is required":"ಕೋಣೆಯ ಹೆಸರು ಅಗತ್ಯವಿದೆ",
+         "Room Description is required":"ಕೊಠಡಿ ವಿವರಣೆ ಅಗತ್ಯವಿದೆ"
+      },
+      "credential":{ 
+         "Your API Keys":"ನಿಮ್ಮ API ಕೀಗಳು",
+         "Your App Keys and Secrets":"ನಿಮ್ಮ ಅಪ್ಲಿಕೇಶನ್ ಕೀಗಳು ಮತ್ತು ರಹಸ್ಯಗಳು",
+         "New API Key":"ಹೊಸ API ಕೀ",
+         "New App Key and Secret":"ಹೊಸ ಅಪ್ಲಿಕೇಶನ್ ಕೀ ಮತ್ತು ರಹಸ್ಯ",
+         "App Key":"ಅಪ್ಲಿಕೇಶನ್ ಕೀ",
+         "App Secret":"ಅಪ್ಲಿಕೇಶನ್ ರಹಸ್ಯ",
+         "Name":"ಹೆಸರು",
+         "Created On":"ರಚಿಸಲಾಗಿದೆ ಇಂದು",
+         "Please copy your api":"ದಯವಿಟ್ಟು ನಿಮ್ಮ API ಕೀಲಿಯನ್ನು ನಕಲಿಸಿ ಮತ್ತು ಬೇರೆಯವರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳದೆ ಸುರಕ್ಷಿತ ಸ್ಥಳದಲ್ಲಿ ರಹಸ್ಯವಾಗಿಡಿ. ನಿಮ್ಮ ರುಜುವಾತುಗಳನ್ನು ಸಾರ್ವಜನಿಕವಾಗಿ ಬಹಿರಂಗಪಡಿಸುವುದರಿಂದ ನಿಮ್ಮ ಖಾತೆಯು ಹೊಂದಾಣಿಕೆ ಆಗಬಹುದು, ಅದು ನಿಮ್ಮ ಖಾತೆಯಲ್ಲಿ ಅನಿರೀಕ್ಷಿತ ಶುಲ್ಕಗಳಿಗೆ ಕಾರಣವಾಗಬಹುದು.",
+         "API Key":"API ಕೀ",
+         "Name is required":"ಹೆಸರು ಅಗತ್ಯವಿದೆ",
+         "Application name":"ಅಪ್ಲಿಕೇಶನ್ ಹೆಸರು"
+      },
+      "whatsnew":{ 
+         "Release Log":"ಲಾಗ್ ಬಿಡುಗಡೆ",
+         "Future Plans":"ಭವಿಷ್ಯದ ಯೋಜನೆಗಳು"
+      },
+      "activitylog":{ 
+         "IP Address":"IP ವಿಳಾಸ",
+         "Location":"ಸ್ಥಳ",
+         "App Name":"ಅಪ್ಲಿಕೇಶನ್ ಹೆಸರು",
+         "Activity":"ಚಟುವಟಿಕೆ",
+         "Device Name":"ಸಾಧನದ ಹೆಸರು",
+         "Timestamp":"ಟೈಮ್‌ಸ್ಟ್ಯಾಂಪ್",
+         "Last 15 activities":"ಕಳೆದ 3 ದಿನಗಳಿಂದ ಕೊನೆಯ 15 ಚಟುವಟಿಕೆಗಳು"
+      }
+   },
+   "sidemenu":{ 
+      "Dashboard":"ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+      "Devices":"ಸಾಧನಗಳು",
+      "Rooms":"ಕೊಠಡಿಗಳು",
+      "Credentials":"ರುಜುವಾತುಗಳು",
+      "Whats New":"ಹೊಸತೇನಿದೆ",
+      "Account":"ಖಾತೆ",
+      "Activity Log":"ಚಟುವಟಿಕೆ ದಾಖಲೆ",
+      "Sign out":"ಸೈನ್ ಒಟ್",
+      "Collapse Sidebar":"ಅಡ್ಡಪಟ್ಟಿಯನ್ನು ಕುಗ್ಗಿಸಿ"
+   },
+   "header":{ 
+      "Tutorials":"ಟ್ಯುಟೋರಿಯಲ್",
+      "API Documentation":"API ಡಾಕ್ಯುಮೆಂಟೇಶನ್"
+   }
+}
