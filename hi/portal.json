@@ -1,0 +1,246 @@
+{
+    "language": "अंग्रेज़ी",
+    "Success": "सफलता!",
+    "Refresh": "ताज़ा करना",
+    "Delete": "हटाना",
+    "Edit": "संपादित करें",
+    "Save": "सहेजें",
+    "Copy": "प्रतिलिपि",
+    "How to connect my device": "मेरे डिवाइस को कैसे कनेक्ट करें?",
+    "On": "पर",
+    "Off": "बंद",
+    "Power level is": "पावर लेवल है",
+    "Set to": "करने के लिए सेट",
+    "pages": {
+        "register": {
+            "Creating Account": "खाता बनाना, कृपया प्रतीक्षा करें ...।",
+            "Create your Sinric Pro Account": "अपना Sinric Pro खाता बनाएँ",
+            "Get started with": "5 उपकरणों के साथ मुफ्त में शुरुआत करें। कोई सीमा नहीं।",
+            "Data retention": "1 महीने तक डेटा प्रतिधारण।",
+            "Access logs": "3 दिनों तक प्रवेश लॉग।",
+            "If you need more devices": "यदि आपको अधिक उपकरणों की आवश्यकता है, तो यह एक वर्ष के लिए केवल 3 डॉलर प्रति डिवाइस है।",
+            "Already have an account": "क्या आपके पास पहले से एक खाता मौजूद है ?",
+            "Login": "लॉग इन करें",
+            "Full name": "पूरा नाम",
+            "Full name is required": "पूरा नाम आवश्यक है",
+            "Email": "ईमेल",
+            "Email is required": "ईमेल जरुरी है",
+            "Password": "पारण शब्द",
+            "Password is required": "पासवर्ड की आवश्यकता है",
+            "Password must be at least 5 characters": "पासवर्ड कम से कम 5 अक्षरों का होना चाहिए",
+            "Language": "भाषा: हिन्दी",
+            "Language is required": "भाषा की आवश्यकता है",
+            "Timezone": "समय क्षेत्र",
+            "Timezone is required": "समयक्षेत्र की आवश्यकता है",
+            "Temperature Scale": "तापमान स्केल",
+            "Temperature Scale is required": "तापमान स्केल की आवश्यकता है",
+            "By clicking the": "'रजिस्टर' बटन पर क्लिक करके, आप एक रजिस्टर खाता बना रहे हैं, और आप रजिस्टर की उपयोग की शर्तों और गोपनीयता नीति के लिए सहमत हैं।",
+            "Email Confirmation Required": "ईमेल की पुष्टि आवश्यक है",
+            "We have sent an email": "हमने आपके ईमेल पते पर एक पुष्टिकरण लिंक के साथ एक ईमेल भेजा है। यदि आपको एक पुष्टिकरण ईमेल प्राप्त नहीं होता है",
+            "Please check your spam folder": "कृपया अपने स्पैम फ़ोल्डर की जाँच करें।"
+        },
+        "forgotpassword": {
+            "Forgot password": "पासवर्ड भूल गए",
+            "Enter your email address": "अपना ईमेल पता दर्ज करें और आपका पासवर्ड रीसेट हो जाएगा और आपको ईमेल कर दिया जाएगा।",
+            "Email address": "ईमेल पता",
+            "Email is required": "ईमेल जरुरी है",
+            "Send me new password": "मुझे एक नया पासवर्ड भेजें",
+            "Send me back": "मुझे वापस भेजो",
+            "Forget it": "रहने भी दो,",
+            "To the sign in screen": "स्क्रीन में साइन इन करने के लिए"
+        },
+        "login": {
+            "Email address": "ईमेल पता",
+            "Password is required": "पासवर्ड की आवश्यकता है",
+            "Log in": "लॉग इन करें",
+            "Password": "पारण शब्द",
+            "Register": "रजिस्टर करें",
+            "Dont have account yet": "अभी तक खाता नहीं है?",
+            "I forgot password": "मैं पासवर्ड भूल गया",
+            "Username is required": "उपयोगकर्ता नाम आवश्यक है"
+        },
+        "dashboard": {
+            "Resend": "पुन: भेजें",
+            "Waiting": "इंतज़ार कर रही ...",
+            "Turn On": "चालू करो",
+            "Turn Off": "बंद करें",
+            "Color": "रंग",
+            "Brightness": "चमक",
+            "Its lonely here": "यहां अकेलापन है।",
+            "To get started add a new device from device tab": "आरंभ करने के लिए, डिवाइस टैब से एक नया उपकरण जोड़ें।",
+            "is online now": "अभी ऑनलाइन है!",
+            "is offline now": "अभी ऑफ़लाइन है!",
+            "deviceName is powerState now": "$ डिवाइसनाम अब $ पॉवरस्टेट है।",
+            "Please verify email address": "कृपया अपने ईमेल पते को सत्यापित कर सभी सिनरिक सुविधाओं तक पहुँच प्राप्त करें",
+            "devices": "उपकरण",
+            "Ding Dong": "डिंग डोंग!",
+            "Power is": "शक्ति है",
+            "Temperature": "तापमान",
+            "Humidity": "नमी",
+            "smartlock": {
+                "Lock": "ताला",
+                "Unlock": "अनलॉक",
+                "Locked": "बंद",
+                "Unlocked": "खुला",
+                "Lock is": "ताला है"
+            },
+            "light": {
+                "Brightness": "चमक",
+                "Light is": "प्रकाश है",
+                "Brightness set to": "चमक सेट करने के लिए",
+                "Color": "रंग"
+            },
+            "switch": {
+                "Switch is": "स्विच है"
+            },
+            "speaker": {
+                "Speaker is": "स्पीकर है",
+                "Muted": "म्यूट किए गए",
+                "Mute": "मूक",
+                "Unmute": "अनम्यूट",
+                "Volume": "आयतन",
+                "Set volume": "वॉल्यूम सेट करें"
+            },
+            "tv": {
+                "Television is": "टेलीविजन है"
+            },
+            "contact": {
+                "Contact was": "संपर्क था",
+                "Contact is": "संपर्क है",
+                "At": "पर",
+                "Opened": "खुल गया",
+                "Closed": "बन्द है",
+                "Open": "खुला",
+                "Close": "बंद करे"
+            },
+            "motion": {
+                "Motion detected": "मोशन का पता चला!",
+                "At": "पर",
+                "Detected": "का पता चला",
+                "Not Detected": "पता नहीं लगा",
+                "Trigger": "उत्प्रेरक"
+            },
+            "fan": {
+                "Fan is": "फैन है",
+                "Level set to": "का स्तर तय किया",
+                "Set level": "स्तर निर्धारित करें",
+                "Level 1": "1",
+                "Level 2": "2",
+                "Level 3": "3"
+            },
+            "acUnit": {
+                "AC is": "एसी है",
+                "Set to": "करने के लिए सेट",
+                "Set Tempreature": "टेंपरेचर सेट करें"
+            },
+            "thermostat": {
+                "Thermostat is": "थर्मोस्टेट है",
+                "Set to": "करने के लिए सेट",
+                "Set Tempreature": "टेंपरेचर सेट करें",
+                "Set Point": "निर्दिष्ट बिंदू",
+                "Mode": "मोड",
+                "Set Mode": "सेट मोड",
+                "Heat": "तपिश",
+                "Cool": "ठंडा",
+                "Auto": "ऑटो"
+            },
+            "doorbell": {
+                "At": "पर",
+                "Doorbell rang": "दरवाज़े की घंटी बजी"
+            },
+            "dimmerSwitch": {
+                "Dimmer switch is": "डिमर स्विच है"
+            }
+        },
+        "account": {
+            "Subscriptions": "सदस्यता",
+            "Subscription Id": "अंशदान पहचानपत्र",
+            "Type": "प्रकार",
+            "Name": "नाम",
+            "From": "से",
+            "To": "सेवा",
+            "Status": "स्थिति",
+            "Options": "विकल्प",
+            "Upgrade": "अपग्रेड"
+        },
+        "devices": {
+            "Add Device": "डिवाइस जोडे",
+            "Click on add device": "नया डिवाइस बनाने के लिए 'डिवाइस जोड़ें' बटन पर क्लिक करें।",
+            "Device Information": "डिवाइस जानकारी",
+            "Code Download": "कोड डाउनलोड करें",
+            "Device Name": "यन्त्र का नाम",
+            "Device Name is required": "डिवाइस का नाम आवश्यक है",
+            "Device Description is required": "डिवाइस का विवरण आवश्यक है",
+            "Device Access Key is required": "डिवाइस एक्सेस कुंजी की आवश्यकता है",
+            "Device Type": "उपकरण का प्रकार",
+            "Room": "कक्ष",
+            "You can generate": "आप कोड उत्पन्न कर सकते हैं या GitHub रेपो से एक कोड उदाहरण का उपयोग कर सकते हैं",
+            "Type": "प्रकार",
+            "Name": "नाम",
+            "From": "से",
+            "To": "सेवा",
+            "Status": "स्थिति",
+            "Options": "विकल्प",
+            "Upgrade": "अपग्रेड",
+            "Device": "युक्ति",
+            "Description": "विवरण",
+            "Power State": "पावर स्टेट",
+            "Last Connected": "अंतिम जुड़ा हुआ",
+            "Alexa support is limited": "इस डिवाइस प्रकार के लिए एलेक्सा समर्थन अंग्रेजी (यूएस) भाषा तक सीमित है।",
+            "Device Access Key": "डिवाइस एक्सेस कुंजी"
+        },
+        "rooms": {
+            "Add Room": "कक्ष जोड़ें",
+            "Room": "कक्ष",
+            "Description": "विवरण",
+            "Home": "घर",
+            "Room Information": "कमरे की जानकारी",
+            "Assign Devices": "उपकरण असाइन करें",
+            "Room Name": "कमरे का नाम",
+            "Room Name is required": "कमरे का नाम आवश्यक है",
+            "Room Description is required": "कक्ष विवरण आवश्यक है"
+        },
+        "credential": {
+            "Your API Keys": "आपकी एपीआई कुंजी",
+            "Your App Keys and Secrets": "आपका ऐप कुंजी और रहस्य",
+            "New API Key": "नई एपीआई कुंजी",
+            "New App Key and Secret": "न्यू ऐप की और सीक्रेट",
+            "App Key": "ऐप की",
+            "App Secret": "ऐप सीक्रेट",
+            "Name": "नाम",
+            "Created On": "को निर्मित",
+            "Please copy your api": "कृपया अपनी एपीआई कुंजी को कॉपी करें और किसी अन्य के साथ साझा किए बिना एक सुरक्षित स्थान पर गुप्त रखें। सार्वजनिक रूप से आपकी साख को उजागर करने से आपके खाते में समझौता हो सकता है, जिससे आपके खाते पर अप्रत्याशित शुल्क लग सकते हैं।",
+            "API Key": "एपीआई कुंजी",
+            "Name is required": "नाम आवश्यक है",
+            "Application name": "आवेदन का नाम"
+        },
+        "whatsnew": {
+            "Release Log": "लॉग जारी करें",
+            "Future Plans": "भविष्य की योजनाएं"
+        },
+        "activitylog": {
+            "IP Address": "आईपी पता",
+            "Location": "स्थान",
+            "App Name": "एप्लिकेशन का नाम",
+            "Activity": "गतिविधि",
+            "Device Name": "यन्त्र का नाम",
+            "Timestamp": "समय-चिह्न",
+            "Last 15 activities": "पिछले 3 दिनों के लिए अंतिम 15 गतिविधियाँ"
+        }
+    },
+    "sidemenu": {
+        "Dashboard": "डैशबोर्ड",
+        "Devices": "उपकरण",
+        "Rooms": "कमरा",
+        "Credentials": "साख",
+        "Whats New": "नया क्या है",
+        "Account": "लेखा",
+        "Activity Log": "गतिविधि लॉग",
+        "Sign out": "प्रस्थान करें",
+        "Collapse Sidebar": "साइडबार को संक्षिप्त करें"
+    },
+    "header": {
+        "Tutorials": "ट्यूटोरियल",
+        "API Documentation": "एपीआई प्रलेखन"
+    }
+}
