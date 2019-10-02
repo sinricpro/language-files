@@ -7,9 +7,9 @@
     "Save": "Salvar",
     "Copy": "Copiar",
     "How to connect my device": "¿Cómo conectar mi dispositivo?",
-    "On": "En",
+    "On": "Encendidp",
     "Off": "Apagado",
-    "Power level is": "Nivel de potencia es",
+    "Power level is": "El Nivel de potencia es",
     "Set to": "Ajustado a",
     "pages": {
         "register": {
@@ -18,13 +18,13 @@
             "Get started with": "Comience con 5 dispositivos de forma gratuita. Sin limitaciones",
             "Data retention": "Retención de datos hasta 1 mes.",
             "Access logs": "Registros de acceso hasta 3 días.",
-            "If you need more devices": "Si necesita más dispositivos, solo cuesta 3 $ por dispositivo durante un año.",
+            "If you need more devices": "Si necesita más dispositivos, solo cuesta 3 $ por dispositivo para un año.",
             "Already have an account": "Ya tienes una cuenta ?",
             "Login": "Iniciar sesión",
             "Full name": "Nombre completo",
             "Full name is required": "Se requiere nombre completo",
             "Email": "Email",
-            "Email is required": "correo electronico es requerido",
+            "Email is required": "se requiere correo electrónico",
             "Password": "Contraseña",
             "Password is required": "se requiere contraseña",
             "Password must be at least 5 characters": "La contraseña debe tener al menos 5 caracteres",
@@ -37,21 +37,21 @@
             "By clicking the": "Al hacer clic en el botón 'Registrarse', está creando una cuenta de registro y acepta los Términos de uso y la Política de privacidad de Register.",
             "Email Confirmation Required": "Confirmación de correo electrónico requerida",
             "We have sent an email": "Hemos enviado un correo electrónico con un enlace de confirmación a su dirección de correo electrónico. Si no recibe un correo electrónico de confirmación",
-            "Please check your spam folder": "por favor revise su carpeta de spam."
+            "Please check your spam folder": "Por favor revise su carpeta de spam."
         },
         "forgotpassword": {
-            "Forgot password": "Se te olvidó tu contraseña",
-            "Enter your email address": "Ingrese su dirección de correo electrónico y su contraseña se restablecerá y se le enviará por correo electrónico.",
+            "Forgot password": "Contraseña olvidada",
+            "Enter your email address": "Ingrese su dirección de correo electrónico y su contraseña, se restablecerá y se le enviará por correo electrónico.",
             "Email address": "Dirección de correo electrónico",
-            "Email is required": "correo electronico es requerido",
+            "Email is required": "Se requiere correo electrónico",
             "Send me new password": "Envíame una nueva contraseña",
-            "Send me back": "enviámelo de vuelta",
+            "Send me back": "Enviámelo de vuelta",
             "Forget it": "Olvídalo,",
-            "To the sign in screen": "a la pantalla de inicio de sesión"
+            "To the sign in screen": "Ir a la pantalla de inicio de sesión"
         },
         "login": {
             "Email address": "Dirección de correo electrónico",
-            "Password is required": "se requiere contraseña",
+            "Password is required": "Se requiere contraseña",
             "Log in": "Iniciar sesión",
             "Password": "Contraseña",
             "Register": "Registro",
@@ -68,18 +68,18 @@
             "Brightness": "Brillo",
             "Its lonely here": "Está solo aquí.",
             "To get started add a new device from device tab": "Para comenzar, agregue un nuevo dispositivo desde la pestaña del dispositivo.",
-            "is online now": "está en línea ahora!",
-            "is offline now": "está fuera de línea ahora!",
+            "is online now": "Está en línea ahora!",
+            "is offline now": "Está fuera de línea ahora!",
             "deviceName is powerState now": "$ deviceName es $ powerState ahora.",
             "Please verify email address": "Verifique su dirección de correo electrónico para acceder a todas las funciones de Sinric",
             "devices": "dispositivos",
             "Ding Dong": "Ding Dong!",
-            "Power is": "El poder es",
+            "Power is": "El estado es",
             "Temperature": "Temperatura",
             "Humidity": "Humedad",
             "smartlock": {
                 "Lock": "Bloquear",
-                "Unlock": "desbloquear",
+                "Unlock": "Desbloquear",
                 "Locked": "Bloqueado",
                 "Unlocked": "Desbloqueado",
                 "Lock is": "La cerradura es"
@@ -87,14 +87,14 @@
             "light": {
                 "Brightness": "Brillo",
                 "Light is": "La luz es",
-                "Brightness set to": "Brillo establecido en",
+                "Brightness set to": "Brillo establecido a",
                 "Color": "Color"
             },
             "switch": {
                 "Switch is": "El interruptor es"
             },
             "speaker": {
-                "Speaker is": "El orador es",
+                "Speaker is": "El altavoz es",
                 "Muted": "Apagado",
                 "Mute": "Mudo",
                 "Unmute": "Dejar de silenciar",
@@ -108,7 +108,7 @@
                 "Contact was": "El contacto fue",
                 "Contact is": "El contacto es",
                 "At": "a",
-                "Opened": "abrió",
+                "Opened": "abierto",
                 "Closed": "cerrado",
                 "Open": "Abierto",
                 "Close": "Cerrar"
@@ -130,18 +130,18 @@
             },
             "acUnit": {
                 "AC is": "AC es",
-                "Set to": "Ajustado a",
+                "Set to": "Ajustar a",
                 "Set Tempreature": "Establecer tempreatura"
             },
             "thermostat": {
                 "Thermostat is": "El termostato es",
                 "Set to": "Ajustado a",
-                "Set Tempreature": "Establecer tempreatura",
-                "Set Point": "Punto fijo",
+                "Set Tempreature": "Establecer temperatura",
+                "Set Point": "Punto seleccionado",
                 "Mode": "Modo",
-                "Set Mode": "Modo de ajuste",
+                "Set Mode": "Poner modo",
                 "Heat": "Calor",
-                "Cool": "Bueno",
+                "Cool": "Frio",
                 "Auto": "Auto"
             },
             "doorbell": {
@@ -169,7 +169,7 @@
             "Device Information": "Información del dispositivo",
             "Code Download": "Descarga de código",
             "Device Name": "Nombre del dispositivo",
-            "Device Name is required": "Nombre del dispositivo es obligatorio",
+            "Device Name is required": "El nombre del dispositivo es obligatorio",
             "Device Description is required": "Se requiere descripción del dispositivo",
             "Device Access Key is required": "Se requiere clave de acceso al dispositivo",
             "Device Type": "Tipo de dispositivo",
@@ -184,7 +184,7 @@
             "Upgrade": "Mejorar",
             "Device": "Dispositivo",
             "Description": "Descripción",
-            "Power State": "Estado de poder",
+            "Power State": "Estado de encendido",
             "Last Connected": "Última conexión",
             "Alexa support is limited": "El soporte de Alexa está limitado al idioma inglés (EE. UU.) Para este tipo de dispositivo.",
             "Device Access Key": "Clave de acceso al dispositivo"
@@ -209,7 +209,7 @@
             "App Secret": "App secreta",
             "Name": "Nombre",
             "Created On": "Creado en",
-            "Please copy your api": "Copie su clave de API y guarde el secreto en un lugar seguro sin compartirlo con nadie más. Exponer públicamente sus credenciales puede hacer que su cuenta se vea comprometida, lo que podría generar cargos inesperados en su cuenta.",
+            "Please copy your api": "Copie su clave de API y guarde la clave en un lugar seguro sin compartirlo con nadie más. Exponer públicamente sus credenciales puede hacer que su cuenta se vea comprometida, lo que podría generar cargos inesperados en su cuenta.",
             "API Key": "Clave API",
             "Name is required": "Se requiere el nombre",
             "Application name": "Nombre de la aplicación"
@@ -232,11 +232,11 @@
         "Dashboard": "Tablero",
         "Devices": "Dispositivos",
         "Rooms": "Habitaciones",
-        "Credentials": "Cartas credenciales",
+        "Credentials": "Credenciales",
         "Whats New": "Qué hay de nuevo",
         "Account": "Cuenta",
         "Activity Log": "Registro de actividades",
-        "Sign out": "desconectar",
+        "Sign out": "Desconectar",
         "Collapse Sidebar": "Contraer barra lateral"
     },
     "header": {

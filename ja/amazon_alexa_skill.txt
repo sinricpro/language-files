@@ -1,0 +1,38 @@
+Public Name *
+SinricPro
+
+One Sentence Description *
+NodeMCU、WeMos mini D1、ESP8266、ESP32、Arduino、Raspberry Pi開発ボードをAmazon Alexaに無料で接続します！
+
+
+Detailed Description *
+Sinric Proを使用すると、NodeMCU、WeMos mini D1、ESP8266、ESP32、Arduino、Raspberry Pi、または任意のIOT開発ボードをAlexaで接続して無料で制御できます!!
+
+使い方？
+
+1. https://sinric.proに移動します。
+
+2.アカウントを作成してログインする
+
+3.新しいデバイスを作成します。例：テレビ
+
+ホーム画面に表示される資格情報を使用して、開発ボードを接続します。
+
+接続方法の例を次に示します。
+https://github.com/kakopappa/sinric/blob/master/arduino_examples/switch_example.ino
+
+コード内の資格情報、「wifi ssid」、「wifiパスワード」を置き換えます。
+
+4. Sinricスマートホームスキルのインストール/有効化
+
+5. Alexaにデバイスの検出を依頼します。
+
+6.アレクサと言って、「テレビ」をオンにします
+
+
+Example Phrases *
+アレクサ、テレビをつける
+
+Keywords *
+NodeMCU、WeMos mini D1、ESP8266、ESP32、Arduino、RaspberryPi、ホームオートメーション、DIY
+

@@ -15,7 +15,7 @@
     "accountNotExist": "Nombre de usuario o contraseña incorrecta.",
     "accountIsLock": "Su cuenta ha sido bloqueada por razones de seguridad.",
     "accountNotFound": "Cuenta no encontrada.",
-    "subscriptionExist": "El nombre de la suscripción existe.",
+    "subscriptionExist": "El nombre de la suscripción ya existe.",
     "subscriptionDoesNotExist": "La suscripción no existe.",
     "manufacturerIdNotFound": "No se encontró la identificación del fabricante.",
     "subscriptionTypeDoesNotExist": "El tipo de suscripción no existe.",

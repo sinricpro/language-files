@@ -1,0 +1,246 @@
+{
+    "language": "英語",
+    "Success": "成功！",
+    "Refresh": "リフレッシュ",
+    "Delete": "削除する",
+    "Edit": "編集",
+    "Save": "セーブ",
+    "Copy": "コピー",
+    "How to connect my device": "デバイスを接続するには？",
+    "On": "オン",
+    "Off": "オフ",
+    "Power level is": "電力レベルは",
+    "Set to": "に設定",
+    "pages": {
+        "register": {
+            "Creating Account": "アカウントを作成しています。しばらくお待ちください...",
+            "Create your Sinric Pro Account": "Sinric Proアカウントを作成します",
+            "Get started with": "5台のデバイスを無料で始めましょう。制限なし。",
+            "Data retention": "1か月までのデータ保持。",
+            "Access logs": "最大3日間のアクセスログ。",
+            "If you need more devices": "さらに多くのデバイスが必要な場合、1年間でデバイスあたりわずか3ドルです。",
+            "Already have an account": "すでにアカウントをお持ちですか ？",
+            "Login": "ログインする",
+            "Full name": "フルネーム",
+            "Full name is required": "氏名が必要です",
+            "Email": "Eメール",
+            "Email is required": "メールが必要です",
+            "Password": "パスワード",
+            "Password is required": "パスワードが必要です",
+            "Password must be at least 5 characters": "パスワードは5文字以上である必要があります",
+            "Language": "言語",
+            "Language is required": "言語が必要です",
+            "Timezone": "タイムゾーン",
+            "Timezone is required": "タイムゾーンが必要です",
+            "Temperature Scale": "温度スケール",
+            "Temperature Scale is required": "温度スケールが必要です",
+            "By clicking the": "[登録]ボタンをクリックすると、登録アカウントが作成され、登録の利用規約とプライバシーポリシーに同意したことになります。",
+            "Email Confirmation Required": "メール確認が必要です",
+            "We have sent an email": "メールアドレスへの確認リンクを記載したメールを送信しました。確認メールが届かない場合",
+            "Please check your spam folder": "スパムフォルダを確認してください。"
+        },
+        "forgotpassword": {
+            "Forgot password": "パスワードをお忘れですか",
+            "Enter your email address": "メールアドレスを入力すると、パスワードがリセットされ、メールで送信されます。",
+            "Email address": "電子メールアドレス",
+            "Email is required": "メールが必要です",
+            "Send me new password": "新しいパスワードを送ってください",
+            "Send me back": "返送してください",
+            "Forget it": "忘れてください、",
+            "To the sign in screen": "サインイン画面へ"
+        },
+        "login": {
+            "Email address": "電子メールアドレス",
+            "Password is required": "パスワードが必要です",
+            "Log in": "ログインする",
+            "Password": "パスワード",
+            "Register": "登録",
+            "Dont have account yet": "まだアカウントを持っていませんか？",
+            "I forgot password": "パスワードを忘れました",
+            "Username is required": "ユーザー名が必要です"
+        },
+        "dashboard": {
+            "Resend": "再送信",
+            "Waiting": "待っています...",
+            "Turn On": "オンにする",
+            "Turn Off": "消す",
+            "Color": "色",
+            "Brightness": "輝度",
+            "Its lonely here": "ここは寂しいです。",
+            "To get started add a new device from device tab": "開始するには、デバイスタブから新しいデバイスを追加します。",
+            "is online now": "今オンラインです！",
+            "is offline now": "現在オフラインです！",
+            "deviceName is powerState now": "現在、$ deviceNameは$ powerStateです。",
+            "Please verify email address": "Sinricのすべての機能にアクセスするには、メールアドレスを確認してください",
+            "devices": "デバイス",
+            "Ding Dong": "ディンドン！",
+            "Power is": "パワーは",
+            "Temperature": "温度",
+            "Humidity": "湿度",
+            "smartlock": {
+                "Lock": "ロック",
+                "Unlock": "ロック解除",
+                "Locked": "ロック済み",
+                "Unlocked": "ロック解除",
+                "Lock is": "ロックは"
+            },
+            "light": {
+                "Brightness": "輝度",
+                "Light is": "光は",
+                "Brightness set to": "に設定された明るさ",
+                "Color": "色"
+            },
+            "switch": {
+                "Switch is": "スイッチは"
+            },
+            "speaker": {
+                "Speaker is": "スピーカーは",
+                "Muted": "ミュート",
+                "Mute": "ミュート",
+                "Unmute": "ミュートを解除",
+                "Volume": "ボリューム",
+                "Set volume": "ボリュームを設定"
+            },
+            "tv": {
+                "Television is": "テレビは"
+            },
+            "contact": {
+                "Contact was": "連絡先は",
+                "Contact is": "連絡先は",
+                "At": "で",
+                "Opened": "開いた",
+                "Closed": "閉まっている",
+                "Open": "開いた",
+                "Close": "閉じる"
+            },
+            "motion": {
+                "Motion detected": "動きが検出されました！",
+                "At": "で",
+                "Detected": "検出された",
+                "Not Detected": "見つかりませんでした",
+                "Trigger": "引き金"
+            },
+            "fan": {
+                "Fan is": "ファンは",
+                "Level set to": "レベル設定",
+                "Set level": "レベルを設定",
+                "Level 1": "1",
+                "Level 2": "2",
+                "Level 3": "3"
+            },
+            "acUnit": {
+                "AC is": "ACは",
+                "Set to": "に設定",
+                "Set Tempreature": "温度設定"
+            },
+            "thermostat": {
+                "Thermostat is": "サーモスタットは",
+                "Set to": "に設定",
+                "Set Tempreature": "温度設定",
+                "Set Point": "セットポイント",
+                "Mode": "モード",
+                "Set Mode": "モードを選択する",
+                "Heat": "熱",
+                "Cool": "クール",
+                "Auto": "オート"
+            },
+            "doorbell": {
+                "At": "で",
+                "Doorbell rang": "呼び鈴が鳴りました"
+            },
+            "dimmerSwitch": {
+                "Dimmer switch is": "調光器スイッチは"
+            }
+        },
+        "account": {
+            "Subscriptions": "サブスクリプション",
+            "Subscription Id": "サブスクリプションID",
+            "Type": "タイプ",
+            "Name": "名前",
+            "From": "から",
+            "To": "に",
+            "Status": "状態",
+            "Options": "オプション",
+            "Upgrade": "アップグレード"
+        },
+        "devices": {
+            "Add Device": "デバイスを追加",
+            "Click on add device": "[デバイスの追加]ボタンをクリックして、新しいデバイスを作成します。",
+            "Device Information": "デバイス情報",
+            "Code Download": "コードのダウンロード",
+            "Device Name": "装置名",
+            "Device Name is required": "デバイス名が必要です",
+            "Device Description is required": "デバイスの説明が必要です",
+            "Device Access Key is required": "デバイスアクセスキーが必要です",
+            "Device Type": "デバイスタイプ",
+            "Room": "ルーム",
+            "You can generate": "GitHubリポジトリからコードを生成するか、コード例を使用できます",
+            "Type": "タイプ",
+            "Name": "名前",
+            "From": "から",
+            "To": "に",
+            "Status": "状態",
+            "Options": "オプション",
+            "Upgrade": "アップグレード",
+            "Device": "端末",
+            "Description": "説明",
+            "Power State": "電源状態",
+            "Last Connected": "最終接続",
+            "Alexa support is limited": "Alexaのサポートは、このデバイスタイプの英語（米国）言語に制限されています。",
+            "Device Access Key": "デバイスアクセスキー"
+        },
+        "rooms": {
+            "Add Room": "部屋を追加",
+            "Room": "ルーム",
+            "Description": "説明",
+            "Home": "ホーム",
+            "Room Information": "部屋情報",
+            "Assign Devices": "デバイスを割り当てる",
+            "Room Name": "部屋名",
+            "Room Name is required": "部屋名が必要です",
+            "Room Description is required": "部屋の説明が必要です"
+        },
+        "credential": {
+            "Your API Keys": "APIキー",
+            "Your App Keys and Secrets": "アプリのキーと秘密",
+            "New API Key": "新しいAPIキー",
+            "New App Key and Secret": "新しいアプリキーとシークレット",
+            "App Key": "アプリキー",
+            "App Secret": "アプリの秘密",
+            "Name": "名前",
+            "Created On": "作成日",
+            "Please copy your api": "APIキーをコピーして、他の人と共有せずに安全な場所に秘密にしてください。資格情報を公開すると、アカウントが侵害され、アカウントに予期しない請求が発生する可能性があります。",
+            "API Key": "APIキー",
+            "Name is required": "名前が必要です",
+            "Application name": "アプリケーション名"
+        },
+        "whatsnew": {
+            "Release Log": "リリースログ",
+            "Future Plans": "今後の計画"
+        },
+        "activitylog": {
+            "IP Address": "IPアドレス",
+            "Location": "ロケーション",
+            "App Name": "アプリ名",
+            "Activity": "アクティビティ",
+            "Device Name": "装置名",
+            "Timestamp": "タイムスタンプ",
+            "Last 15 activities": "過去3日間の過去15のアクティビティ"
+        }
+    },
+    "sidemenu": {
+        "Dashboard": "ダッシュボード",
+        "Devices": "装置",
+        "Rooms": "部屋",
+        "Credentials": "資格情報",
+        "Whats New": "新着情報",
+        "Account": "アカウント",
+        "Activity Log": "活動記録",
+        "Sign out": "サインアウト",
+        "Collapse Sidebar": "サイドバーを折りたたむ"
+    },
+    "header": {
+        "Tutorials": "チュートリアル",
+        "API Documentation": "APIドキュメント"
+    }
+}
