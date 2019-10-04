@@ -1,7 +1,7 @@
 {
     "language": "अंग्रेज़ी",
     "Success": "सफलता!",
-    "Refresh": "ताज़ा करना",
+    "Refresh": "रिफ़्रेश्",
     "Delete": "हटाना",
     "Edit": "संपादित करें",
     "Save": "सहेजें",
@@ -25,7 +25,7 @@
             "Full name is required": "पूरा नाम आवश्यक है",
             "Email": "ईमेल",
             "Email is required": "ईमेल जरुरी है",
-            "Password": "पारण शब्द",
+            "Password": "पासवर्ड ",
             "Password is required": "पासवर्ड की आवश्यकता है",
             "Password must be at least 5 characters": "पासवर्ड कम से कम 5 अक्षरों का होना चाहिए",
             "Language": "भाषा: हिन्दी",
@@ -53,7 +53,7 @@
             "Email address": "ईमेल पता",
             "Password is required": "पासवर्ड की आवश्यकता है",
             "Log in": "लॉग इन करें",
-            "Password": "पारण शब्द",
+            "Password": "पासवर्ड ",
             "Register": "रजिस्टर करें",
             "Dont have account yet": "अभी तक खाता नहीं है?",
             "I forgot password": "मैं पासवर्ड भूल गया",
@@ -187,7 +187,7 @@
             "Power State": "पावर स्टेट",
             "Last Connected": "अंतिम जुड़ा हुआ",
             "Alexa support is limited": "इस डिवाइस प्रकार के लिए एलेक्सा समर्थन अंग्रेजी (यूएस) भाषा तक सीमित है।",
-            "Device Access Key": "डिवाइस एक्सेस कुंजी"
+            "Device Access Key": "डिवाइस ACCESS key"
         },
         "rooms": {
             "Add Room": "कक्ष जोड़ें",
@@ -201,15 +201,15 @@
             "Room Description is required": "कक्ष विवरण आवश्यक है"
         },
         "credential": {
-            "Your API Keys": "आपकी एपीआई कुंजी",
-            "Your App Keys and Secrets": "आपका ऐप कुंजी और रहस्य",
-            "New API Key": "नई एपीआई कुंजी",
-            "New App Key and Secret": "न्यू ऐप की और सीक्रेट",
-            "App Key": "ऐप की",
-            "App Secret": "ऐप सीक्रेट",
+            "Your API Keys": "आपकी API KEY",
+            "Your App Keys and Secrets": "आपका API KEYS और रहस्य",
+            "New API Key": "नई API KEY",
+            "New App Key and Secret": "नया API KEY और सीक्रेट",
+            "App Key": "APP KEY",
+            "App Secret": "APP सीक्रेट",
             "Name": "नाम",
             "Created On": "को निर्मित",
-            "Please copy your api": "कृपया अपनी एपीआई कुंजी को कॉपी करें और किसी अन्य के साथ साझा किए बिना एक सुरक्षित स्थान पर गुप्त रखें। सार्वजनिक रूप से आपकी साख को उजागर करने से आपके खाते में समझौता हो सकता है, जिससे आपके खाते पर अप्रत्याशित शुल्क लग सकते हैं।",
+            "Please copy your api": "कृपया अपनी API KEY को कॉपी करें और किसी अन्य के साथ साझा किए बिना एक सुरक्षित स्थान पर गुप्त रखें। सार्वजनिक रूप से आपकी साख को उजागर करने से आपके खाते में समझौता हो सकता है, जिससे आपके खाते पर अप्रत्याशित शुल्क लग सकते हैं।",
             "API Key": "एपीआई कुंजी",
             "Name is required": "नाम आवश्यक है",
             "Application name": "आवेदन का नाम"
@@ -219,9 +219,9 @@
             "Future Plans": "भविष्य की योजनाएं"
         },
         "activitylog": {
-            "IP Address": "आईपी पता",
+            "IP Address": "IP पता",
             "Location": "स्थान",
-            "App Name": "एप्लिकेशन का नाम",
+            "App Name": "APP का नाम",
             "Activity": "गतिविधि",
             "Device Name": "यन्त्र का नाम",
             "Timestamp": "समय-चिह्न",
@@ -233,7 +233,7 @@
         "Devices": "उपकरण",
         "Rooms": "कमरा",
         "Credentials": "साख",
-        "Whats New": "नया क्या है",
+        "Whats New": "नया क्या है?",
         "Account": "लेखा",
         "Activity Log": "गतिविधि लॉग",
         "Sign out": "प्रस्थान करें",

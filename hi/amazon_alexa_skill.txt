@@ -6,7 +6,7 @@ One Sentence Description *
 
 
 Detailed Description *
-Sinric Pro के साथ, आप अपने NodeMCU, WeMos mini D1, ESP8266, ESP32, Arduino, Raspberry Pi या किसी भी IOT डेवलपमेंट बोर्ड को एलेक्सा के साथ कनेक्ट कर सकते हैं इसे मुफ़्त में !!
+Sinric Pro के साथ, आप अपने NodeMCU, WeMos mini D1, ESP8266, ESP32, Arduino, Raspberry Pi या किसी भी IOT डेवलपमेंट बोर्ड को Alexa के साथ कनेक्ट कर सकते हैं इसे मुफ़्त में !!
 
 कैसे इस्तेमाल करे?
 
@@ -21,11 +21,11 @@ Sinric Pro के साथ, आप अपने NodeMCU, WeMos mini D1, ESP8266
 यहाँ एक उदाहरण है कि कैसे कनेक्ट किया जाए:
 https://github.com/kakopappa/sinric/blob/master/arduino_examples/switch_example.ino
 
-कोड में अपने क्रेडेंशियल्स, "आपका वाईफाई ssid", "आपका वाईफाई पासवर्ड" को बदलें।
+कोड में अपने क्रेडेंशियल्स, "आपका wifi ssid", "आपका वाईफाई पासवर्ड" को बदलें।
 
 4. Sinric स्मार्ट होम स्किल स्थापित / सक्षम करें
 
-5. एलेक्सा को उपकरणों की खोज करने के लिए कहें।
+5. Alexa को उपकरणों की खोज करने के लिए कहें।
 
 6. एलेक्सा कहें, "टीवी" चालू करें
 
