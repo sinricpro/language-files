@@ -1,0 +1,246 @@
+{ 
+   "language":"ภาษาอังกฤษ",
+   "Success":"ประสพความสำเร็จ!",
+   "Refresh":"รีเฟรช",
+   "Delete":"ลบ",
+   "Edit":"แก้ไข",
+   "Save":"บันทึก",
+   "Copy":"ก๊อบปี้",
+   "How to connect my device":"วิธีเชื่อมต่ออุปกรณ์อย่างไร ?",
+   "On":"เปิด",
+   "Off":"ปิด",
+   "Power level is":"ระดับพลังงานอยู่ที่",
+   "Set to":"ตั้งค่าไปที่",
+   "pages":{ 
+      "register":{
+         "Creating Account":"กำลังสร้างบัญชี, โปรดรอสักครู่....",
+         "Create your Sinric Pro Account":"สร้างบัญชี Sinric Pro ของท่าน",
+         "Get started with":"เริ่มต้นใช้งานฟรีถึง 5 อุปกรณ์ ไม่มีข้อจำกัด.",
+         "Data retention":"เก็บข้อมูลนานถึง 1 เดือน.",
+         "Access logs":"บันทึกข้อมูลการเข้าใช้งานนานถึง 3 วัน.",
+         "If you need more devices":"หากคุณต้องการอุปกรณ์เพิ่มเติม เพียงแต่ซื้อเพึ่มในราคา 3 $ ต่ออุปกรณ์ต่อปี. ",
+         "Already have an account":"มีบัญชีแล้ว?",
+         "Login":"เข้าสู่ระบบ",
+         "Full name":"ชื่อเต็ม",
+         "Full name is required":"จำเป็นต้องใส่ชื่อเต็ม",
+         "Email":"อีเมล",
+         "Email is required":"จำเป็นต้องใส่อีเมล",
+         "Password":"รหัสผ่าน",
+         "Password is required":"จำเป็นต้องใส่รหัสผ่าน",
+         "Password must be at least 5 characters":"รหัสผ่านต้องมีอย่างน้อย 5 ตัวอักษร",
+         "Language":"ภาษา",
+         "Language is required":"จำเป็นต้องเลือกภาษา",
+         "Timezone":"เขตเวลา",
+         "Timezone is required":"จำเป็นต้องเลือกเขตเวลา",
+         "Temperature Scale":"หน่วยวัดอุณหภูมิ",
+         "Temperature Scale is required":"จำเป็นต้องเลือกหน่วยวัดอุณหภูมิ",
+         "By clicking the":"By clicking the 'การคลิกปุ่ม 'ลงทะเบียน' หมายความว่าท่านกำลังสร้างบัญชีลงทะเบียน และยอมรับข้อกำหนดการใช้งานและนโยบายความเป็นส่วนตัว.",
+         "Email Confirmation Required":"จำเป็นต้องยืนยันอีเมล",
+         "We have sent an email":"ทางเราได้ส่งอีเมลพร้อมลิงก์ยืนยันไปยังที่อยู่อีเมลของท่าน หากไม่ได้รับอีเมลยืนยัน..",
+         "Please check your spam folder":"โปรดตรวจสอบโฟลเดอร์สแปมของท่าน."
+      },
+      "forgotpassword":{ 
+         "Forgot password":"ลืมรหัสผ่าน",
+         "Enter your email address":"ใส่ข้อมูลอีเมลของท่าน และรหัสผ่านของคุณจะถูกรีเซ็ตและส่งไปทางอีเมล.",
+         "Email address":"ที่อยู่อีเมล",
+         "Email is required":"จำเป็นต้องใส่อีเมล",
+         "Send me new password":"ส่งรหัสผ่านมา",
+         "Send me back":"ส่งฉันกลับ",
+         "Forget it":"ลืมมันซะ,",
+         "To the sign in screen":"ไปที่หน้าจอลงชื่อเข้าใช้"
+      },
+      "login":{ 
+         "Email address":"ที่อยู่อีเมล",
+         "Password is required":"จำเป็นต้องใส่รหัสผ่าน",
+         "Log in":"เข้าสู่ระบบ",
+         "Password":"รหัสผ่าน",
+         "Register":"สมัครใช้งาน",
+         "Dont have account yet":"ยังไม่มีบัญชีใช่ไหม",
+         "I forgot password":"ฉันลืมรหัสผ่าน",
+         "Username is required":"จำเป็นต้องระบุชื่อผู้ใช้"
+      },
+      "dashboard":{ 
+         "Resend":"ส่งซ้ำ",
+         "Waiting":"กำลังรอ...",
+         "Turn On":"เปิด",
+         "Turn Off":"ปิด",
+         "Color":"สี",
+         "Brightness":"ความสว่าง",
+         "Its lonely here":"ที่นี้เหงา.",
+         "To get started add a new device from device tab":"เพื่อเรึ่มใใช้งาน กรุณาเพิ่มอุปกรณ์ใหม่จากแท็บอุปกรณ์.",
+         "is online now":"กำลังออนไลน์อยู่!",
+         "is offline now":"ออฟไลน์อยู่!",
+         "deviceName is powerState now":"$deviceName is $powerState now.",
+         "Please verify email address":"โปรดยืนยันที่อยู่อีเมลของคุณเพื่อใช้งานฟีเจอร์ะทั้งหมดของ Sinric",
+         "devices":"อุปกรณ์",
+         "Ding Dong":"ดิงดอง!",
+         "Power is":"สถานะพลังงาน",
+         "Temperature":"อุณหภูมิ",
+         "Humidity":"ความชื้น",
+         "smartlock":{ 
+            "Lock":"ล็อค",
+            "Unlock":"ปลดล็อค",
+            "Locked":"ล็อค",
+            "Unlocked":"ปลดล็อค",
+            "Lock is":"สถานะล็อค"
+         },
+         "light":{ 
+            "Brightness":"ความสว่าง",
+            "Light is":"สถานะไฟ",
+            "Brightness set to":"ตั้งค่าความสว่าง",
+            "Color":"สี "
+         },
+         "switch":{ 
+            "Switch is":"สถานะสวิตช์คือ"
+         },
+         "speaker":{ 
+            "Speaker is":"สถานะลำโพงคือ",
+            "Muted":"ปิดเสียงเงียบ",
+            "Mute":"เงียบ",
+            "Unmute":"เปิดเสียง",
+            "Volume":"ระดับเสียง",
+            "Set volume":"ตั้งค่าระดับเสียง"
+         },
+         "tv":{ 
+            "Television is":"สถานะทีวีคือ"
+         },
+         "contact":{ 
+            "Contact was":"สถานะคอนแทคเคย",
+            "Contact is":"สถานะคอนแทคคือ",
+            "At":"ที่",
+            "Opened":"ถูกเปิด",
+            "Closed":"ถูกปิด",
+            "Open":"เปิด",
+            "Close":"ปิด"
+         },
+         "motion":{ 
+            "Motion detected":"ตรวจพบการเคลื่อนไหว!",
+            "At":"ที่",
+            "Detected":"พบการเคลื่อนไหว",
+            "Not Detected":"ไม่พบการเคลื่อนไหว",
+            "Trigger":"สิ่งกระตุ้น"
+         },
+         "fan":{ 
+            "Fan is":"สถานะพัดลมคือ",
+            "Level set to":"ตั้งค่าระดับไปที่",
+            "Set level":"ตั้งค่าระดับ",
+            "Level 1":"1",
+            "Level 2":"2",
+            "Level 3":"3"
+         },
+         "acUnit":{ 
+            "AC is":"สถานะเครื่องปรับอากาศคือ",
+            "Set to":"ตั้งค่าระดับไปที่",
+            "Set Tempreature":"ตั้งค่าอุณหภูมิ"
+         },
+         "thermostat":{ 
+            "Thermostat is":"สถานะเทอร์โมสตัทคือ",
+            "Set to":"ตั้งค่าระดับไปที่",
+            "Set Tempreature":"ตั้งค่าอุณหภูมิ",
+            "Set Point":"จุดตั้งค่า",
+            "Mode":"โหมด",
+            "Set Mode":"เลือกโหมด",
+            "Heat":"ความร้อน",
+            "Cool":"ความเย็น",
+            "Auto":"อัตโนมัติ"
+         },
+         "doorbell":{ ออดประตู
+            "At":"ที่",
+            "Doorbell rang":"ออดประตูดังขึ้น"
+         },
+         "dimmerSwitch":{ สวิตช์หรี่ไฟ
+            "Dimmer switch is":"สถานะสวิตช์หรี่ไฟ"
+         }
+      },
+      "account":{ 
+         "Subscriptions":"การสมัครสมาชิก",
+         "Subscription Id":"รหัสการสมัครสมาชิก",
+         "Type":"ชนิด",
+         "Name":"ชื่อ",
+         "From":"มา จาก",
+         "To":"สู่",
+         "Status":"สถาน",
+         "Options":"ตัวเลือก",
+         "Upgrade":"อัพเกรด"
+      },
+      "devices":{ 
+         "Add Device":"เพิ่มอุปกรณ์",
+         "Click on add device":"คลิกที่ปุ่ม 'เพิ่มอุปกรณ์' เพื่อสร้างอุปกรณ์ใหม่.",
+         "Device Information":"ข้อมูลอุปกรณ์",
+         "Code Download":"ดาวน์โหลดโค้ด",
+         "Device Name":"ชื่ออุปกรณ์",
+         "Device Name is required":"จำเป็นต้องใส่ชื่ออุปกรณ์",
+         "Device Description is required":"ต้องระบุรายละเอียดอุปกรณ์",
+         "Device Access Key is required":"ต้องมีรหัสเข้าถึงอุปกรณ์",
+         "Device Type":"ชนิดอุปกรณ์",
+         "Room":"ห้อง",
+         "You can generate":"คุณสามารถสร้างโค้ดหรือใช้โค้ดตัวอย่างจาก GitHub repo",
+         "Type":"ชนิด",
+         "Name":"ชื่อ",
+         "From":"มาจาก",
+         "To":"สู่",
+         "Status":"สถานะ",
+         "Options":"ตัวเลือก",
+         "Upgrade":"อัพเกรด",
+         "Device":"อุปกรณ์",
+         "Description":"รายละเอียด",
+         "Power State":"สถานะพลังงาน",
+         "Last Connected":"การเชื่อมต่อครั้งล่าสุด",
+         "Alexa support is limited":" การใช้งานร่วมกับ Alexa นั้นมีจำกัด สามารถใช่แค่ภาษาอังกฤษ (สหรัฐอเมริกา) สำหรับอุปกรณ์ประเภทนี้.",
+         "Device Access Key":"รหัสการเข้าใช้งานอุปกรณ์"
+      },
+      "rooms":{ 
+         "Add Room":"เพึ่มห้อง",
+         "Room":"ห้อง",
+         "Description":"รายละเอียด",
+         "Home":"บ้าน",
+         "Room Information":"ข้อมูลห้อง",
+         "Assign Devices":"สั่งงานอุปกรณ์",
+         "Room Name":"ชื่อห้อง",
+         "Room Name is required":"จำเป็นต้องใส่ชื่อห้อง",
+         "Room Description is required":"จำเป็นต้องใส่รายละเอียดของห้อง"
+      },
+      "credential":{ 
+         "Your API Keys":"รหัส API ของท่าน",
+         "Your App Keys and Secrets":"รหัสแอปและความลับของท่าน",
+         "New API Key":"รหัส API ใหม่",
+         "New App Key and Secret":"รหัส APIและความลับใหม่",
+         "App Key":"รหัสแอป",
+         "App Secret":"ความลับแอป",
+         "Name":"ชื่อ",
+         "Created On":"ถูกสร้างขึ้นวันที่",
+         "Please copy your api":"โปรดคัดลอกรหัส api ของคุณและเก็บเป็นความลับในที่ที่ปลอดภัยโดยไม่แบ่งปันกับคนอื่น การเปิดเผยข้อมูลรับรองของคุณสู่สาธารณะอาจส่งผลให้บัญชีของคุณถูกบุกรุกซึ่งอาจนำไปสู่ค่าใช้จ่ายที่ไม่คาดคิด.",
+         "API Key":"รหัส API",
+         "Name is required":"จำเป็นต้องใส่ชื่อ",
+         "Application name":"ชื่อแอป"
+      },
+      "whatsnew":{ 
+         "Release Log":"บันทึกประจำ",
+         "Future Plans":"แผนการในอนาคต"
+      },
+      "activitylog":{ 
+         "IP Address":"ที่อยู่ IP",
+         "Location":"สถานที่",
+         "App Name":"ชื่อแอป",
+         "Activity":"กิจกรรม",
+         "Device Name":"ชื่ออุปกรณ์",
+         "Timestamp":"การประทับเวลา",
+         "Last 15 activities":"15 กิจกรรมสล่าสุดในช่วง 3 วันที่ผ่านมา"
+      }
+   },
+   "sidemenu":{ 
+      "Dashboard":"เมนูหลัก",
+      "Devices":"อุปกรณ์",
+      "Rooms":"ห้อง",
+      "Credentials":"ข้อมูลประจำตัว",
+      "Whats New":"อะไรใหม่ๆ",
+      "Account":"บัญชี",
+      "Activity Log":"บันทึกกิจกรรม",
+      "Sign out":"ออกจากระบบ",
+      "Collapse Sidebar":"ยุบแถบข้าง"
+   },
+   "header":{ 
+      "Tutorials":"ข้อมูลวิธีใช้งาน",
+      "API Documentation":"การจัดบันทึก API"
+   }
+}
