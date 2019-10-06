@@ -1,0 +1,39 @@
+Public Name *
+SinricPro
+
+One Sentence Description *
+Collega gratuitamente le schede di sviluppo NodeMCU, WeMos mini D1, ESP8266, ESP32, Arduino, Raspberry Pi con Amazon Alexa!
+
+
+Detailed Description *
+Con Sinric Pro, puoi collegare NodeMCU, WeMos mini D1, ESP8266, ESP32, Arduino, Raspberry Pi o qualsiasi scheda di sviluppo IOT con Alexa che lo controlla GRATUITAMENTE !!
+
+Come usare?
+
+1. Vai a https://sinric.pro.
+
+2. Crea un account e accedi
+
+3. Crea un nuovo dispositivo. ad es .: tv
+
+Utilizzare le credenziali visualizzate nella schermata principale per connettere la scheda di sviluppo.
+
+Ecco un esempio di come connettersi:
+https://github.com/kakopappa/sinric/blob/master/arduino_examples/switch_example.ino
+
+sostituisci le tue credenziali, "il tuo wifi ssid", "la tua password wifi" nel codice.
+
+4. Installa / Abilita l'abilità di casa intelligente Sinric
+
+5. Chiedi ad Alexa di scoprire i dispositivi.
+
+6. Di 'Alexa, accendi "tv"
+ 
+
+Example Phrases *
+Alexa, accendi la tv
+
+Keywords *
+NodeMCU, WeMos mini D1, ESP8266, ESP32, Arduino, Raspberry Pi, domotica, fai-da-te
+
+
