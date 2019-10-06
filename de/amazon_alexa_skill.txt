@@ -2,36 +2,35 @@ Public Name *
 SinricPro
 
 One Sentence Description *
-Verbinden Sie Ihre NodeMCU-, WeMos mini D1-, ESP8266-, ESP32-, Arduino- und Raspberry Pi-Entwicklungsboards kostenlos mit Amazon Alexa!
+Verbinden Sie Ihre ESP8266-, ESP32- und Raspberry Pi basierten Entwicklerboards kostenlos mit Amazon Alexa!
 
 Detailed Description *
-Mit Sinric Pro können Sie Ihre NodeMCU, WeMos mini D1, ESP8266, ESP32, Arduino, Raspberry Pi oder beliebige IOT-Entwicklungsboards KOSTENLOS mit Alexa Control verbinden!
+Mit Sinric Pro können Sie Ihre ESP8266-, ESP32- und Raspberry Pi basierten IOT-Entwicklungsboards KOSTENLOS mit Alexa verbinden!
 
-Wie benutzt man?
+Wie wird der Skill benutzt?
 
-1. Gehen Sie zu https://sinric.pro.
+1. Gehen Sie auf https://sinric.pro.
 
 2. Erstellen Sie ein Konto und melden Sie sich an
 
 3. Erstellen Sie ein neues Gerät. zB: tv
 
-Verwenden Sie die auf dem Startbildschirm angezeigten Anmeldeinformationen, um eine Verbindung zu Ihrer Entwicklungsplatine herzustellen.
+Verwenden Sie die auf der Willkommensseite angezeigten Zugangsdaten, um Ihr Entwicklungsboard mit SinricPro zu verbinden.
 
-Hier ist ein Beispiel, wie man eine Verbindung herstellt:
+Hier ist ein Beispiel, wie Sie mit Ihrem Entwicklungsboard eine Verbindung herstellen:
 https://github.com/kakopappa/sinric/blob/master/arduino_examples/switch_example.ino
 
-Ersetzen Sie Ihre Anmeldeinformationen, "Ihre WLAN-SSID", "Ihr WLAN-Passwort" im Code.
+Ersetzen Sie Ihre Zugangsdaten, "Ihre WLAN-SSID", "Ihr WLAN-Passwort" im Code.
 
-4. Installieren / Aktivieren Sie die Fertigkeit Sinric Smart Home
+4. Installieren / Aktivieren Sie den Skill Sinric Smart Home
 
-5. Bitten Sie Alexa, Geräte zu erkennen.
+5. Bitten Sie Alexa, neue Geräte zu suchen.
 
-6. Sag Alexa, schalte "tv" ein
+6. Sagen Sie "Alexa, schalte 'tv' ein"
 
 
 Example Phrases*
 Alexa, schalte den Fernseher ein
 
 Keywords *
-NodeMCU, WeMos mini D1, ESP8266, ESP32, Arduino, RaspberryPi, Heimautomatisierung, DIY
-
+NodeMCU, WeMos mini D1, ESP8266, ESP32, RaspberryPi, Heimautomatisierung, DIY, Smart Home
