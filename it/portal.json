@@ -1,0 +1,246 @@
+{
+    "language": "Inglese",
+    "Success": "Successo!",
+    "Refresh": "ricaricare",
+    "Delete": "Elimina",
+    "Edit": "modificare",
+    "Save": "Salva",
+    "Copy": "copia",
+    "How to connect my device": "Come collegare il mio dispositivo?",
+    "On": "Sopra",
+    "Off": "via",
+    "Power level is": "Il livello di potenza è",
+    "Set to": "Impostato",
+    "pages": {
+        "register": {
+            "Creating Account": "Creazione account, attendere prego ....",
+            "Create your Sinric Pro Account": "Crea il tuo account Sinric Pro",
+            "Get started with": "Inizia con 5 dispositivi gratuitamente. Nessuna limitazione",
+            "Data retention": "Conservazione dei dati fino a 1 mese.",
+            "Access logs": "Accedi ai registri fino a 3 giorni.",
+            "If you need more devices": "Se hai bisogno di più dispositivi, sono solo 3 $ per dispositivo per un anno.",
+            "Already have an account": "Hai già un account ?",
+            "Login": "Accesso",
+            "Full name": "Nome e cognome",
+            "Full name is required": "È richiesto il nome completo",
+            "Email": "E-mail",
+            "Email is required": "Email obbligatoria",
+            "Password": "Parola d'ordine",
+            "Password is required": "E 'richiesta la password",
+            "Password must be at least 5 characters": "La password deve contenere almeno 5 caratteri",
+            "Language": "linguaggio",
+            "Language is required": "Lingua richiesta",
+            "Timezone": "Fuso orario",
+            "Timezone is required": "È richiesto il fuso orario",
+            "Temperature Scale": "Scala di temperatura",
+            "Temperature Scale is required": "È richiesta la scala di temperatura",
+            "By clicking the": "Facendo clic sul pulsante \"Registrati\", stai creando un account Register e accetti i Termini d'uso e la Politica sulla privacy di Register.",
+            "Email Confirmation Required": "Conferma email richiesta",
+            "We have sent an email": "Abbiamo inviato un'email con un link di conferma al tuo indirizzo email. Se non ricevi un'email di conferma",
+            "Please check your spam folder": "controlla la tua cartella spam."
+        },
+        "forgotpassword": {
+            "Forgot password": "Ha dimenticato la password",
+            "Enter your email address": "Inserisci il tuo indirizzo e-mail e la password verrà reimpostata e inviata per e-mail.",
+            "Email address": "Indirizzo email",
+            "Email is required": "Email obbligatoria",
+            "Send me new password": "Inviami una nuova password",
+            "Send me back": "rimandami indietro",
+            "Forget it": "Dimenticalo,",
+            "To the sign in screen": "alla schermata di accesso"
+        },
+        "login": {
+            "Email address": "Indirizzo email",
+            "Password is required": "E 'richiesta la password",
+            "Log in": "Accesso",
+            "Password": "Parola d'ordine",
+            "Register": "Registrati",
+            "Dont have account yet": "Non hai ancora un account?",
+            "I forgot password": "Ho dimenticato la password",
+            "Username is required": "è richiesto uno username"
+        },
+        "dashboard": {
+            "Resend": "inviare di nuovo",
+            "Waiting": "In attesa ...",
+            "Turn On": "Accendere",
+            "Turn Off": "Spegni",
+            "Color": "Colore",
+            "Brightness": "Luminosità",
+            "Its lonely here": "È solo qui.",
+            "To get started add a new device from device tab": "Per iniziare, aggiungi un nuovo dispositivo dalla scheda del dispositivo.",
+            "is online now": "è online adesso!",
+            "is offline now": "non è in linea ora!",
+            "deviceName is powerState now": "$ deviceName è $ powerState ora.",
+            "Please verify email address": "Verifica il tuo indirizzo e-mail per accedere a tutte le funzionalità di Sinric",
+            "devices": "dispositivi",
+            "Ding Dong": "Ding Dong!",
+            "Power is": "Il potere è",
+            "Temperature": "Temperatura",
+            "Humidity": "Umidità",
+            "smartlock": {
+                "Lock": "Serratura",
+                "Unlock": "Sbloccare",
+                "Locked": "Bloccato",
+                "Unlocked": "sbloccato",
+                "Lock is": "Lock è"
+            },
+            "light": {
+                "Brightness": "Luminosità",
+                "Light is": "La luce è",
+                "Brightness set to": "Luminosità impostata su",
+                "Color": "Colore"
+            },
+            "switch": {
+                "Switch is": "Switch è"
+            },
+            "speaker": {
+                "Speaker is": "Lo speaker è",
+                "Muted": "smorzato",
+                "Mute": "muto",
+                "Unmute": "Attiva",
+                "Volume": "Volume",
+                "Set volume": "Imposta volume"
+            },
+            "tv": {
+                "Television is": "La televisione è"
+            },
+            "contact": {
+                "Contact was": "Il contatto era",
+                "Contact is": "Il contatto è",
+                "At": "a",
+                "Opened": "ha aperto",
+                "Closed": "chiuso",
+                "Open": "Aperto",
+                "Close": "Vicino"
+            },
+            "motion": {
+                "Motion detected": "Movimento rilevato!",
+                "At": "a",
+                "Detected": "rilevato",
+                "Not Detected": "Non rilevati",
+                "Trigger": "grilletto"
+            },
+            "fan": {
+                "Fan is": "Fan è",
+                "Level set to": "Livello impostato su",
+                "Set level": "Imposta livello",
+                "Level 1": "1",
+                "Level 2": "2",
+                "Level 3": "3"
+            },
+            "acUnit": {
+                "AC is": "AC è",
+                "Set to": "Impostato",
+                "Set Tempreature": "Imposta Tempreature"
+            },
+            "thermostat": {
+                "Thermostat is": "Il termostato è",
+                "Set to": "Impostato",
+                "Set Tempreature": "Imposta Tempreature",
+                "Set Point": "Set Point",
+                "Mode": "Modalità",
+                "Set Mode": "Modalità impostata",
+                "Heat": "Calore",
+                "Cool": "Freddo",
+                "Auto": "Auto"
+            },
+            "doorbell": {
+                "At": "a",
+                "Doorbell rang": "Il campanello ha suonato"
+            },
+            "dimmerSwitch": {
+                "Dimmer switch is": "Il dimmer è"
+            }
+        },
+        "account": {
+            "Subscriptions": "Sottoscrizioni",
+            "Subscription Id": "ID iscrizione",
+            "Type": "genere",
+            "Name": "Nome",
+            "From": "A partire dal",
+            "To": "Per",
+            "Status": "Stato",
+            "Options": "Opzioni",
+            "Upgrade": "aggiornamento"
+        },
+        "devices": {
+            "Add Device": "Aggiungi dispositivo",
+            "Click on add device": "Fai clic sul pulsante \"Aggiungi dispositivo\" per creare un nuovo dispositivo.",
+            "Device Information": "Informazioni sul dispositivo",
+            "Code Download": "Download del codice",
+            "Device Name": "Nome del dispositivo",
+            "Device Name is required": "Nome dispositivo richiesto",
+            "Device Description is required": "È richiesta la descrizione del dispositivo",
+            "Device Access Key is required": "È richiesta la chiave di accesso al dispositivo",
+            "Device Type": "Tipo di dispositivo",
+            "Room": "Camera",
+            "You can generate": "È possibile generare il codice o utilizzare un esempio di codice dal repository GitHub",
+            "Type": "genere",
+            "Name": "Nome",
+            "From": "A partire dal",
+            "To": "Per",
+            "Status": "Stato",
+            "Options": "Opzioni",
+            "Upgrade": "aggiornamento",
+            "Device": "Dispositivo",
+            "Description": "Descrizione",
+            "Power State": "Stato di alimentazione",
+            "Last Connected": "Ultima connessione",
+            "Alexa support is limited": "Il supporto di Alexa è limitato alla lingua inglese (US) per questo tipo di dispositivo.",
+            "Device Access Key": "Chiave di accesso al dispositivo"
+        },
+        "rooms": {
+            "Add Room": "Aggiungi stanza",
+            "Room": "Camera",
+            "Description": "Descrizione",
+            "Home": "Casa",
+            "Room Information": "Informazioni sulla camera",
+            "Assign Devices": "Assegna dispositivi",
+            "Room Name": "Nome della stanza",
+            "Room Name is required": "È richiesto il nome della stanza",
+            "Room Description is required": "È richiesta la descrizione della camera"
+        },
+        "credential": {
+            "Your API Keys": "Le tue chiavi API",
+            "Your App Keys and Secrets": "Chiavi e segreti della tua app",
+            "New API Key": "Nuova chiave API",
+            "New App Key and Secret": "Nuova chiave app e segreto",
+            "App Key": "Chiave app",
+            "App Secret": "App Secret",
+            "Name": "Nome",
+            "Created On": "Creato",
+            "Please copy your api": "Copia la tua chiave API e mantieni il segreto in un luogo sicuro senza condividerlo con nessun altro. Esporre pubblicamente le tue credenziali può comportare la compromissione del tuo account, con conseguenti addebiti imprevisti sul tuo account.",
+            "API Key": "Chiave API",
+            "Name is required": "Nome richiesto",
+            "Application name": "Nome dell'applicazione"
+        },
+        "whatsnew": {
+            "Release Log": "Registro delle versioni",
+            "Future Plans": "Progetti futuri"
+        },
+        "activitylog": {
+            "IP Address": "Indirizzo IP",
+            "Location": "Posizione",
+            "App Name": "Nome dell'applicazione",
+            "Activity": "Attività",
+            "Device Name": "Nome del dispositivo",
+            "Timestamp": "timestamp",
+            "Last 15 activities": "Ultime 15 attività negli ultimi 3 giorni"
+        }
+    },
+    "sidemenu": {
+        "Dashboard": "Cruscotto",
+        "Devices": "dispositivi",
+        "Rooms": "Camere",
+        "Credentials": "Credenziali",
+        "Whats New": "Cosa c'è di nuovo",
+        "Account": "account",
+        "Activity Log": "Registro delle attività",
+        "Sign out": "disconnessione",
+        "Collapse Sidebar": "Comprimi barra laterale"
+    },
+    "header": {
+        "Tutorials": "Esercitazioni",
+        "API Documentation": "Documentazione API"
+    }
+}

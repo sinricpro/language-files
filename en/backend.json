@@ -51,5 +51,6 @@
    "invalidMessageFormat":"Invalid message format: %s",
    "messageTypeNotFoundOrSupported":"Message type is not found or supported",
    "licenseNotFound":"License not found",
-   "yourAccountHasExceededMax":"Your account has exceeded the maximum number of registered devices. You can buy more devices from Account menu"
+   "yourAccountHasExceededMax":"Your account has exceeded the maximum number of registered devices. You can buy more devices from Account menu",
+   "alexaSkillLinked" : "Alexa Smart Home Skill linked"
 }

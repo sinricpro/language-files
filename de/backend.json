@@ -51,5 +51,6 @@
     "invalidMessageFormat": "Ungültiges Nachrichtenformat:%s",
     "messageTypeNotFoundOrSupported": "Nachrichtentyp wird nicht gefunden oder unterstützt",
     "licenseNotFound": "Lizenz nicht gefunden",
-    "yourAccountHasExceededMax": "Ihr Konto hat die maximale Anzahl registrierter Geräte überschritten. Sie können weitere Geräte über das Menü 'Konto' kaufen"
+    "yourAccountHasExceededMax": "Ihr Konto hat die maximale Anzahl registrierter Geräte überschritten. Sie können weitere Geräte über das Menü 'Konto' kaufen",
+    "alexaSkillLinked" : "Alexa Smart Home Skill verknüpft"
 }

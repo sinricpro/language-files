@@ -51,5 +51,7 @@
    "invalidMessageFormat":"รูปแบบข้อความไม่ถูกต้อง: %s",
    "messageTypeNotFoundOrSupported":"ไม่พบหรือสนับสนุนข้อความประเภทนี้",
    "licenseNotFound":"ไม่พบใบอนุญาตของบัญชีนี้",
-   "yourAccountHasExceededMax":"บัญชีของคุณมีอุปกรณ์ที่ลงทะเบียนเกินจำนวนสูงสุดแล้ว คุณสามารถซื้ออุปกรณ์เพิ่มเติมได้จากเมนูบัญชี"
+   "yourAccountHasExceededMax":"บัญชีของคุณมีอุปกรณ์ที่ลงทะเบียนเกินจำนวนสูงสุดแล้ว คุณสามารถซื้ออุปกรณ์เพิ่มเติมได้จากเมนูบัญชี",
+   "alexaSkillLinked" : "เชื่อมโยง Alexa Smart Home Skill แล้ว"
+
 }
