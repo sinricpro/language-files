@@ -1,38 +1,35 @@
-Public Name *
-SinricPro
+*Public Name*
+Sinric Pro 
 
-One Sentence Description *
-NodeMCU、WeMos mini D1、ESP8266、ESP32、Arduino、Raspberry Pi開発ボードをAmazon Alexaに無料で接続します！
+*One Sentence Description*
+NodeMCU、WeMos D1 mini、ESP8266、ESP32、Raspberry Pi、Arduino、およびその他の開発ボードをSinric Proに接続して、Amazon Alexa統合を無料で追加してください！
 
+*Detailed Description*
+Sinric Proを使用すると、信頼性の高いスキルを使用してIOT開発ボードをAlexaに接続できます。これ以上グリッチなエミュレーションは必要ありません。 Sinric Proは、すべてのAmazon IOTデバイスタイプをサポートし、Python、C ++、NodeJSライブラリとサンプルを提供して、数分以内に実行できるようにします。上級ユーザー向けに、独自のカスタムデバイスを作成し、ルームとルーチンをセットアップし、REST APIを介してすべてのデバイスを監視できます。高可用性、安全性が高く、十分に文書化されたAlexa統合をプロジェクト用に無料でロック解除しましょう！
 
-Detailed Description *
-Sinric Proを使用すると、NodeMCU、WeMos mini D1、ESP8266、ESP32、Arduino、Raspberry Pi、または任意のIOT開発ボードをAlexaで接続して無料で制御できます!!
+入門：
 
-使い方？
+1. https://sinric.proにアクセスします
 
-1. https://sinric.proに移動します。
+2.無料アカウントを作成してログイン
 
-2.アカウントを作成してログインする
+3. Alexaアプリまたはダッシュボードから、「Sinric Pro」スマートホームスキルをインストールして有効にします
 
-3.新しいデバイスを作成します。例：テレビ
+4.テレビなどの新しいデバイスを作成します。新しいデバイスの認証トークン、署名キー、およびデバイスIDをメモします。
 
-ホーム画面に表示される資格情報を使用して、開発ボードを接続します。
+5. Amazon Alexaアプリには、新しいデバイスが検出されたというプッシュ通知が表示されます。
 
-接続方法の例を次に示します。
+7.このサンプルスケッチをアップロードするか、既存のPythonまたはC ++ライブラリをプロジェクトボードに使用します。
+
 https://github.com/kakopappa/sinric/blob/master/arduino_examples/switch_example.ino
 
-コード内の資格情報、「wifi ssid」、「wifiパスワード」を置き換えます。
+トークン、署名キー、およびWiFI資格情報を独自のものに置き換えます。
 
-4. Sinricスマートホームスキルのインストール/有効化
+8.それだけです！
 
-5. Alexaにデバイスの検出を依頼します。
+*Example Phrases*
+アレクサ、テレビをつけて」
+アレクサ、テレビを消して」
 
-6.アレクサと言って、「テレビ」をオンにします
-
-
-Example Phrases *
-アレクサ、テレビをつける
-
-Keywords *
-NodeMCU、WeMos mini D1、ESP8266、ESP32、Arduino、RaspberryPi、ホームオートメーション、DIY
-
+Keywords  
+Alexa、ホームオートメーション、DIY、IOT、スマートホーム、NodeMCU、WeMos / Lolin D1 mini、Expressif Systems、ESP8266、ESP32、Arduino、RaspberryPi
