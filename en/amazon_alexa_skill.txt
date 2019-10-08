@@ -1,36 +1,37 @@
-Public Name *
-SinricPro
+*Public Name*
+Sinric Pro 
 
-One Sentence Description *
-Connect your NodeMCU, WeMos mini D1, ESP8266, ESP32, Arduino, Raspberry Pi development boards with Amazon Alexa for free!
+*One Sentence Description*
+Connect your NodeMCU, WeMos D1 mini, ESP8266, ESP32, Raspberry Pi, Arduino and other development boards to Sinric Pro to add Amazon Alexa integration for FREE! 
 
-Detailed Description *
-With Sinric Pro, you can connect your NodeMCU, WeMos mini D1, ESP8266, ESP32, Arduino, Raspberry Pi or any IOT development boards with Alexa control it for FREE !!
+*Detailed Description*
+With Sinric Pro, you can connect your IOT development board to Alexa with a reliable skill - No more glitchy emulation.  Sinric Pro supports all Amazon IOT device type and offers Python, C++, NodeJS libraries with examples to get you up-and-running within minutes.  For advanced users, you can create your own custom devices, setup rooms and routines, and monitor all your devices via REST API.  Unlock high-availability, highly secure, and well-documented Alexa Integration for your projects for FREE today! 
 
-How to use?
+Getting started: 
 
-1. Goto https://sinric.pro.
+1. Visit https://sinric.pro 
 
-2. Create an account and log in
+2. Create a Free account and log in 
 
-3. Create a new device. eg: tv
+3. From the Alexa app or dashboard, Install & Enable the "Sinric Pro" Smart Home Skill 
 
-Use the credentials displayed on the home screen to connect your development board.
+4. Create a new device eg: TV. Note the authorization token, signing key, and device-ID for your new device. 
 
-Here is an example of how to connect :
-https://github.com/kakopappa/sinric/blob/master/arduino_examples/switch_example.ino
+5. Amazon Alexa app will show a push notification that it discovered your new device.  
 
-replace your credentials, "your wifi ssid", "your wifi password" in the code.
+7. Upload this example sketch or use our existing Python or C++ libraries to your project board: 
 
-4. Install / Enable Sinric smart home skill
+https://github.com/kakopappa/sinric/blob/master/arduino_examples/switch_example.ino 
 
-5. Ask Alexa to discover devices.
+Replace the token, signing key and WiFI credentials with your own. 
 
-6. Say Alexa, turn on "tv"
+8. That’s It! 
+ 
 
+*Example Phrases*
+"Alexa, turn on the TV" 
+"Alexa, turn off the TV"
+ 
 
-Example Phrases *
-Alexa, turn on tv
-
-Keywords *
-NodeMCU, WeMos mini D1, ESP8266, ESP32, Arduino, RaspberryPi, home automation, DIY
+Keywords  
+Alexa, Home Automation, DIY, IOT, Smart Home, NodeMCU, WeMos/Lolin D1 mini, Expressif Systems, ESP8266, ESP32, Arduino, RaspberryPi
