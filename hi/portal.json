@@ -70,7 +70,7 @@
             "To get started add a new device from device tab": "आरंभ करने के लिए, डिवाइस टैब से एक नया उपकरण जोड़ें।",
             "is online now": "अभी ऑनलाइन है!",
             "is offline now": "अभी ऑफ़लाइन है!",
-            "deviceName is powerState now": "$ डिवाइसनाम अब $ पॉवरस्टेट है।",
+            "deviceName is powerState now": "$deviceName अब $powerState है।",
             "Please verify email address": "कृपया अपने ईमेल पते को सत्यापित कर सभी सिनरिक सुविधाओं तक पहुँच प्राप्त करें",
             "devices": "उपकरण",
             "Ding Dong": "डिंग डोंग!",

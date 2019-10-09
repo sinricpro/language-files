@@ -11,19 +11,19 @@ Iniziare:
 
 1. Visita https://sinric.pro
 
-2. Crea un account gratuito e accedi
+2. Crea un account gratuito ed accedi
 
-3. Dall'app Alexa o dalla dashboard, installa e abilita l'abilità Smart Home "Sinric Pro"
+3. Dall'app Alexa o dalla dashboard, installa ed abilita Smart Home "Sinric Pro"
 
-4. Creare un nuovo dispositivo, ad esempio: TV. Nota il token di autorizzazione, la chiave di firma e l'ID dispositivo per il tuo nuovo dispositivo.
+4. Crea un nuovo dispositivo, ad esempio: TV. annota il codice di autorizzazione, la chiave di accesso e l'ID per il tuo nuovo dispositivo.
 
-5. L'app Amazon Alexa mostrerà una notifica push che ha scoperto il tuo nuovo dispositivo.
+5. L'app Amazon Alexa mostrerà una notifica di tipo push quando rileva il tuo nuovo dispositivo.
 
-7. Carica questo schizzo di esempio o usa le nostre librerie Python o C ++ esistenti sulla scheda del tuo progetto:
+7. Carica il seguente esempio di codice o usa le nostre librerie Python o C ++ nel tuo progetto:
 
 https://github.com/kakopappa/sinric/blob/master/arduino_examples/switch_example.ino
 
-Sostituisci il token, la chiave di firma e le credenziali WiFI con le tue.
+Sostituisci il codice di autorizzazione "token", la chiave di accesso e le credenziali WiFI con i dati in tuo possesso.
 
 8. Questo è tutto!
 

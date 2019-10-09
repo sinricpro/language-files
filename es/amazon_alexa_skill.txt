@@ -1,0 +1,38 @@
+Nombre publico
+Sinric Pro
+
+Descripción en oración
+¡Conecte su NodeMCU, WeMos D1 mini, ESP8266, ESP32, Raspberry Pi, Arduino y otras placas de desarrollo a Sinric Pro para agregar Amazon Alexa GRATIS!
+ 
+
+Descripción detallada
+Con Sinric Pro, puedes conectar tu placa de desarrollo IOT a Alexa con una skill confiable: sin emulaciones que dan errores. Sinric Pro es compatible con todos los tipos de dispositivos Amazon IOT y ofrece bibliotecas Python, C ++, NodeJS con ejemplos para ponerlo en funcionamiento en cuestión de minutos. Para usuarios avanzados, puedes crear tus propios dispositivos personalizados, configurar salas y rutinas, y monitorear todos tus dispositivos a través de REST API. ¡Desbloquea la integración de Alexa con alta disponibilidad, altamente segura y bien documentada para tus proyectos GRATIS hoy!
+
+Empezando:
+
+1. Visita https://sinric.pro
+
+2. Crea una cuenta gratuita e inicie sesión
+
+3. Desde la aplicación o el panel de Alexa, instale y habilite la skill/aplicación  "Sinric Pro"
+
+4. Crea un nuevo dispositivo, por ejemplo: TV. Apunta la clave de autorización, la clave de la firma y la ID del dispositivo para tu nuevo dispositivo.
+
+5. La aplicación Amazon Alexa mostrará una notificación automática de que descubrió un nuevo dispositivo.
+
+7. Cargue este sketch de ejemplo o use nuestras bibliotecas existentes de Python o C ++ en su tablero de proyecto:
+
+https://github.com/kakopappa/sinric/blob/master/arduino_examples/switch_example.ino
+
+Reemplace la clave de autorización, la clave de firma y las credenciales de WiFI con las suyas.
+
+8. ¡Ya está!
+ 
+
+Frases de ejemplo
+"Alexa, enciende la TV"
+"Alexa, apaga el televisor"
+ 
+
+Palabras clave
+Alexa, domótica, bricolaje, IOT, hogar inteligente, NodeMCU, WeMos / Lolin D1 mini, Expressif Systems, ESP8266, ESP32, Arduino, RaspberryPi

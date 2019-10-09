@@ -1,5 +1,5 @@
 {
-    "language": "Inglese",
+    "language": "Italiano",
     "Success": "Successo!",
     "Refresh": "ricaricare",
     "Delete": "Elimina",
@@ -7,8 +7,8 @@
     "Save": "Salva",
     "Copy": "copia",
     "How to connect my device": "Come collegare il mio dispositivo?",
-    "On": "Sopra",
-    "Off": "via",
+    "On": "Acceso",
+    "Off": "Spento",
     "Power level is": "Il livello di potenza è",
     "Set to": "Impostato",
     "pages": {
@@ -25,16 +25,16 @@
             "Full name is required": "È richiesto il nome completo",
             "Email": "E-mail",
             "Email is required": "Email obbligatoria",
-            "Password": "Parola d'ordine",
+            "Password": "Password",
             "Password is required": "E 'richiesta la password",
             "Password must be at least 5 characters": "La password deve contenere almeno 5 caratteri",
-            "Language": "linguaggio",
-            "Language is required": "Lingua richiesta",
+            "Language": "lingua",
+            "Language is required": "La Lingua richiesta",
             "Timezone": "Fuso orario",
             "Timezone is required": "È richiesto il fuso orario",
             "Temperature Scale": "Scala di temperatura",
             "Temperature Scale is required": "È richiesta la scala di temperatura",
-            "By clicking the": "Facendo clic sul pulsante \"Registrati\", stai creando un account Register e accetti i Termini d'uso e la Politica sulla privacy di Register.",
+            "By clicking the": "Facendo clic sul pulsante \"Registrati\", stai creando un account e accetti i Termini d'uso e la Politica sulla privacy di Register.",
             "Email Confirmation Required": "Conferma email richiesta",
             "We have sent an email": "Abbiamo inviato un'email con un link di conferma al tuo indirizzo email. Se non ricevi un'email di conferma",
             "Please check your spam folder": "controlla la tua cartella spam."
@@ -45,44 +45,44 @@
             "Email address": "Indirizzo email",
             "Email is required": "Email obbligatoria",
             "Send me new password": "Inviami una nuova password",
-            "Send me back": "rimandami indietro",
+            "Send me back": "torna indietro",
             "Forget it": "Dimenticalo,",
-            "To the sign in screen": "alla schermata di accesso"
+            "To the sign in screen": "vai alla schermata di accesso"
         },
         "login": {
             "Email address": "Indirizzo email",
             "Password is required": "E 'richiesta la password",
             "Log in": "Accesso",
-            "Password": "Parola d'ordine",
+            "Password": "Password",
             "Register": "Registrati",
             "Dont have account yet": "Non hai ancora un account?",
             "I forgot password": "Ho dimenticato la password",
-            "Username is required": "è richiesto uno username"
+            "Username is required": "è richiesta una username"
         },
         "dashboard": {
             "Resend": "inviare di nuovo",
             "Waiting": "In attesa ...",
-            "Turn On": "Accendere",
+            "Turn On": "Accendi",
             "Turn Off": "Spegni",
             "Color": "Colore",
             "Brightness": "Luminosità",
             "Its lonely here": "È solo qui.",
             "To get started add a new device from device tab": "Per iniziare, aggiungi un nuovo dispositivo dalla scheda del dispositivo.",
             "is online now": "è online adesso!",
-            "is offline now": "non è in linea ora!",
-            "deviceName is powerState now": "$ deviceName è $ powerState ora.",
+            "is offline now": "non è connesso ora!",
+            "deviceName is powerState now": "$deviceName è $powerState ora.",
             "Please verify email address": "Verifica il tuo indirizzo e-mail per accedere a tutte le funzionalità di Sinric",
             "devices": "dispositivi",
             "Ding Dong": "Ding Dong!",
-            "Power is": "Il potere è",
+            "Power is": "la potenza è",
             "Temperature": "Temperatura",
             "Humidity": "Umidità",
             "smartlock": {
-                "Lock": "Serratura",
-                "Unlock": "Sbloccare",
+                "Lock": "Blocca",
+                "Unlock": "Sblocca",
                 "Locked": "Bloccato",
                 "Unlocked": "sbloccato",
-                "Lock is": "Lock è"
+                "Lock is": "lo stato del blocco è"
             },
             "light": {
                 "Brightness": "Luminosità",
@@ -95,11 +95,11 @@
             },
             "speaker": {
                 "Speaker is": "Lo speaker è",
-                "Muted": "smorzato",
-                "Mute": "muto",
-                "Unmute": "Attiva",
+                "Muted": "silenziato",
+                "Mute": "non attivo",
+                "Unmute": "attivo",
                 "Volume": "Volume",
-                "Set volume": "Imposta volume"
+                "Set volume": "Imposta il volume"
             },
             "tv": {
                 "Television is": "La televisione è"
@@ -108,20 +108,20 @@
                 "Contact was": "Il contatto era",
                 "Contact is": "Il contatto è",
                 "At": "a",
-                "Opened": "ha aperto",
-                "Closed": "chiuso",
+                "Opened": "è aperto",
+                "Closed": "è chiuso",
                 "Open": "Aperto",
-                "Close": "Vicino"
+                "Close": "Chiuso"
             },
             "motion": {
                 "Motion detected": "Movimento rilevato!",
                 "At": "a",
                 "Detected": "rilevato",
-                "Not Detected": "Non rilevati",
-                "Trigger": "grilletto"
+                "Not Detected": "Non rilevato",
+                "Trigger": "livello"
             },
             "fan": {
-                "Fan is": "Fan è",
+                "Fan is": "Il ventilatore è",
                 "Level set to": "Livello impostato su",
                 "Set level": "Imposta livello",
                 "Level 1": "1",
@@ -135,13 +135,13 @@
             },
             "thermostat": {
                 "Thermostat is": "Il termostato è",
-                "Set to": "Impostato",
-                "Set Tempreature": "Imposta Tempreature",
-                "Set Point": "Set Point",
+                "Set to": "Imposta a",
+                "Set Tempreature": "Imposta Temperatura",
+                "Set Point": "Imposta livello Temperatura",
                 "Mode": "Modalità",
-                "Set Mode": "Modalità impostata",
-                "Heat": "Calore",
-                "Cool": "Freddo",
+                "Set Mode": "Impostata Modalità",
+                "Heat": "Riscaldamento",
+                "Cool": "Raffreddamento",
                 "Auto": "Auto"
             },
             "doorbell": {
@@ -173,7 +173,7 @@
             "Device Description is required": "È richiesta la descrizione del dispositivo",
             "Device Access Key is required": "È richiesta la chiave di accesso al dispositivo",
             "Device Type": "Tipo di dispositivo",
-            "Room": "Camera",
+            "Room": "Stanza",
             "You can generate": "È possibile generare il codice o utilizzare un esempio di codice dal repository GitHub",
             "Type": "genere",
             "Name": "Nome",
@@ -209,7 +209,7 @@
             "App Secret": "App Secret",
             "Name": "Nome",
             "Created On": "Creato",
-            "Please copy your api": "Copia la tua chiave API e mantieni il segreto in un luogo sicuro senza condividerlo con nessun altro. Esporre pubblicamente le tue credenziali può comportare la compromissione del tuo account, con conseguenti addebiti imprevisti sul tuo account.",
+            "Please copy your api": "Copia la tua chiave API e conservala in un luogo sicuro senza condividerlo con nessun altro. Esporre pubblicamente le tue credenziali può comportare la compromissione del tuo account, con conseguenti addebiti imprevisti sul tuo account.",
             "API Key": "Chiave API",
             "Name is required": "Nome richiesto",
             "Application name": "Nome dell'applicazione"
@@ -231,7 +231,7 @@
     "sidemenu": {
         "Dashboard": "Cruscotto",
         "Devices": "dispositivi",
-        "Rooms": "Camere",
+        "Rooms": "Stanze",
         "Credentials": "Credenziali",
         "Whats New": "Cosa c'è di nuovo",
         "Account": "account",
