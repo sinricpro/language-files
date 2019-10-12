@@ -74,7 +74,7 @@
             "Please verify email address": "Bitte überprüfen Sie Ihre E-Mail Adresse, um auf alle Funktionen von Sinric zugreifen zu können",
             "devices": "Geräte",
             "Ding Dong": "Ding Dong!",
-            "Power is": "Macht ist",  // What is meant with this? It makes no sense in German.
+            "Power is": "Macht ist",
             "Temperature": "Temperatur",
             "Humidity": "Feuchtigkeit",
             "smartlock": {
