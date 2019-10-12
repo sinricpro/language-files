@@ -4,7 +4,7 @@
     "Refresh": "Aktualisierung",
     "Delete": "Löschen",
     "Edit": "Bearbeiten",
-    "Save": "sparen",
+    "Save": "Speichern",
     "Copy": "Kopieren",
     "How to connect my device": "Wie verbinde ich mein Gerät?",
     "On": "Auf",
@@ -23,18 +23,18 @@
             "Login": "Einloggen",
             "Full name": "Vollständiger Name",
             "Full name is required": "Der vollständige Name ist erforderlich",
-            "Email": "Email",
-            "Email is required": "E-Mail ist erforderlich",
+            "Email": "E-Mail",
+            "Email is required": "Die E-Mail Adresse ist erforderlich",
             "Password": "Passwort",
-            "Password is required": "Passwort wird benötigt",
+            "Password is required": "Ein Passwort wird benötigt",
             "Password must be at least 5 characters": "Das Passwort muss aus mindestens 5 Zeichen bestehen",
             "Language": "Sprache",
-            "Language is required": "Sprache ist erforderlich",
+            "Language is required": "Die Spracheinstellung ist erforderlich",
             "Timezone": "Zeitzone",
-            "Timezone is required": "Zeitzone ist erforderlich",
+            "Timezone is required": "Die Zeitzone ist erforderlich",
             "Temperature Scale": "Temperaturskala",
             "Temperature Scale is required": "Temperaturskala ist erforderlich",
-            "By clicking the": "Wenn Sie auf die Schaltfläche \"Registrieren\" klicken, erstellen Sie ein Registrierungskonto und stimmen den Nutzungsbedingungen und Datenschutzbestimmungen von Register zu.",
+            "By clicking the": "Wenn Sie auf die Schaltfläche \"Registrieren\" klicken, erstellen Sie ein Registrierungskonto und stimmen den Nutzungsbedingungen und Datenschutzbestimmungen zu.",
             "Email Confirmation Required": "E-Mail-Bestätigung erforderlich",
             "We have sent an email": "Wir haben eine E-Mail mit einem Bestätigungslink an Ihre E-Mail-Adresse gesendet. Wenn Sie keine Bestätigungsmail erhalten",
             "Please check your spam folder": "Bitte überprüfen Sie Ihren Spam-Ordner."
@@ -42,7 +42,7 @@
         "forgotpassword": {
             "Forgot password": "Passwort vergessen",
             "Enter your email address": "Geben Sie Ihre E-Mail-Adresse ein und Ihr Passwort wird zurückgesetzt und per E-Mail an Sie gesendet.",
-            "Email address": "E-Mail-Addresse",
+            "Email address": "E-Mail Adresse",
             "Email is required": "E-Mail ist erforderlich",
             "Send me new password": "Sende mir ein neues Passwort",
             "Send me back": "schick mich zurück",
@@ -50,8 +50,8 @@
             "To the sign in screen": "zum Anmeldebildschirm"
         },
         "login": {
-            "Email address": "E-Mail-Addresse",
-            "Password is required": "Passwort wird benötigt",
+            "Email address": "E-Mail Adresse",
+            "Password is required": "Ein Passwort wird benötigt",
             "Log in": "Anmeldung",
             "Password": "Passwort",
             "Register": "Registrieren",
@@ -62,7 +62,7 @@
         "dashboard": {
             "Resend": "Erneut senden",
             "Waiting": "Warten ...",
-            "Turn On": "Schalte ein",
+            "Turn On": "Einschalten",
             "Turn Off": "Ausschalten",
             "Color": "Farbe",
             "Brightness": "Helligkeit",
@@ -71,18 +71,18 @@
             "is online now": "ist gerade online!",
             "is offline now": "ist offline",
             "deviceName is powerState now": "$deviceName ist jetzt $powerState.",
-            "Please verify email address": "Bitte überprüfen Sie Ihre E-Mail-Adresse, um auf alle Funktionen von Sinric zugreifen zu können",
+            "Please verify email address": "Bitte überprüfen Sie Ihre E-Mail Adresse, um auf alle Funktionen von Sinric zugreifen zu können",
             "devices": "Geräte",
             "Ding Dong": "Ding Dong!",
-            "Power is": "Macht ist",
+            "Power is": "Das Gerät ist",
             "Temperature": "Temperatur",
             "Humidity": "Feuchtigkeit",
             "smartlock": {
-                "Lock": "Sperren",
-                "Unlock": "Freischalten",
-                "Locked": "Verschlossen",
-                "Unlocked": "Entriegelt",
-                "Lock is": "Sperre ist"
+                "Lock": "Schließen",
+                "Unlock": "Öffnen",
+                "Locked": "verschlossen",
+                "Unlocked": "geöffnet",
+                "Lock is": "Das Schloss ist"
             },
             "light": {
                 "Brightness": "Helligkeit",
@@ -95,11 +95,11 @@
             },
             "speaker": {
                 "Speaker is": "Sprecher ist",
-                "Muted": "Gedämpft",
+                "Muted": "stumm gestellt",
                 "Mute": "Stumm",
                 "Unmute": "Stummschaltung aufheben",
-                "Volume": "Volumen",
-                "Set volume": "Lautstärke einstellen"
+                "Volume": "Lautstärke",
+                "Set volume": "Lautstärke einstellen auf"
             },
             "tv": {
                 "Television is": "Fernsehen ist"
@@ -121,7 +121,7 @@
                 "Trigger": "Auslösen"
             },
             "fan": {
-                "Fan is": "Fan ist",
+                "Fan is": "Ventilator ist",
                 "Level set to": "Stufe eingestellt auf",
                 "Set level": "Stufe einstellen",
                 "Level 1": "1",
@@ -140,13 +140,13 @@
                 "Set Point": "Sollwert",
                 "Mode": "Modus",
                 "Set Mode": "Wähle den Modus",
-                "Heat": "Hitze",
+                "Heat": "Heizen",
                 "Cool": "Cool",
                 "Auto": "Auto"
             },
             "doorbell": {
                 "At": "beim",
-                "Doorbell rang": "Türklingel klingelte"
+                "Doorbell rang": "Es klingelt"
             },
             "dimmerSwitch": {
                 "Dimmer switch is": "Dimmer ist"
@@ -161,7 +161,7 @@
             "To": "Zu",
             "Status": "Status",
             "Options": "Optionen",
-            "Upgrade": "Aktualisierung"
+            "Upgrade": "Upgrade"
         },
         "devices": {
             "Add Device": "Gerät hinzufügen",
@@ -169,9 +169,9 @@
             "Device Information": "Geräteinformation",
             "Code Download": "Code herunterladen",
             "Device Name": "Gerätename",
-            "Device Name is required": "Gerätename ist erforderlich",
-            "Device Description is required": "Gerätebeschreibung ist erforderlich",
-            "Device Access Key is required": "Gerätezugriffsschlüssel ist erforderlich",
+            "Device Name is required": "Ein Gerätename ist erforderlich",
+            "Device Description is required": "Eine Gerätebeschreibung ist erforderlich",
+            "Device Access Key is required": "Ein Gerätezugriffsschlüssel ist erforderlich",
             "Device Type": "Gerätetyp",
             "Room": "Zimmer",
             "You can generate": "Sie können den Code generieren oder ein Codebeispiel aus GitHub Repo verwenden",
@@ -190,15 +190,15 @@
             "Device Access Key": "Gerätezugriffsschlüssel"
         },
         "rooms": {
-            "Add Room": "Raum hinzufügen",
+            "Add Room": "Zimmer hinzufügen",
             "Room": "Zimmer",
             "Description": "Beschreibung",
             "Home": "Zuhause",
             "Room Information": "Zimmerinformationen",
             "Assign Devices": "Geräte zuweisen",
-            "Room Name": "Raumname",
-            "Room Name is required": "Raumname ist erforderlich",
-            "Room Description is required": "Zimmerbeschreibung ist erforderlich"
+            "Room Name": "Zimmername",
+            "Room Name is required": "Ein Zimmername ist erforderlich",
+            "Room Description is required": "Eine Zimmerbeschreibung ist erforderlich"
         },
         "credential": {
             "Your API Keys": "Ihre API-Schlüssel",
@@ -220,7 +220,7 @@
         },
         "activitylog": {
             "IP Address": "IP Adresse",
-            "Location": "Lage",
+            "Location": "Standort",
             "App Name": "App Name",
             "Activity": "Aktivität",
             "Device Name": "Gerätename",
@@ -229,10 +229,10 @@
         }
     },
     "sidemenu": {
-        "Dashboard": "Instrumententafel",
+        "Dashboard": "Dashboard",
         "Devices": "Geräte",
         "Rooms": "Räume",
-        "Credentials": "Referenzen",
+        "Credentials": "Berechtigungen",
         "Whats New": "Was gibt's Neues",
         "Account": "Konto",
         "Activity Log": "Aktivitätsprotokoll",
