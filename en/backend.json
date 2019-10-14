@@ -56,5 +56,6 @@
     "yourOrderWasNotFoundInPaypal": "Your order id: %s was not found in Paypal",
     "invalidOrderStatusInPaypal": "Invalid order status: %s in Paypal",
     "invalidOrderAmoutInPaypal": "Invalid order amount in Paypal",
-    "invalidOrderTimestampInPaypal": "Invalid order timestamp: %s in Paypal"
+    "invalidOrderTimestampInPaypal": "Invalid order timestamp: %s in Paypal",
+    "subscriptionCreated": "Subscription [%s] created for %s devices."
 }
