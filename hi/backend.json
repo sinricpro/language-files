@@ -49,13 +49,13 @@
     "accessKeyIsAlreadyInUse": "ACCESS KEY पहले से उपयोग में है। कृपया पहले संबंधित उपकरणों को हटा दें।",
     "accessKeyDoesNotExist": "ACCESS KEY मौजूद नहीं है।",
     "invalidMessageFormat": "अमान्य संदेश प्रारूप:% s",
-    "messageTypeNotFoundOrSupported": "संदेश प्रकार पाया या समर्थित नहीं है",
+    "messageTypeNotFoundOrSupported": "संदेश प्रकार पाया नहीं या समर्थित नहीं है",
     "licenseNotFound": "लाइसेंस नहीं मिला",
     "yourAccountHasExceededMax": "आपका खाता पंजीकृत उपकरणों की अधिकतम संख्या से अधिक हो गया है। आप खाता मेनू से अधिक उपकरण खरीद सकते हैं",
     "alexaSkillLinked" : "एलेक्सा स्मार्ट होम स्किल जुड़ी",
     "yourOrderWasNotFoundInPaypal": "आपका ऑर्डर आईडी:%s को पेपाल में नहीं मिला",
-    "invalidOrderStatusInPaypal": "अमान्य आदेश स्थिति: पेपैल में %s",
+    "invalidOrderStatusInPaypal": " पेपैल में अमान्य आदेश स्थिति:%s",
     "invalidOrderAmoutInPaypal": "पेपैल में अमान्य आदेश राशि",
-    "invalidOrderTimestampInPaypal": "अमान्य आदेश टाइमस्टैम्प: पेपैल में %s",
+    "invalidOrderTimestampInPaypal": "अमान्य आदेश टाइमस्टैम्प पेपैल में %s",
     "subscriptionCreated": "सदस्यता [%s] %s उपकरणों के लिए बनाई गई है।"
 }
