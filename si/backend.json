@@ -52,5 +52,9 @@
     "messageTypeNotFoundOrSupported": "පණිවිඩ වර්ගය සොයාගෙන හෝ සහාය නොදක්වයි",
     "licenseNotFound": "බලපත්‍රය හමු නොවීය",
     "yourAccountHasExceededMax": "ඔබගේ ගිණුම ලියාපදිංචි උපාංගවල උපරිම ගණන ඉක්මවා ඇත. ගිණුම් මෙනුවෙන් ඔබට තවත් උපාංග මිලදී ගත හැකිය",
-    "alexaSkillLinked" : "ඇලෙක්සා ස්මාර්ට් හෝම් සම්බන්ධයි"
+    "alexaSkillLinked" : "Alexa Smart Home Skill සම්බන්ධයි",
+    "yourOrderWasNotFoundInPaypal": "ඔබගේ විකුණුම් ඇණවුම: %s Paypal තුල සොයාගත නොහැකි විය",
+    "invalidOrderStatusInPaypal": "වලංගු නොවන ඇණවුම් තත්වය:%s Paypal තුල",
+    "invalidOrderAmoutInPaypal": "Paypal හි වලංගු නොවන විකුණුම් ඇණවුම් මුදල",
+    "invalidOrderTimestampInPaypal": "වලංගු නොවන ඇණවුම් කාලරාමුව:%s Paypal තුල"
 }

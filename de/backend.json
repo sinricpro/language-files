@@ -52,5 +52,9 @@
     "messageTypeNotFoundOrSupported": "Nachrichtentyp wird nicht gefunden oder unterstützt",
     "licenseNotFound": "Lizenz nicht gefunden",
     "yourAccountHasExceededMax": "Ihr Konto hat die maximale Anzahl an registrierten Geräten überschritten. Sie können weitere Geräte über den Menüpunkt 'Konto' kaufen",
-    "alexaSkillLinked" : "Alexa Smart Home Skill verknüpft"
+    "alexaSkillLinked" : "Alexa Smart Home Skill verknüpft",
+    "yourOrderWasNotFoundInPaypal": "Ihre Bestellnummer:%s wurde nicht in Paypal gefunden",
+    "invalidOrderStatusInPaypal": "Ungültiger Bestellstatus:%s in Paypal",
+    "invalidOrderAmoutInPaypal": "Ungültiger Bestellbetrag in Paypal",
+    "invalidOrderTimestampInPaypal": "Ungültiger Bestellzeitstempel:%s in Paypal"
 }
