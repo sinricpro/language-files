@@ -56,5 +56,6 @@
     "yourOrderWasNotFoundInPaypal": "Ihre Bestellnummer:%s wurde nicht in Paypal gefunden",
     "invalidOrderStatusInPaypal": "Ungültiger Bestellstatus:%s in Paypal",
     "invalidOrderAmoutInPaypal": "Ungültiger Bestellbetrag in Paypal",
-    "invalidOrderTimestampInPaypal": "Ungültiger Bestellzeitstempel:%s in Paypal"
+    "invalidOrderTimestampInPaypal": "Ungültiger Bestellzeitstempel:%s in Paypal",
+    "subscriptionCreated": "Abonnement [%s] für %s Geräte erstellt."
 }
