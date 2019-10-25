@@ -7,9 +7,9 @@
     "Save": "Speichern",
     "Copy": "Kopieren",
     "How to connect my device": "Wie verbinde ich mein Gerät?",
-    "On": "Auf",
+    "On": "an",
     "Off": "aus",
-    "Power level is": "Leistungsstufe ist",
+    "Power level is": "Leistung ist",
     "Set to": "Einstellen",
     "pages": {
         "register": {
@@ -68,10 +68,10 @@
             "Brightness": "Helligkeit",
             "Its lonely here": "Hier ist es einsam.",
             "To get started add a new device from device tab": "Fügen Sie zunächst ein neues Gerät über die Registerkarte \"Gerät\" hinzu.",
-            "is online now": "ist gerade online!",
-            "is offline now": "ist offline",
+            "is online now": "ist jetzt online!",
+            "is offline now": "ist jetzt offline",
             "deviceName is powerState now": "$deviceName ist jetzt $powerState.",
-            "Please verify email address": "Bitte überprüfen Sie Ihre E-Mail Adresse, um auf alle Funktionen von Sinric zugreifen zu können",
+            "Please verify email address": "Bitte bestätigen Sie Ihre E-Mail Adresse, um auf alle Funktionen von Sinric zugreifen zu können",
             "devices": "Geräte",
             "Ding Dong": "Ding Dong!",
             "Power is": "Das Gerät ist",
@@ -102,7 +102,7 @@
                 "Set volume": "Lautstärke einstellen auf"
             },
             "tv": {
-                "Television is": "Fernsehen ist"
+                "Television is": "Fernseher ist"
             },
             "contact": {
                 "Contact was": "Kontakt war",
@@ -115,7 +115,7 @@
             },
             "motion": {
                 "Motion detected": "Bewegung erkannt!",
-                "At": "beim",
+                "At": "um",
                 "Detected": "Erkannt",
                 "Not Detected": "Nicht erkannt",
                 "Trigger": "Auslösen"
@@ -129,24 +129,24 @@
                 "Level 3": "3"
             },
             "acUnit": {
-                "AC is": "AC ist",
+                "AC is": "Klimaanlage ist",
                 "Set to": "Einstellen",
-                "Set Tempreature": "Stellen Sie die Temperatur ein"
+                "Set Tempreature": "Temperatur einstellen"
             },
             "thermostat": {
                 "Thermostat is": "Thermostat ist",
                 "Set to": "Einstellen",
-                "Set Tempreature": "Stellen Sie die Temperatur ein",
+                "Set Tempreature": "Temperatur einstellen",
                 "Set Point": "Sollwert",
                 "Mode": "Modus",
-                "Set Mode": "Wähle den Modus",
+                "Set Mode": "Modus einstellen",
                 "Heat": "Heizen",
-                "Cool": "Cool",
-                "Auto": "Auto"
+                "Cool": "Kühlen",
+                "Auto": "Automatisch"
             },
             "doorbell": {
-                "At": "beim",
-                "Doorbell rang": "Es klingelt"
+                "At": "um",
+                "Doorbell rang": "Es klingelte"
             },
             "dimmerSwitch": {
                 "Dimmer switch is": "Dimmer ist"
@@ -162,21 +162,21 @@
             "Status": "Status",
             "Options": "Optionen",
             "Upgrade": "Upgrade",
-            "Only": "",
-            "Want to buy more devices" : "Geräte übrig. Möchten Sie weitere Geräte kaufen?"
+            "Only": "nur",
+            "Want to buy more devices" : "Geräte übrig. Möchten Sie weitere Geräte erwerben?"
         },
         "devices": {
             "Add Device": "Gerät hinzufügen",
             "Click on add device": "Klicken Sie auf \"Gerät hinzufügen\", um ein neues Gerät zu erstellen.",
             "Device Information": "Geräteinformation",
-            "Code Download": "Code herunterladen",
+            "Code Download": "Beispiel-Code herunterladen",
             "Device Name": "Gerätename",
             "Device Name is required": "Ein Gerätename ist erforderlich",
             "Device Description is required": "Eine Gerätebeschreibung ist erforderlich",
             "Device Access Key is required": "Ein Gerätezugriffsschlüssel ist erforderlich",
             "Device Type": "Gerätetyp",
             "Room": "Zimmer",
-            "You can generate": "Sie können den Code generieren oder ein Codebeispiel aus GitHub Repo verwenden",
+            "You can generate": "Sie können den Beispiel-Code generieren lassen oder ein Codebeispiel aus GitHub Repo verwenden",
             "Type": "Art",
             "Name": "Name",
             "From": "Von",
@@ -234,17 +234,17 @@
           "Number of devices" : "Anzahl der Geräte",
           "Number of devices is required" : "Anzahl der Geräte erforderlich",
           "Yearly billing" : "Jährliche Abrechnung",
-          "Processing your order" : "Bearbeitung Ihrer Bestellung. Warten Sie mal...!"
+          "Processing your order" : "Bearbeitung Ihrer Bestellung. Bitte warten Sie...!"
         }
     },
     "sidemenu": {
         "Dashboard": "Dashboard",
         "Devices": "Geräte",
         "Rooms": "Räume",
-        "Credentials": "Berechtigungen",
-        "Whats New": "Was gibt's Neues",
+        "Credentials": "Zugangsdaten",
+        "Whats New": "Was gibt es neues?",
         "Account": "Konto",
-        "Activity Log": "Aktivitätsprotokoll",
+        "Activity Log": "Protokoll",
         "Sign out": "Ausloggen",
         "Collapse Sidebar": "Seitenleiste einklappen"
     },
