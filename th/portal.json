@@ -12,13 +12,13 @@
    "Power level is":"ระดับพลังงานอยู่ที่",
    "Set to":"ตั้งค่าไปที่",
    "pages":{ 
-      "register":{
+      "register":{ 
          "Creating Account":"กำลังสร้างบัญชี, โปรดรอสักครู่....",
          "Create your Sinric Pro Account":"สร้างบัญชี Sinric Pro ของท่าน",
          "Get started with":"เริ่มต้นใช้งานฟรีถึง 5 อุปกรณ์ ไม่มีข้อจำกัด.",
          "Data retention":"เก็บข้อมูลนานถึง 1 เดือน.",
          "Access logs":"บันทึกข้อมูลการเข้าใช้งานนานถึง 3 วัน.",
-         "If you need more devices":"หากคุณต้องการอุปกรณ์เพิ่มเติม เพียงแต่ซื้อเพึ่มในราคา 3$ ต่ออุปกรณ์ต่อปี. ",
+         "If you need more devices":"หากคุณต้องการอุปกรณ์เพิ่มเติม เพียงแต่ซื้อเพึ่มในราคา 3 $ ต่ออุปกรณ์ต่อปี. ",
          "Already have an account":"มีบัญชีแล้ว?",
          "Login":"เข้าสู่ระบบ",
          "Full name":"ชื่อเต็ม",
@@ -144,11 +144,11 @@
             "Cool":"ความเย็น",
             "Auto":"อัตโนมัติ"
          },
-         "doorbell":{ ออดประตู
+         "doorbell":{ 
             "At":"ที่",
             "Doorbell rang":"ออดประตูดังขึ้น"
          },
-         "dimmerSwitch":{ สวิตช์หรี่ไฟ
+         "dimmerSwitch":{ 
             "Dimmer switch is":"สถานะสวิตช์หรี่ไฟ"
          }
       },
@@ -161,7 +161,9 @@
          "To":"สู่",
          "Status":"สถาน",
          "Options":"ตัวเลือก",
-         "Upgrade":"อัพเกรด"
+         "Upgrade":"อัพเกรด",
+         "Only": "",
+         "Want to buy more devices" : "อุปกรณ์เหลือ ต้องการซื้ออุปกรณ์เพิ่มเติมหรือไม่"
       },
       "devices":{ 
          "Add Device":"เพิ่มอุปกรณ์",
@@ -226,6 +228,13 @@
          "Device Name":"ชื่ออุปกรณ์",
          "Timestamp":"การประทับเวลา",
          "Last 15 activities":"15 กิจกรรมสล่าสุดในช่วง 3 วันที่ผ่านมา"
+      },
+      "subscription":{ 
+        "New subscription" : "การสมัครสมาชิกใหม่",
+        "Number of devices" : "จำนวนอุปกรณ์",
+        "Number of devices is required" : "จำนวนอุปกรณ์ที่ต้องการ",
+        "Yearly billing" : "การเรียกเก็บเงินรายปี",
+        "Processing your order" : "กำลังประมวลผลคำสั่งซื้อของคุณ โปรดรอ...!"
       }
    },
    "sidemenu":{ 

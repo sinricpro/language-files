@@ -161,7 +161,9 @@
             "To": "सेवा",
             "Status": "स्थिति",
             "Options": "विकल्प",
-            "Upgrade": "अपग्रेड"
+            "Upgrade": "अपग्रेड",
+            "Only": "केवल",
+            "Want to buy more devices" : "उपकरणों को छोड़ दिया। अधिक डिवाइस खरीदना चाहते हैं ?"
         },
         "devices": {
             "Add Device": "डिवाइस जोडे",
@@ -226,6 +228,13 @@
             "Device Name": "यन्त्र का नाम",
             "Timestamp": "समय-चिह्न",
             "Last 15 activities": "पिछले 3 दिनों के लिए अंतिम 15 गतिविधियाँ"
+        },
+        "subscription":{ 
+            "New subscription" : "नई सदस्यता",
+            "Number of devices" : "उपकरणों की संख्या",
+            "Number of devices is required" : "उपकरणों की संख्या की आवश्यकता है",
+            "Yearly billing" : "वार्षिक बिलिंग",
+            "Processing your order" : "अपने आदेश को संसाधित करना। कृपया प्रतीक्षा करें...!"
         }
     },
     "sidemenu": {

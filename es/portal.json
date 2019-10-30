@@ -18,7 +18,7 @@
             "Get started with": "Comience con 5 dispositivos de forma gratuita. Sin limitaciones",
             "Data retention": "Retención de datos hasta 1 mes.",
             "Access logs": "Registros de acceso hasta 3 días.",
-            "If you need more devices": "Si necesita más dispositivos, solo cuesta 3$ por dispositivo para un año.",
+            "If you need more devices": "Si necesita más dispositivos, solo cuesta $3 por dispositivo para un año.",
             "Already have an account": "Ya tienes una cuenta ?",
             "Login": "Iniciar sesión",
             "Full name": "Nombre completo",
@@ -161,7 +161,9 @@
             "To": "A",
             "Status": "Estado",
             "Options": "Opciones",
-            "Upgrade": "Mejorar"
+            "Upgrade": "Mejorar",
+            "Only": "Solamente",
+            "Want to buy more devices" : "dispositivos restantes. ¿Quieres comprar más dispositivos?"
         },
         "devices": {
             "Add Device": "Añadir dispositivo",
@@ -226,6 +228,13 @@
             "Device Name": "Nombre del dispositivo",
             "Timestamp": "Marca de tiempo",
             "Last 15 activities": "Últimas 15 actividades de los últimos 3 días."
+        },
+        "subscription":{ 
+            "New subscription" : "Nueva suscripción",
+            "Number of devices" : "Número de dispositivos",
+            "Number of devices is required" : "Se requiere número de dispositivos",
+            "Yearly billing" : "Facturación anual",
+            "Processing your order" : "Procesando su pedido. Por favor espera...!"
         }
     },
     "sidemenu": {

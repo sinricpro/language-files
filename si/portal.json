@@ -18,7 +18,7 @@
             "Get started with": "නොමිලේ උපාංග 5 කින් ආරම්භ කරන්න. සීමාවන් නොමැත.",
             "Data retention": "මාස 1 දක්වා දත්ත රඳවා තබා ගැනීම.",
             "Access logs": "දින 3 ක් දක්වා ලොග් වෙත ප්‍රවේශ වන්න.",
-            "If you need more devices": "ඔබට තවත් උපාංග අවශ්‍ය නම්, එය වසරකට එක් උපාංගයකට 3$ ක් පමණි.",
+            "If you need more devices": "ඔබට තවත් උපාංග අවශ්‍ය නම්, එය වසරකට එක් උපාංගයකට $3 ක් පමණි.",
             "Already have an account": "දැනටමත් ගිණුමක් තිබේද?",
             "Login": "ඇතුල් වන්න",
             "Full name": "සම්පූර්ණ නම",
@@ -161,7 +161,9 @@
             "To": "වෙත",
             "Status": "තත්ත්වය",
             "Options": "විකල්ප",
-            "Upgrade": "උත්ශ්‍රේණි කරන්න"
+            "Upgrade": "උත්ශ්‍රේණි කරන්න",
+            "Only": "",
+            "Want to buy more devices" : "ඉතිරිව ඇත. තවත් උපාංග මිලදී ගැනීමට අවශ්‍යද?"  
         },
         "devices": {
             "Add Device": "උපාංගය එක් කරන්න",
@@ -226,6 +228,13 @@
             "Device Name": "උපාංගයේ නම",
             "Timestamp": "කාලරාමුව",
             "Last 15 activities": "පසුගිය දින 3 සඳහා අවසන් ක්‍රියාකාරකම් 15 ක්"
+        },
+        "subscription":{ 
+            "New subscription" : "නව දායකත්වය",
+            "Number of devices" : "උපාංග ගණන",
+            "Number of devices is required" : "උපාංග ගණන අවශ්ය වේ",
+            "Yearly billing" : "වාර්ෂික බිල්පත්",
+            "Processing your order" : "ඔබගේ ඇණවුම සැකසීම. කරුණාකර රැඳී සිටින්න...!"
         }
     },
     "sidemenu": {

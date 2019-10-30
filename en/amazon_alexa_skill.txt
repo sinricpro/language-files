@@ -21,7 +21,7 @@ Getting started:
 
 7. Upload this example sketch or use our existing Python or C++ libraries to your project board: 
 
-https://github.com/kakopappa/sinric/blob/master/arduino_examples/switch_example.ino 
+https://github.com/sinricpro/esp8266-esp32-sdk/tree/master/examples/Switch
 
 Replace the token, signing key and WiFI credentials with your own. 
 

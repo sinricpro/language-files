@@ -161,7 +161,9 @@
             "To": "Per",
             "Status": "Stato",
             "Options": "Opzioni",
-            "Upgrade": "aggiornamento"
+            "Upgrade": "aggiornamento",
+            "Only": "",
+            "Want to buy more devices" : "dispositivi rimasti. Vuoi acquistare più dispositivi?"
         },
         "devices": {
             "Add Device": "Aggiungi dispositivo",
@@ -226,6 +228,13 @@
             "Device Name": "Nome del dispositivo",
             "Timestamp": "timestamp",
             "Last 15 activities": "Ultime 15 attività negli ultimi 3 giorni"
+        },
+        "subscription":{ 
+            "New subscription" : "Nuovo abbonamento",
+            "Number of devices" : "Numero di dispositivi",
+            "Number of devices is required" : "Numero di dispositivi richiesto",
+            "Yearly billing" : "Fatturazione annuale",
+            "Processing your order" : "Elaborazione dell'ordine. Attendere prego...!"
         }
     },
     "sidemenu": {

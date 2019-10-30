@@ -161,7 +161,9 @@
             "To": "À",
             "Status": "Statut",
             "Options": "Les options",
-            "Upgrade": "Améliorer"
+            "Upgrade": "Améliorer",
+            "Only": "",
+            "Want to buy more devices" : "dispositifs laissés. Voulez-vous acheter plus d'appareils?"
         },
         "devices": {
             "Add Device": "Ajouter un appareil",
@@ -226,6 +228,13 @@
             "Device Name": "Nom de l'appareil",
             "Timestamp": "Horodatage",
             "Last 15 activities": "15 dernières activités pour les 3 derniers jours"
+        },
+        "subscription":{ 
+            "New subscription" : "New subscription",
+            "Number of devices" : "Nombre d'appareils",
+            "Number of devices is required" : "Nombre d'appareils requis",
+            "Yearly billing" : "Facturation annuelle",
+            "Processing your order" : "Traitement de votre commande. S'il vous plaît, attendez...!"
         }
     },
     "sidemenu": {
