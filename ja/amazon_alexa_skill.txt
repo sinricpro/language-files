@@ -1,35 +1,37 @@
 *Public Name*
-Sinric Pro 
+Sinric Pro
 
 *One Sentence Description*
-NodeMCU、WeMos D1 mini、ESP8266、ESP32、Raspberry Pi、Arduino、およびその他の開発ボードをSinric Proに接続して、Amazon Alexa統合を無料で追加してください！
+NodeMCU、WeMos D1 mini、ESP8266、ESP32、Raspberry Pi、Arduino等の開発ボードをSinric Proに接続して、Amazon Alexaと無料で連携させましょう！
 
-*Detailed Description*
-Sinric Proを使用すると、信頼性の高いスキルを使用してIOT開発ボードをAlexaに接続できます。これ以上グリッチなエミュレーションは必要ありません。 Sinric Proは、すべてのAmazon IOTデバイスタイプをサポートし、Python、C ++、NodeJSライブラリとサンプルを提供して、数分以内に実行できるようにします。上級ユーザー向けに、独自のカスタムデバイスを作成し、ルームとルーチンをセットアップし、REST APIを介してすべてのデバイスを監視できます。高可用性、安全性が高く、十分に文書化されたAlexa統合をプロジェクト用に無料でロック解除しましょう！
+*詳細な説明*
+Sinric Proを使用すると、信頼性の高いスキルを使用してIoT開発ボードをAlexaに接続できます。もう信頼性の低いエミュレーションを使う必要はありません。 Sinric Proは、すべてのAmazon IoTデバイスタイプをサポートし、Python、C++、NodeJSライブラリをサンプルと一緒に提供しているので、数分で使い始められます。上級ユーザーは、独自のカスタムデバイスを作成したり、ルームとルーチンをセットアップしたり、REST APIを介してすべてのデバイスを監視することもできます。高可用性、高い安全性、十分なドキュメントのあるAlexa連携サービスをあなたのプロジェクトで無料で使い始めましょう！
 
-入門：
+使い方：
 
-1. https://sinric.proにアクセスします
+1. https://sinric.pro にアクセスします。
 
-2.無料アカウントを作成してログイン
+2. 無料アカウントを作成してログインします。
 
-3. Alexaアプリまたはダッシュボードから、「Sinric Pro」スマートホームスキルをインストールして有効にします
+3. Alexaアプリまたはダッシュボードから、「Sinric Pro」スマートホームスキルをインストールして有効にします。
 
-4.テレビなどの新しいデバイスを作成します。新しいデバイスの認証トークン、署名キー、およびデバイスIDをメモします。
+4. テレビなどの新しいデバイスを作成します。新しいデバイスの認証トークン、署名キー、デバイスIDをメモします。
 
-5. Amazon Alexaアプリには、新しいデバイスが検出されたというプッシュ通知が表示されます。
+5. Amazon Alexaアプリに新しいデバイスが検出されたというプッシュ通知が表示されます。
 
-7.このサンプルスケッチをアップロードするか、既存のPythonまたはC ++ライブラリをプロジェクトボードに使用します。
+7. 下記のサンプルスケッチを書き込むか、PythonまたはC++ライブラリをあなたのプロジェクトのボードに組み込みます。
 
 https://github.com/kakopappa/sinric/blob/master/arduino_examples/switch_example.ino
 
-トークン、署名キー、およびWiFI資格情報を独自のものに置き換えます。
+トークン、署名キー、デバイスIDとWiFi接続情報をあなたのものに書き換えます。
 
-8.それだけです！
+8. 完了です！
+ 
 
 *Example Phrases*
-アレクサ、テレビをつけて」
-アレクサ、テレビを消して」
+「アレクサ、テレビをつけて」
+「アレクサ、テレビを消して」
+ 
 
-Keywords  
-Alexa、ホームオートメーション、DIY、IOT、スマートホーム、NodeMCU、WeMos / Lolin D1 mini、Expressif Systems、ESP8266、ESP32、Arduino、RaspberryPi
+Keywords
+Alexa, アレクサ, ホームオートメーション, DIY, IoT, スマートホーム, NodeMCU, WeMos/Lolin D1 mini, Expressif Systems, ESP8266, ESP32, Arduino, RaspberryPi
