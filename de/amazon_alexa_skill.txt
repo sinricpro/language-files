@@ -19,13 +19,13 @@ Loslegen:
 
 5. Die Amazon Alexa App zeigt eine Push-Benachrichtigung an, dass Ihr neues Gerät gefunden wurde.
 
-7. Laden Sie dieses Beispiel auf Ihr Entwicklerboard oder verwenden Sie unsere vorhandenen Python- oder C++ - Bibliotheken für Ihr Entwicklerboard:
+6. Laden Sie dieses Beispiel auf Ihr Entwicklerboard oder verwenden Sie unsere vorhandenen Python- oder C++ - Bibliotheken für Ihr Entwicklerboard:
 
 https://github.com/kakopappa/sinric/blob/master/arduino_examples/switch_example.ino
 
 Ersetzen Sie das Token, den Signaturschlüssel und die WiFI-Anmeldeinformationen durch Ihre eigenen.
 
-8. Das ist war's!
+7. Das ist war's!
 
 Example Phrases*
 "Alexa, schalte den Fernseher ein"
