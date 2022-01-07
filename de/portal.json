@@ -16,6 +16,7 @@
     "Power level is": "Leistungsstufe ist",
     "Set to": "Einstellen auf",
     "Please Wait" : "Bitte Warten ...!",
+    "Close" : "Schließen", 
     "pages": {
         "register": {
             "Creating Account": "Erstelle Konto, bitte warten ...",
@@ -154,7 +155,8 @@
                 "Set Mode": "Modus einstellen",
                 "Heat": "Heizen",
                 "Cool": "Kühlen",
-                "Auto": "Automatisch"
+                "Auto": "Automatisch",
+                "Off":"Aus"
             },
             "doorbell": {
                 "At": "um",
@@ -233,7 +235,7 @@
             "Device Name": "Gerätename",
             "Device Name is required": "Ein Gerätename ist erforderlich",
             "Device Description is required": "Eine Gerätebeschreibung ist erforderlich",
-            "Device Access Key is required": "Ein Gerätezugriffsschlüssel ist erforderlich",
+            "App Key is required": "App Key ist erforderlich",
             "Device Type": "Gerätetyp",
             "Room": "Raum",
             "You can generate": "Sie können den Beispiel-Code generieren lassen oder ein Codebeispiel aus dem GitHub Repo verwenden",
@@ -249,7 +251,7 @@
             "Power State": "Status",
             "Last Connected": "Zuletzt verbunden",
             "Alexa support is limited": "Die Alexa-Unterstützung ist für diesen Gerätetyp auf Englisch (USA) beschränkt.",
-            "Device Access Key": "Gerätezugriffsschlüssel",
+            "App Key": "App Key",
             "Timers":"Timer",
             "timers" : {
                 "Auto Off" : "Auto Aus",
@@ -266,9 +268,20 @@
             "Camera is accessible only within your WiFi" : "Die Kamera ist nur innerhalb Ihres WLAN-Netzwerks über unsere App zugänglich.",
             "This device requires ESP SDK and Sinric Pro app" : "Dieses Gerät erfordert ESP SDK > v2.5.1 und Sinric Pro App > v2.6.1.",
             "Does not support Amazon Alexa or Google Home" : "Unterstützt weder Amazon Alexa noch Google Home (noch nicht!)",
+            "Amazon Alexa supports only en-US Amazon accounts" : "Amazon Alexa unterstützt nur US-amerikanische Amazon-Konten",
             "No Of Times Connected" : "Anzahl der Verbindungen",
             "Other" : "Andere",
-            "Pin for Google Home" : "PIN für Google Home"
+            "PIN for Google Home" : "PIN für Google Home",
+            "We recommend using different App Key for different hardware modules" : "Wir empfehlen, für verschiedene Hardware-Module unterschiedliche App Key zu verwenden",
+            "Your Device Id is" : "Ihre Geräte-ID lautet",
+            "Your device is ready to connect" : "Ihr Gerät ist bereit zum Verbinden",
+            "Next Step" : "Nächster Schritt: Schauen Sie sich die Beispiele an, um zu erfahren, wie Sie Ihr Entwicklungsboard anschließen",
+            "Or try our automatic Code Generator" : "Oder versuchen Sie unseren automatischen Code-Generator (Beta) für ESP8266-ESP32 SDK",
+            "ESP8266-ESP32 Examples" : "ESP8266-ESP32 Beispiele",
+            "Python Examples" : "Python Beispiele",
+            "NodeJS Examples" : "NodeJS Beispiele",
+            "Color Temperature" : "Farbtemperatur",
+            "Selected device type does not support Google Home Yet" : "Selected device type does not support Google Home yet."
         },
         "rooms": {
             "Add Room": "Raum hinzufügen",
@@ -409,7 +422,7 @@
             "Beschreibt die Eigenschaften des IoT Gerätes" : "",
             "Available Capabilities" : "Verfügbare Eigenschaften",
             "Drand and drop a capability below" : "Eigenschaften, die die Funktionen des IoT Gerätes beschreiben hierher ziehen.",
-            "Required fields are missing" : "Erforderliche Felder fehlen",
+            "Required fields are missing or invalid" : "Erforderliche Felder fehlen oder sind ungültig",
             "Mode is not configured" : "Modus ist nicht konfiguriert",
             "Range is not configured" : "Bereich ist nicht konfiguriert",
             "Range presets are not configured" : "Bereichsvoreinstellungen sind nicht konfiguriert",
@@ -494,12 +507,50 @@
             "The energy the device consumes" : "Die Energie, die das Geräte verbraucht während es ausgeschaltet oder im Stand-By ist.",
             "The typical energy the device consumes while turned on" : "Die typische Energieaufnahme, die das Gerät verbraucht, während es eingeschaltet ist.",
             "Alexa en-US Only" : "Alexa - nur für en-US. Es dauert einige Stunden, bis die Nutzungsdetails in der Alexa-App angezeigt werden.",
-            "Supports only Alexa"  : "Unterstützt nur Amazon Alexa. Sinric Pro App, Google Home und SmartThings Unterstützung in Kürze!",
+            "Supports only Alexa"  : "Unterstützt nur Amazon Alexa. Google Home und SmartThings Unterstützung in Kürze!",
             "Coming soon to Sinric Pro app" : "Bald in der Sinric Pro app",
             "Input mode" : "Eingangs-Modus",
+            "Estimate the energy usage of this device" : "Schätzen Sie den Energieverbrauch dieses Geräts",
             "The energy the device consumes while turned off, or in standby mode" : "Die Energie, die das Gerät im ausgeschalteten Zustand bzw. im Standby-Modus verbraucht.",
             "Control the settings of devices that are represented" : "Steuern Sie die Einstellungen von Geräten, die durch Zahlen innerhalb eines minimalen und maximalen Bereichs dargestellt werden",  
-            "Range" : "Bereich"
+            "Range" : "Bereich",
+            "Duplicate instance ids not allowed" : "Doppelte Instanz-IDs nicht erlaubt: ",
+            "Channel" : "Fernsehkanal",
+            "No channels defined" : "Keine Kanäle definiert",
+            "Color Temperature" : "Farbtemperatur",
+            "Non Controllable" : "Nicht steuerbar",
+            "You can inquire about it but not control" : "Sie können es sehen und sich danach erkundigen, aber nicht steuern",
+            "Code Generator" : "Code-Generator",
+            "Label and Number" : "Etikett und Nummer",
+            "Label Name" : "Etikett Name",
+            "Label name is required" : "Etikettenname ist erforderlich",
+            "Label and Number is not configured" : "Label und Nummer sind nicht konfiguriert",
+            "You must define two or more mode" : "Sie müssen zwei oder mehr Modi definieren",
+            "Setting Id" : "Einstellung Id",
+            "Setting Id is required" : "Einstellung Id ist erforderlich",
+            "Setting Values" : "Werte einstellen",
+            "You must define one or more setting values" :  "Sie müssen einen oder mehrere Einstellwerte definieren",
+            "Settings" : "Einstellungen",
+            "Add one more settings of for this device" : "Fügen Sie eine weitere Einstellung für dieses Gerät hinzu",
+            "No input modes defined" : "Keine Eingangsmodi definiert",
+            "No navigation modes defined" : "Keine Navigationsmodi definiert",
+            "No media controls defined" : "Keine Mediensteuerung definiert",
+            "Export Template" : "Vorlage exportieren",
+            "Import Template" : "Vorlage importieren",
+            "Please do not modify the contents" : "Bitte verändern Sie den Inhalt nicht",
+            "Invalid Template" : "Ungültige Vorlage"
+         },
+         "energyestimates" : {
+            "Energy estimates" : "Energie-Schätzungen",
+            "Turned On" : "Eingeschaltet",
+            "Turned Off" : "Abgeschaltet",
+            "Watt Hours" : "Wattstunden",
+            "Duration Hrs" : "Dauer (Stunden)",
+            "Close" : "Schließen",
+            "Energy consumption breakdown" : "Aufschlüsselung des Energieverbrauchs",
+            "Total Consumption" : "Gesamtverbrauch",
+            "Used" : "",
+            "times" : "mal benutzt"
          }
     },
     "sidemenu": {
@@ -516,7 +567,8 @@
         "Schedules":"Zeitpläne",
         "Subscriptions":"Abonnements",
         "Scenes" : "Szenen",
-        "Device Templates" : "Gerätevorlagen"
+        "Device Templates" : "Gerätevorlagen",
+        "Energy estimates" : "Energie-Schätzungen"
     },
     "apiintegrations" : {
         "You can find the API" : "Sie finden den API-Schlüssel hinter dem Link zur Dokumentation oben rechts auf der",
