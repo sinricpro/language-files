@@ -58,7 +58,7 @@
         "login": {
             "Email address": "E-Mail Adresse",
             "Password is required": "Passwort wird benötigt",
-            "Log in": "Anmeldung",
+            "Log in": "Anmelden",
             "Password": "Passwort",
             "Register": "Registrieren",
             "Dont have account yet": "Noch kein Konto?",
@@ -91,10 +91,10 @@
             "Year" : "Jahr",
             "Auto updates every minute" : "Automatische Aktualisierung: Jede Minute",
             "smartlock": {
-                "Lock": "Schließen",
-                "Unlock": "Öffnen",
-                "Locked": "verschlossen",
-                "Unlocked": "geöffnet",
+                "Lock": "Verriegeln",
+                "Unlock": "Entriegeln",
+                "Locked": "verrielt",
+                "Unlocked": "entriegelt",
                 "Lock is": "Das Schloss ist"
             },
             "light": {
@@ -193,7 +193,7 @@
         "account": {
             "Subscriptions": "Abonnements",
             "Subscription Id": "Abonnement-ID",
-            "Type": "Art",
+            "Type": "Typ",
             "Name": "Name",
             "From": "Von",
             "To": "Bis",
@@ -204,7 +204,7 @@
             "Close Account" : "Konto löschen",
             "Why are you closing your account" : "Warum löschen Sie Ihr Konto?",
             "Reason is required" : "Grund ist erforderlich",
-            "You can erase your data" : "U kunt uw gegevens wissen, uw toestemming intrekken en de verwerking van uw persoonlijke gegevens beperken door op de knop 'Account sluiten' te klikken. Door dit te doen worden al uw persoonlijke gegevens die in uw account zijn opgeslagen permanent verwijderd. Als gevolg hiervan wordt uw account afgesloten en is deze niet meer beschikbaar."
+            "You can erase your data" : "Sie können Ihre Daten löschen, Ihre Einwilligung widerrufen und die Verarbeitung Ihrer personenbezogenen Daten einschränken, indem Sie auf die Schaltfläche 'Konto löschen' klicken. Auf diese Weise werden alle in Ihrem Konto gespeicherten persönlichen Daten endgültig gelöscht. Dies hat zur Folge, dass Ihr Konto geschlossen wird und nicht mehr verfügbar ist."
         },
         "devices": {
             "Add Device": "Gerät hinzufügen",
@@ -239,7 +239,7 @@
             "Device Type": "Gerätetyp",
             "Room": "Raum",
             "You can generate": "Sie können den Beispiel-Code generieren lassen oder ein Codebeispiel aus dem GitHub Repo verwenden",
-            "Type": "Art",
+            "Type": "Typ",
             "Name": "Name",
             "From": "Von",
             "To": "Bis",
@@ -272,7 +272,7 @@
             "No Of Times Connected" : "Anzahl der Verbindungen",
             "Other" : "Andere",
             "PIN for Google Home" : "PIN für Google Home",
-            "We recommend using different App Key for different hardware modules" : "Wir empfehlen, für verschiedene Hardware-Module unterschiedliche App Key zu verwenden",
+            "We recommend using different App Key for different hardware modules" : "Wir empfehlen, für verschiedene Hardware-Module unterschiedliche App-Schlüssel zu verwenden",
             "Your Device Id is" : "Ihre Geräte-ID lautet",
             "Your device is ready to connect" : "Ihr Gerät ist bereit zum Verbinden",
             "Next Step" : "Nächster Schritt: Schauen Sie sich die Beispiele an, um zu erfahren, wie Sie Ihr Entwicklungsboard anschließen",
@@ -284,15 +284,15 @@
             "Selected device type does not support Google Home Yet" : "Selected device type does not support Google Home yet."
         },
         "rooms": {
-            "Add Room": "Raum hinzufügen",
-            "Room": "Raum",
+            "Add Room": "Zimmer hinzufügen",
+            "Room": "Zimmer",
             "Description": "Beschreibung",
-            "Home": "Home",
-            "Room Information": "Rauminformationen",
+            "Home": "Wohnung",
+            "Room Information": "Zimmerinformationen",
             "Assign Devices": "Geräte zuweisen",
-            "Room Name": "Raumname",
-            "Room Name is required": "Ein Raumname ist erforderlich",
-            "Room Description is required": "Eine Raumbeschreibung ist erforderlich"
+            "Room Name": "Zimmername",
+            "Room Name is required": "Ein Zimmername ist erforderlich",
+            "Room Description is required": "Eine Zimmerbeschreibung ist erforderlich"
         },
         "credential": {
             "Your API Keys": "Ihre API-Schlüssel",
@@ -300,10 +300,10 @@
             "New API Key": "Neuer API-Schlüssel",
             "New App Key and Secret": "Neuer App-Schlüssel und Geheimnis",
             "App Key": "App-Schlüssel",
-            "App Secret": "App Geheimnis",
+            "App Secret": "App-Geheimnis",
             "Name": "Name",
             "Created On": "Erstellt am",
-            "Please copy your api": "Bitte kopieren Sie Ihren API-Schlüssel und bewahren Sie ihn an einem sicheren Ort auf, ohne ihn mit anderen zu teilen. Wenn Sie Ihre Anmeldeinformationen öffentlich zugänglich machen, kann dies zu einer Gefährdung Ihres Kontos führen, was zu unerwarteten Belastungen Ihres Kontos führen kann.",
+            "Please copy your api": "Bitte kopieren Sie Ihren API-Schlüssel und bewahren Sie ihn an einem sicheren Ort auf, ohne ihn mit anderen zu teilen. Wenn Sie Ihre Zugangsdaten öffentlich zugänglich machen, kann dies zu einer Gefährdung Ihres Kontos führen, was zu unerwarteten Belastungen Ihres Kontos führen kann.",
             "API Key": "API-Schlüssel",
             "Name is required": "Name ist erforderlich",
             "Application name": "Anwendungsname"
@@ -379,11 +379,11 @@
             "Set Brightness" : "Helligkeit einstellen",
             "Set Power Level" : "Leistungsstufe einstellen",
             "Set to" : "Einstellen",
-            "Set mode to" : "Stellen Sie den Modus auf",
-            "Set color to" : "Stellen Sie Farbe auf ein",
+            "Set mode to" : "Modus einstellen auf",
+            "Set color to" : "Farbe einstellen auf",
             "Set volume to" : "Lautstärke einstellen auf",
             "Set mute" : "Stumm schalten",
-            "Set Thermostat Mode" : "Stellen Sie den Thermostatmodus ein",
+            "Set Thermostat Mode" : "Thermostatmodus einstellen",
             "Set Lock" : "Schlossposition auswählen",
             "Select Input" : "Eingang auswählen",
             "Change channel" : "Kanal wechseln",
@@ -406,7 +406,7 @@
             "Description" : "Beschreibung",
             "Devices" : "Geräte",
             "Device" : "Gerät",
-            "Test Scene" : "Testszene",
+            "Test Scene" : "Szene testen",
             "Action" : "Aktion",
             "Value" : "Wert",
             "Actions" : "Aktionen"
@@ -432,7 +432,7 @@
             "Daylight White" : "Tageslichtweiß",
             "Cool White" : "Kaltweiß",
             "Edit Template" : "Vorlage bearbeiten",
-            "Duplicate mode instance names are not allowed" : "Doppelte Instanz-Namen sind nicht zulässig.",
+            "Duplicate mode instance names are not allowed" : "Doppelte Modus-Instanz-Namen sind nicht zulässig.",
             "Duplicate range instance names are not allowed" : "Doppelte Bereichs-Instanz-Namen sind nicht zulässig.",
             "Only 2 Toggles capabilities are allowed" : "Es sind nur 2 Toggles-Fähigkeiten erlaubt",
             "Test" : "Test",
@@ -444,7 +444,7 @@
             "Heat" : "Heizen",
             "Eco" : "Eco",
             "Off" : "Aus",
-            "Set Point" : "Schwellwert",
+            "Set Point" : "Sollwert",
             "Basic Info" : "Grundsätzliche Informationen",
             "Capabilities" : "Eigenschaften",
             "Channels" : "Kanäle",
