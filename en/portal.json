@@ -17,6 +17,13 @@
    "Set to":"Set to",
    "Please Wait" : "Please Wait ..!",
    "Close" : "Close", 
+   "History": "History",
+   "Copied" : "copied!",
+   "Cancel" : "Cancel",
+   "From" : "From",
+   "To" : "To",
+   "1" : "1",
+   "2" : "2",   
    "pages":{ 
       "register":{ 
          "Creating Account":"Creating Account, Please Wait....",
@@ -24,13 +31,16 @@
          "Get started with":"Get started with 3 devices for free. No limitations.",
          "Data retention":"Data retention upto 1 month.",
          "Access logs":"Access logs upto 3 days.",
-         "If you need more devices":"If you need more devices, it's only $3 per device for a year. ",
+         "If you need more devices":"If you need more devices, it's only $3 per device for a year.",
+         "Yes there are discounts for bulk orders" : "Yes, there are discounts for bulk orders!",
          "Already have an account":"Already have an account ?",
          "Login":"Login",
          "Full name":"Full name",
          "Full name is required":"Full name is required",
          "Email":"Email",
          "Email is required":"Email is required",
+         "Confirm Email":"Confirm Email",
+         "Confirm email is required":"Confirm email is required",
          "Password":"Password",
          "Password is required":"Password is required",
          "Password must be at least 5 characters":"Password must be at least 5 characters",
@@ -40,10 +50,11 @@
          "Timezone is required":"Timezone is required",
          "Temperature Scale":"Temperature Scale",
          "Temperature Scale is required":"Temperature Scale is required",
-         "By clicking the":"By clicking the 'Register' button, you are creating a Register account, and you agree to Register's Terms of Use and Privacy Policy.",
+         "By clicking the":"By clicking the 'Register' button, you are creating an account and agreeing to our terms and conditions.",
          "Email Confirmation Required":"Email Confirmation Required",
          "We have sent an email":"We have sent an email with a confirmation link to your email address. If you do not receive a confirmation email",
-         "Please check your spam folder":"please check your spam folder."
+         "Please check your spam folder":"please check your spam folder.",
+         "Register" : "Register"
       },
       "forgotpassword":{ 
          "Forgot password":"Forgot password",
@@ -66,7 +77,7 @@
          "Username is required":"Username is required"
       },
       "dashboard":{ 
-         "Resend":"Resend",
+         "Resend":"Resend account confirmation link",
          "Waiting":"Waiting ...",
          "Turn On":"Turn On",
          "Turn Off":"Turn Off",
@@ -112,7 +123,9 @@
             "Mute":"Mute",
             "Unmute":"Unmute",
             "Volume":"Volume",
-            "Set volume":"Set Volume"
+            "Set volume":"Set Volume", 
+            "Pause" : "Pause",
+            "Play" : "Play"
          },
          "tv":{ 
             "Television is":"Television is"
@@ -124,7 +137,10 @@
             "Opened":"opened",
             "Closed":"closed",
             "Open":"Open",
-            "Close":"Close"
+            "Close":"Close",
+            "Today" : "Today",
+            "Yesterday" : "Yesterday",
+            "Last 7 days" : "Last 7 days"
          },
          "motion":{ 
             "Motion detected":"Motion detected!",
@@ -139,7 +155,8 @@
             "Set level":"Set Level",
             "Level 1":"1",
             "Level 2":"2",
-            "Level 3":"3"
+            "Level 3":"3",
+            "Fan Speed" : "Fan Speed"
          },
          "acUnit":{ 
             "AC is":"AC is",
@@ -156,7 +173,8 @@
             "Heat":"Heat",
             "Cool":"Cool",
             "Auto":"Auto",
-            "Off":"Off"
+            "Off":"Off",
+            "Eco":"Eco"
          },
          "doorbell":{ 
             "At":"at",
@@ -189,7 +207,13 @@
          },
          "One of your subscriptions has expired" : "One of your subscriptions has expired",
          "This device license has been expired": "This device license has been expired",
-         "Color Temperature" : "Color Temperature"
+         "Color Temperature" : "Color Temperature",
+         "Your account is unconfirmed. Unconfirmed accounts are deleted after a year" : "Your account is unconfirmed. Unconfirmed accounts are deleted after a year.",
+         "Erase Temperature History" : "Erase Temperature History",
+         "Are you sure you want to permanently erase all history data" : "Are you sure you want to permanently erase all historical data?",
+         "Alert" : "Alert",
+         "Confirm" : "Confirm",
+         "Are you sure you want to delete this": "Are you sure you want to delete this?"
       },
       "account":{ 
          "Subscriptions":"Subscriptions",
@@ -205,7 +229,19 @@
          "Close Account" : "Close Account",
          "Why are you closing your account" : "Why are you closing your account ?",
          "Reason is required" : "Reason is required",
-         "You can erase your data" : "You can erase your data, withdraw your consent, and restrict the processing of your personal information by clicking the 'Close Account' button. Doing so will permanently delete all of your personal data stored in your account. As a result, your account will be closed and no longer be available"
+         "You can erase your data" : "You can erase your data, withdraw your consent, and restrict the processing of your personal information by clicking the 'Close Account' button. Doing so will permanently delete all of your personal data stored in your account. As a result, your account will be closed and no longer be available",
+         "You must change your password for security reasons" : "You must change your password for security reasons",
+         "Change password" : "Change password",
+         "New Password" : "New Password",
+         "Old Password" : "Old Password",
+         "Password is required" : "Password is required",
+         "Confirm Password" : "Confirm Password",
+         "Confirm password is required" : "Confirm password is required",
+         "Update Password" : "Update Password",
+         "Password not match" : "Password not match",
+         "My Profile" : "My Profile",
+         "Must be at least 5 characters" : "Must be at least 5 characters.",
+         "Passwords must match" : "Passwords must match"
       },
       "devices":{ 
          "Add Device":"Add Device",
@@ -216,7 +252,6 @@
          "Device Information":"Device Information",
          "notifications" : {
             "Notifications" : "Notifications",
-            "Send a push notification" : "Send a push notification to my mobile",
             "When this device" :  "When this device",
             "Connect" : "Connect",
             "Disconnect" : "Disconnect",
@@ -230,7 +265,13 @@
             "When temperature" : "When temperature",
             "Rises above" : "Rises above",
             "Falls below" : "Falls below",
-            "When Air Quality PM2.5" : "When Air Quality (PM2.5)"
+            "When Air Quality PM2.5" : "When Air Quality (PM2.5)",
+            "Enable notifications for" : "Enable notifications for",
+            "Alerts" : "Alerts",
+            "Retrigger Time" : "Retrigger Time",
+            "The delay between one notification to another" : "The delay between one notification to another.",
+            "Minutes" : "minutes",
+            "Seconds" : "seconds"
          },
          "Code Download":"Code Download",
          "Device Name":"Device Name",
@@ -269,20 +310,21 @@
          "Camera is accessible only within your WiFi" : "Camera is only accessible within your WiFi network through our app.",
          "This device requires ESP SDK and Sinric Pro app" : "This device requires ESP SDK > v2.5.1 and Sinric Pro app > v2.6.1.",
          "Does not support Amazon Alexa or Google Home" : "Does not support Amazon Alexa or Google Home (yet!)",
-         "Amazon Alexa supports only en-US Amazon accounts" : "Amazon Alexa supports only en-US Amazon accounts",
+         "Amazon Alexa supported languages" : "Amazon Alexa supported languages: de-DE, en-GB, en-US, es-ES, fr-FR, and it-IT",
          "No Of Times Connected" : "No Of Times Connected",
          "Other" : "Other",
          "PIN for Google Home" : "PIN for Google Home",
          "We recommend using different App Key for different hardware modules" : "We recommend using different App Key for different hardware modules",
          "Your Device Id is" : "Your Device Id is",
          "Your device is ready to connect" : "Your device is ready to connect",
-         "Next Step" : "Next Step: Take a look at the examples to learn how to connect your development board",
+         "Next Step" : "Take a look at the examples and learn how to connect your development board to Sinric Pro",
          "Or try our automatic Code Generator" : "Or try our automatic Code Generator (Beta) for ESP8266-ESP32 SDK",
          "ESP8266-ESP32 Examples" : "ESP8266-ESP32 Examples",
          "Python Examples" : "Python Examples",
          "NodeJS Examples" : "NodeJS Examples",
          "Color Temperature" : "Color Temperature",
-         "The selected device type does not support Google Home yet" : "The selected device type does not support Google Home yet."
+         "The selected device type does not support Google Home yet" : "The selected device type does not support Google Home yet.",
+         "Utterances For Alexa and Google Home" : "Utterances For Alexa & Google Home"
       },
       "rooms":{ 
          "Add Room":"Add Room",
@@ -348,8 +390,26 @@
         "New Subscription" : "New Subscription",
         "Apply" : "Apply",
         "Use" : "Use",
-        "To get 10 precent discount" : "to get 10% discount when you buy 5 or more devices !",
-        "To get 15 precent discount" : "to get 15% discount when you buy 10 or more devices !"
+        "To get 10 precent discount" : "to get a 10% discount when you buy 5 or more!",
+        "To get 15 precent discount" : "to get a 15% discount when you buy 10 or more!",
+        "To get 20 precent discount" : "to get a 20% discount when you buy 20 or more!",
+        "To get 30 precent discount" : "to get a 30% discount when you buy 30 or more!",
+        "We accept" : "We accept",
+        "Pay" : "Pay",
+        "Cryptocurrency" : "For cryptocurrency or PayPal",
+        "We accept USDT" : "We accept USDT.",
+        "Contact us via" : "Contact us via support@sinric.com for details",
+        "Refund Policy" : "Refund Policy",
+        "Sorry this discount code is not applicable" : "Sorry, this discount code is not applicable",
+        "Discount Code is applied successfully" : "Discount Code is applied successfully",
+        "We have added a small discount" : "Thank you for renewing your subscription. We have added a small discount for your order :)",
+        "Reallocate" : "Reallocate",
+        "Available" : "Available",
+        "Select devices to assign to another subscription" : "Select devices to assign to another subscription",
+        "You do not have enough free devices in the selected subscription" : "You do not have enough free devices in the selected subscription",
+        "Invalid" : "Invalid!",
+        "We do not store your credit card information" : "We do not store your credit card information. You will be redirected to stripe.com to complete the payment",
+        "It looks like your payment is pending for this purchase" : "It looks like your payment is pending for this purchase. Once we received the confirmation from your bank, the devices will be added to your account! If you have any questions please contact us via support@sinric.com"
       },
       "schedules" : {
          "New Schedule" : "New Schedule",
@@ -398,7 +458,11 @@
          "Invalid minute" : "Invalid minute",
          "from" : "From",
          "to" : "To",
-         "Cloud based scheduling" : "Cloud-based scheduling."
+         "Cloud based scheduling" : "Cloud-based scheduling.",
+         "Enable Schedule" : "Enable Schedule",
+         "Hour 24-hrs" : "Hour (24-hrs)",
+         "Minute" : "Minute",
+         "Invalid input" : "Invalid input"
       },
       "scenes" : {
          "New Scene" : "New Scene",
@@ -508,7 +572,7 @@
          "The energy the device consumes" : "The energy the device consumes while turned off, or in standby mode.",
          "The typical energy the device consumes while turned on" : "The typical energy the device consumes while turned on",
          "Alexa en-US Only" : "Alexa en-US language only. It takes few hours to reflect the usage details in the Alexa app.",
-         "Supports only Alexa"  : "Supports only Amazon Alexa, Sinric Pro app. Google Home and SmartThings support coming soon!",
+         "Supports only Alexa"  : "Supports only Amazon Alexa and Sinric Pro app. Google Home and SmartThings support coming soon!",
          "Coming soon to Sinric Pro app" : "Coming soon to Sinric Pro app",
          "Input mode" : "Input mode",
          "Estimate the energy usage of this device" : "Estimate the energy usage of this device",
@@ -539,7 +603,8 @@
          "Export Template" : "Export Template",
          "Import Template" : "Import Template",
          "Please do not modify the contents" : "Please do not modify the contents",
-         "Invalid Template" : "Invalid Template"
+         "Invalid Template" : "Invalid Template",
+         "Create a new device type" : "Create a new device type"
       },
       "energyestimates" : {
          "Energy estimates" : "Energy estimates",
@@ -552,6 +617,45 @@
          "Total Consumption" : "Total Consumption",
          "Used" : "Used",
          "times" : "times"
+      },
+      "nocode" : {
+         "Please select one or more devices" : "Please select one or more devices!",
+         "Please enter GPIO pins" : "Please enter GPIO pins",
+         "Zero Code" : "Zero Code",
+         "Generate code. No more code writing" : "No more code writing! Generate code for ESP8266 or ESP32",
+         "Devices" : "Devices",
+         "GPIOs" : "GPIOs",
+         "Buttons" : "Buttons",
+         "No buttons connected" : "No button(s) connected",
+         "Has tactile buttons connected" : "Has tactile button(s) connected",
+         "Has switch buttons connected" : "Has switch button(s) connected",
+         "Device Name" : "Device Name",
+         "Relay GPIO" : "Relay GPIO",
+         "Button GPIO" : "Button GPIO",
+         "WiFi Name" : "WiFi Name",
+         "WiFi Password" : "WiFi Password",
+         "Enable SDK logs" : "Enable SDK logs",
+         "Restore Last Known State When Connect" : "Restore the last known state from the server when the device connected",
+         "Your WiFi credentials are NOT stored on our server" : "Your WiFi credentials are NOT stored on our server!",
+         "Download" : "Download",
+         "Different AppKey devices are not supported" : "Different AppKey devices are not supported !",
+         "Check out our Zero Code feature to generate the code for this device" : "Check out our Zero Code feature to generate the code for this device for ESP8266 or ESP32",
+         "Create a device to begin" : "Create a device to begin !",
+         "Active Low" : "Active Low",
+         "Different device type selections are not supported" : "Different device type selections are not supported!",
+         "Only a single device selection is allowed for the selected device type" : "Only a single device selection is allowed for the selected device type!",
+         "GPIO Pin mapping is not necessary" : "GPIO Pin mapping is not necessary",
+         "Motion Sensor Type" : "Motion Sensor Type",
+         "Contact Sensor Type" : "Contact Sensor Type",
+         "Temperature Sensor Type" : "Temperature Sensor Type",
+         "Build and Flash.BETA" : "Build and Flash (BETA)",
+         "Make sure your ESP board is in flashing mode before you start" : "Please make sure your ESP board drivers are installed and it is in flashing/download mode before you click on the start button",
+         "Close" : "Close",
+         "Start" : "Start",
+         "Web Serial API not supported" : "Your browser does not support Web Serial API",
+         "Chip Family" : "Chip Family",
+         "Magnetic Contact Switch" : "Magnetic Contact Switch",
+         "Tactile button" : "Tactile button"
       }
    },
    "sidemenu":{ 
@@ -569,7 +673,8 @@
       "Subscriptions":"Subscriptions",
       "Scenes" : "Scenes",
       "Device Templates" : "Device Templates",
-      "Energy estimates" : "Energy Estimates"
+      "Energy estimates" : "Energy Estimates",
+      "Zero Code" : "Zero Code"
    },
    "apiintegrations" : {
        "You can find the API" : "You can find the API Key under the Documentation link in the top right of the",
@@ -577,11 +682,12 @@
        "Sinric Pro is compatible with Samsung SmartThings" : "Sinric Pro is compatible with Samsung SmartThings.",
        "All your Sinric Pro devices linked" : "All your Sinric Pro devices linked through SmartThings can be controller via Google Home as well.",
        "You can find Sinric Pro under Add Device" : "You can find Sinric Pro under Add Device -> By Brand in the SmartThings app",
-       "More infomation" : "More infomation"
+       "More infomation" : "More infomation",
+       "Now you can receive commands from Alexa Google Home or SmartThings in NodeRED" : "Now you can receive commands from Alexa, Google Home, or SmartThings in Node-RED via Sinric Pro"
    },
    "header":{ 
       "Tutorials":"Tutorials",
       "API Documentation":"API Documentation",
-      "Blog" : "Blog"
+      "Feature Requests" : "Feature Requests"
    }
 }
